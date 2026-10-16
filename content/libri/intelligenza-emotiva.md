@@ -79,7 +79,7 @@ Nel 1990 due psicologi, Peter Salovey e John Mayer, coniarono l'espressione "int
 
 **💬 CITAZIONI DA RICORDARE**
 Le frasi da mandare a memoria:
-- «In a very real sense we have two minds, one that thinks and one that feels.» — Daniel Goleman. «In un senso molto reale abbiamo due menti, una che pensa e una che sente»: ignorare la seconda non ti rende razionale, ti rende cieco.
+- «In a very real sense we have two minds, one that thinks and one that feels.» — Daniel Goleman. Ignorare la seconda non ti rende razionale, ti rende cieco.
 - Il principio da ricordare: l'amigdala scatta prima della corteccia — tra stimolo e risposta c'è sempre uno spazio, e in quello spazio vive tutta l'intelligenza emotiva.
 **🌍 ESEMPI DI OGGI**
 Tre situazioni dove l'intelligenza emotiva batte il quoziente intellettivo:

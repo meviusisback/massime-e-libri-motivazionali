@@ -75,8 +75,8 @@
 
 **💬 CITAZIONI DA RICORDARE**
 Le frasi che contengono la scoperta del libro:
-- «We've spent 10 years analyzing 35,000 sales transactions.» — Neil Rackham (cap. 1, p. 3). «Abbiamo passato 10 anni ad analizzare 35.000 trattative di vendita»: questo libro non predica, misura.
-- «Research has an inconvenient way of coming up with evidence that the researchers sometimes wish they'd never found.» — Neil Rackham (cap. 1, p. 4). «La ricerca ha il fastidioso vizio di trovare prove che i ricercatori preferirebbero non aver mai trovato»: cercava di confermare le tecniche classiche, e i dati le hanno smentite.
+- «We've spent 10 years analyzing 35,000 sales transactions.» — Neil Rackham (cap. 1, p. 3). Questo libro non predica, misura.
+- «Research has an inconvenient way of coming up with evidence that the researchers sometimes wish they'd never found.» — Neil Rackham (cap. 1, p. 4). Cercava di confermare le tecniche classiche, e i dati le hanno smentite.
 **🌍 ESEMPI DI OGGI**
 Tre situazioni dove le domande SPIN battono il pistolotto:
 - **Proporre un progetto al capo.** Invece di partire con la soluzione ("servirebbe un nuovo software"), fai emergere il problema: "quanto tempo perdiamo ogni mese a rifare i report a mano?" (Problema), "e cosa ci costa in straordinari?" (Implicazione). A quel punto è lui a chiederti la soluzione.

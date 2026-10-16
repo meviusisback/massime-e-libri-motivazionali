@@ -87,8 +87,8 @@ Dale Carnegie (1888–1955), lo stesso di *Come trattare gli altri e farseli ami
 
 **💬 CITAZIONI DA RICORDARE**
 Le frasi da mandare a memoria:
-- «Our fatigue is often caused not by work, but by worry, frustration and resentment.» — Dale Carnegie. «La nostra stanchezza spesso non è causata dal lavoro, ma da preoccupazione, frustrazione e risentimento»: riposa la mente, non solo il corpo.
-- «Live in day-tight compartments.» — il concetto-chiave del libro (cap. 1). «Vivi in scomparti a tenuta di giorno»: passato e futuro restano fuori, oggi si vive un giorno alla volta.
+- «Our fatigue is often caused not by work, but by worry, frustration and resentment.» — Dale Carnegie. Riposa la mente, non solo il corpo.
+- «Live in day-tight compartments.» — il concetto-chiave del libro (cap. 1). Passato e futuro restano fuori, oggi si vive un giorno alla volta.
 **🌍 ESEMPI DI OGGI**
 Tre situazioni dove il metodo Carnegie disinnesca la preoccupazione:
 - **La visita medica di controllo.** Nei giorni prima la mente costruisce scenari neri. Carnegie direbbe: raccogli i fatti (che probabilità ci sono davvero? cosa ha detto il medico l'ultima volta?), decidi il da farsi, poi chiudi lo scomparto e vivi la giornata di oggi.

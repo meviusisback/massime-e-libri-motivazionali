@@ -77,8 +77,8 @@
 
 **💬 CITAZIONI DA RICORDARE**
 Le frasi da mandare a memoria:
-- «Ideas are the currency of the twenty-first century.» — Carmine Gallo. «Le idee sono la moneta del XXI secolo»: ma diventano capitale solo se sai raccontarle.
-- «Stay hungry, stay foolish.» — Steve Jobs, Stanford 2005 (il discorso citato nel libro come esempio perfetto). «Siate affamati, siate folli»: passione e storia personale, in 15 minuti che il mondo ricorda ancora.
+- «Ideas are the currency of the twenty-first century.» — Carmine Gallo. Le idee diventano capitale solo se sai raccontarle.
+- «Stay hungry, stay foolish.» — Steve Jobs, Stanford 2005 (il discorso citato nel libro come esempio perfetto). Passione e storia personale, in 15 minuti che il mondo ricorda ancora.
 **🌍 ESEMPI DI OGGI**
 Tre situazioni dove parlare "come al TED" cambia tutto:
 - **La riunione del lunedì.** Invece di 20 slide piene di testo, apri con una storia di 60 secondi ("venerdì un cliente ci ha detto che..."), poi un solo numero e una sola richiesta. La gente ricorda le storie, non gli elenchi.
