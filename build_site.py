@@ -14,11 +14,15 @@ BOOKS = [(e['slug'], e['title'], e['author'], e['date'], e['topic'],
 
 SEC_META = {  # chiave nel titolo md -> (icona, etichetta, livello)
  'MASSIMA': ('💬', 'La massima', 'hero'),
- 'COMMENTO': ('🔍', 'Commento', 'body'),
+ 'COMMENTO': ('💬', 'La massima', 'hero'),
+ 'COME SI LEGGE': ('💬', 'La massima', 'hero'),
+ 'COSA VUOLE DIRE': ('💬', 'La massima', 'hero'),
+ 'CHI ERA': ('👤', 'Biografia', 'side'),
  'BIOGRAFIA': ('👤', 'Biografia', 'side'),
- 'VITA': ('👤', 'La vita', 'side'),
+ 'MOVIMENTI': ('⌛', 'Contesto storico', 'minor'),
+ 'PERCHÉ CONTA': ('🧭', 'Introduzione', 'body'),
+ 'VUOI APPROFONDIRE': ('💬', 'Approfondimento in chat', 'minor'),
  'BIO IN BREVE': ('👤', 'Biografia', 'side'),
- 'COME SI LEGGE': ('🔍', 'Commento', 'body'),
  'SINTESI': ('📌', 'Sintesi del pensiero', 'key'),
  'CONTESTO': ('⌛', 'Contesto storico', 'minor'),
  'QUIZ': ('🧠', 'Quiz', 'quiz'),
@@ -140,6 +144,38 @@ def render_quiz_from_lines(lines):
         i = j if j > i + 1 else i + 1
     return '\n'.join(out)
 
+KEY_ALIAS = {'COMMENTO': 'MASSIMA', 'COME SI LEGGE': 'MASSIMA',
+             'COSA VUOLE DIRE': 'MASSIMA', 'MOVIMENTI': 'CONTESTO',
+             'PERCHÉ CONTA': 'INTRODUZIONE', 'VUOI APPROFONDIRE': 'APPROFONDIMENTO IN CHAT',
+             'CHI ERA': 'BIOGRAFIA', 'BIO IN BREVE': 'BIOGRAFIA'}
+
+def match_key(title):
+    """Chiave canonica di una intestazione. I titoli numerati (sotto-schede
+    dei concetti) usano solo frasi strutturali lunghe, mai singole parole
+    che possono comparire in un titolo qualsiasi (es. 'vita', 'frase')."""
+    up = (title or '').strip().upper()
+    plain = re.sub(r'^[^\w]+', '', (title or '').strip()).upper()
+    if plain == 'LA VITA':
+        return 'BIOGRAFIA'
+    if re.match(r'^\d+[.\)]', up):
+        if 'ESEMPI DI OGGI' in up:
+            return 'ESEMPI DI OGGI'
+        if 'APPLICAZIONE PRATICA' in up:
+            return 'APPLICAZIONE'
+        if 'DA PORTARE A CASA' in up:
+            return 'DA PORTARE A CASA'
+        if 'APPROFONDIMENTO' in up:
+            return 'APPROFONDIMENTO IN CHAT'
+        if 'CONCETTI' in up and ('CHIAVE' in up or 'PORTARE' in up or 'CASA' in up):
+            return 'CONCETTI'
+        for k in ['INTRODUZIONE', 'RIASSUNTO', 'ESPANSIONE', 'QUIZ', 'SOLUZIONI',
+                  'RIPASSO', 'MASSIMA', 'SINTESI', 'CONTESTO', 'BIOGRAFIA']:
+            if k in up:
+                return k
+        return 'ALTRO'
+    _k = next((k for k in SEC_META if k in up), 'ALTRO')
+    return KEY_ALIAS.get(_k, _k)
+
 def parse_sections(raw):
     """Divide il markdown in (chiave, titolo_originale, righe).
     Scarta i percorsi dei ritratti e unisce sezioni duplicate."""
@@ -158,13 +194,25 @@ def parse_sections(raw):
             continue
         if re.match(r'^\(Ritratto[^)]*\)$', s):
             continue
+        if re.match(r'^-{3,}\s*$', s):
+            continue
+        if re.match(r'^\*.*(Wikimedia|Commons|pubblico dominio|Incisione|Ritratto).*\*$', s):
+            continue
         m = re.match(r'^(?:\S+\s+)?\*\*(.+?)\*\*\s*$', s)
         h = re.match(r'^#{2,}\s+(.*)', s)
         if m or h:
             flush()
             title = (m.group(1) if m else h.group(1)).strip()
+            # riga di sole risposte (es. "1B · 2C · 3A") -> si fonde nelle soluzioni
+            if re.match(r'^[1-5][A-E](\s*[·•.,;]\s*[1-5][A-E])+\s*$', title):
+                cur_key, cur_title, buf = 'SOLUZIONI', 'Soluzioni', [title]
+                continue
+            # titolo che è già una citazione -> si fonde nella massima
+            if re.match(r'^[«"“]', title):
+                cur_key, cur_title, buf = 'MASSIMA', 'La massima', ['> ' + title]
+                continue
             up = title.upper()
-            cur_key = next((k for k in SEC_META if k in up), 'ALTRO')
+            cur_key = match_key(title)
             cur_title, buf = title, []
         else:
             buf.append(ln)
@@ -329,6 +377,20 @@ SHELL = '''<!DOCTYPE html>
 </body>
 </html>'''
 
+FILO_RANK = {'MASSIMA': 0, 'SINTESI': 1, 'CONTESTO': 2, 'ESEMPI DI OGGI': 3,
+             'ESEMPI': 3, 'QUIZ': 4, 'SOLUZIONI': 5, 'RIPASSO': 6}
+LIBRI_RANK = {'INTRODUZIONE': 0, 'RIASSUNTO': 1, 'CONCETTI': 2, 'ESPANSIONE': 3,
+              'ESEMPI DI OGGI': 4, 'ESEMPI': 4, 'APPLICAZIONE': 5, 'AZIONI': 5,
+              'FRASE': 6, 'DA PORTARE A CASA': 6, 'APPROFONDIMENTO IN CHAT': 7}
+
+def rank_of(kind, key, title):
+    if key in (None, 'ALTRO'):
+        if re.match(r'^\d+[.\)]', (title or '').strip()):
+            return 3 if kind == 'libri' else 9
+        return 9
+    table = FILO_RANK if kind == 'filosofi' else LIBRI_RANK
+    return table.get(key, 9)
+
 def detail_page(kind, slug, title, sub, date, img, img_cap, quote, chips, raw):
     d = date
     datestr = f'{d[6:8]}/{d[4:6]}/{d[:4]}'
@@ -353,14 +415,19 @@ def detail_page(kind, slug, title, sub, date, img, img_cap, quote, chips, raw):
         h = section_html(key, t or '', buf, kind == 'libri')
         if not h.strip():
             continue
+        txt_all = re.sub(r'<[^>]+>', '', h).strip()
         if key in (None, 'ALTRO'):
-            txt = re.sub(r'<[^>]+>', '', h)
-            if len(txt.strip()) < 150:
+            if len(txt_all) < 150:
                 continue
-        if key in ('BIOGRAFIA', 'BIO IN BREVE', 'VITA') and kind == 'filosofi':
-            aside_extra.append(h)
+        if key == 'ESPANSIONE' and len(txt_all) < 150:
+            continue
+        if key in ('BIOGRAFIA', 'BIO IN BREVE', 'VITA', 'CHI ERA') and kind == 'filosofi':
+            aside_extra.append((0, h))
         else:
-            main.append(h)
+            main.append((rank_of(kind, key, t), h))
+    main.sort(key=lambda x: x[0])
+    main = [h for _, h in main]
+    aside_extra = [h for _, h in aside_extra]
     crumb = (f'<p class="crumb"><a href="../index.html">Home</a> / '
              f'<a href="./">{"Filosofi" if kind == "filosofi" else "Libri"}</a> / {H.escape(title)}</p>')
     body = f'''{crumb}

@@ -40,7 +40,7 @@ Impara il latino nella scuola del libertino Franciscus van den Enden, si guadagn
 **Gli ultimi anni.** Nel **1675** rinuncia a far stampare l'*Etica* per le urla dei teologi; nel 1676 riceve la visita di Leibniz. Muore a L'Aia il **21 febbraio 1677**, a 44 anni, forse di tubercolosi aggravata dalla polvere di vetro, senza testamento: qualche mese dopo gli amici pubblicano i suoi manoscritti negli *Opera posthuma*.
 Carattere: metodico, parco, restio ai compromessi, capace di una pazienza quasi artigianale — e al tempo stesso violento nella scrittura. La leggenda del «santo ateo» lucido e senza passioni, tramandata dalla biografia di Colerus, è in parte una costruzione: quello che lo tiene in piedi non è la mancanza di affetti, ma la volontà di intenderli.
 
-**SINTESSI DEL PENSIERO**
+**SINTESI DEL PENSIERO**
 - **Dio sive Natura:** un'unica sostanza infinita, di cui noi siamo *modi*; Dio non è una persona fuori dal mondo, è l'immanente ordine della natura (l'*Etica* lo dimostra geometricamente, partendo dalle definizioni).
 - **Critica delle cause finali:** la natura non fa nulla per uno scopo; l'idea che tutto sia stato fatto «per noi» è la radice di ogni superstizione.
 - **Conatus:** ogni cosa persevera nel proprio essere; è l'essenza stessa di ciascun ente e il germe di tutti gli affetti.
