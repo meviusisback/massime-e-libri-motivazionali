@@ -62,6 +62,11 @@ La **Stoa romana** — Seneca, Epitteto, Marco Aurelio — è la filosofia che c
 
 ---
 
+**🌍 ESEMPI DI OGGI**
+Tre situazioni per allenare la distinzione tra ciò che dipende da noi e ciò che non dipende:
+- **Il traffico dell'ora di punta.** La coda non dipende da te; strombazzare e innervosirti non la scioglie. Dipende da te partire dieci minuti prima, scegliere un podcast, respirare. Epitteto direbbe: soffri non per la coda, ma per il giudizio "dovrebbe scorrere".
+- **Il voto all'esame.** L'impegno quotidiano dipende da te; la difficoltà dei temi e l'umore del professore no. Chi punta solo sul voto vive in ansia; chi punta sul prepararsi bene dorme meglio — e di solito prende anche voti migliori.
+- **Il commento cattivo online.** Qualcuno scrive che il tuo lavoro "fa schifo". Non controlli le sue parole, controlli solo l'assenso che gli dai: puoi leggerlo, valutare se contiene un'osservazione utile e passare oltre, invece di portartelo a letto.
 ### 🎓 Il quiz del giorno
 Rispondi qui in chat con una stringa tipo **1B 2A 3C 4B 5A** — poi ti do il punteggio e il ripasso mirato!
 

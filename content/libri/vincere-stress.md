@@ -85,6 +85,11 @@ Dale Carnegie (1888–1955), lo stesso di *Come trattare gli altri e farseli ami
 *Errore comune*: il positivo forzato che nega i fatti. Non si tratta di fingersi sereni, ma di scegliere pensieri che portano a un'azione.
 *Collegamento*: Aaron Beck e la terapia cognitiva (tra evento ed emozione c'è sempre un pensiero); Carol Dweck, *Mindset*.
 
+**🌍 ESEMPI DI OGGI**
+Tre situazioni dove il metodo Carnegie disinnesca la preoccupazione:
+- **La visita medica di controllo.** Nei giorni prima la mente costruisce scenari neri. Carnegie direbbe: raccogli i fatti (che probabilità ci sono davvero? cosa ha detto il medico l'ultima volta?), decidi il da farsi, poi chiudi lo scomparto e vivi la giornata di oggi.
+- **La mail di lavoro arrivata alle 22.** "Cosa vorrà? Ho sbagliato qualcosa?" — la preoccupazione lavora di notte e rovina il sonno. La mossa giusta: decidere quando occuparsene (domani alle 9) e fino ad allora trattarla come un problema "chiuso nello scomparto di domani".
+- **L'acquisto importante.** Auto o cucina nuova: notti a confrontare modelli e opinioni. Il metodo dei fatti — budget scritto nero su bianco, tre requisiti non negoziabili, decisione entro una data — taglia metà dell'ansia, perché la preoccupazione prospera nell'indecisione, non nei fatti.
 ## Applicazione pratica: 3 azioni per questa settimana
 
 1. **Il foglio del peggio** (fallo 2 volte): "Cosa temo? / Peggio che può succedere / Lo accetterei? / Cosa faccio per migliorarlo" — poi decidi e agisci entro 24 ore.

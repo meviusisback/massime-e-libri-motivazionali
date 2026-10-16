@@ -31,6 +31,8 @@ SEC_META = {  # chiave nel titolo md -> (icona, etichetta, livello)
  'APPLICAZIONE': ('🛠️', 'Azioni pratiche', 'key'),
  'AZIONI': ('🛠️', 'Azioni pratiche', 'key'),
  'FRASE': ('💬', 'Frase finale', 'hero'),
+ 'ESEMPI DI OGGI': ('🌍', 'Esempi di oggi', 'key'),
+ 'ESEMPI': ('🌍', 'Esempi di oggi', 'key'),
  'DA PORTARE A CASA': ('💎', 'Da portare a casa', 'hero'),
  'APPROFONDIMENTO IN CHAT': ('💬', 'Approfondimento in chat', 'minor'),
 }

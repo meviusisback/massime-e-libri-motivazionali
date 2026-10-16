@@ -67,6 +67,11 @@ Cialdini è uno psicologo sociale che ha passato anni "in incognito" dentro vend
 - **Errore comune:** scarsità artefatta ripetuta nel tempo — brucia la fiducia e rende vuote le offerte vere; e rimandare una decisione solo per paura di perdere, senza valutarne il valore reale.
 - **Collegamento:** l'avversione alla perdita di Kahneman e Tversky, e *Pre-Suasion* dello stesso Cialdini — preparare il terreno *prima* della richiesta.
 
+**🌍 ESEMPI DI OGGI**
+Tre situazioni dove i principi di Cialdini ti pescano ogni giorno — riconoscerli è già difendersi:
+- **"Solo 2 rimasti!" sull'e-commerce.** La scarsità fa scattare la paura di perdere l'occasione e spegne il confronto ("mi serve davvero? lo trovo altrove?"). La difesa è la domanda di Cialdini: "lo vorrei allo stesso modo se ce ne fossero cento?".
+- **Le recensioni del ristorante.** Migliaia di recensioni positive valgono più di qualsiasi pubblicità: è la prova sociale. Funziona anche al contrario — diffida dei locali con 50 recensioni tutte da 5 stelle scritte nello stesso mese.
+- **L'assaggio al supermercato.** Il cubetto di formaggio offerto all'ingresso non è gentilezza: è reciprocità. Dopo aver accettato un dono, comprare sembra quasi un dovere. Saperlo non rovina il formaggio — rende libera la scelta.
 **Applicazione pratica: 3 azioni per questa settimana**
 1. **Difesa:** per tre giorni tieni un "diario del sì": annota ogni richiesta a cui hai detto sì e quale dei sei principi era in gioco.
 2. **Offensiva:** scegli una richiesta che devi fare (a un collega, a un cliente) e preparala con due leve: offri prima qualcosa di utile (reciprocità), poi chiedi un primo piccolo sì (impegno).

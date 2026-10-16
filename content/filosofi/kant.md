@@ -44,6 +44,11 @@ Movimenti che ha *trasmesso*: l'idealismo tedesco (Fichte, Schelling, Hegel, che
 
 **L'eredità novecentesca.** In parte l'esistenzialismo (Kierkegaard e i successori reagiscono proprio all'«etica kantiana»), l'etica deontologica del Novecento (Rawls, Habermas e la scuola di Francoforte), e l'idea stessa di diritti umani universali come si legge nella *Dichiarazione dei diritti dell'uomo* del 1789.
 
+**🌍 ESEMPI DI OGGI**
+Tre situazioni dove la legge morale "dentro di noi" si fa sentire:
+- **Il portafoglio trovato.** Nessuno ti ha visto raccoglierlo, dentro ci sono 200 euro. Tenerli sarebbe comodo e invisibile — eppure quasi tutti sentono una voce che dice di cercare il proprietario. Quella voce, per Kant, è la ragione che detta legge a se stessa.
+- **La fila alle poste.** Saltare avanti con una scusa sarebbe vantaggioso, ma rovina la regola che vale per tutti. Agire moralmente significa chiedersi: "e se lo facessero tutti?". Se la risposta distrugge la fila, non lo fai.
+- **La verità scomoda al lavoro.** Dire al capo che il suo piano ha un buco può costare caro; tacere è più comodo. Kant direbbe che la dignità sta nel dire il vero anche quando non conviene — perché trattare gli altri (e sé stessi) come fini, non come mezzi, non ammette sconti.
 **🧠 Quiz — rispondi in chat**
 Rispondi con es. `1B 2A 3C 4B 5A`.
 

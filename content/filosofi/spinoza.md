@@ -71,6 +71,11 @@ Spinoza vive nella Repubblica olandese del Seicento, potenza commerciale e centr
 - il **pragmatismo** (1890–1910: William James), che riprende la concezione degli affetti come variazioni di potere;
 - la **filosofia dell'immanenza del Novecento** (1960–1990: Deleuze, Negri), che fa del conatus e dell'espressione il cuore dell'ontologia.
 
+**🌍 ESEMPI DI OGGI**
+Tre situazioni dove "comprendere invece di giudicare" cambia la giornata:
+- **Il collega che non risponde.** Prima reazione: "mi ignora di proposito". Comprenderlo invece significa chiedersi le cause: riunioni a raffica, un capo che preme, un figlio malato. Il fastidio resta, ma smette di essere un'offesa personale.
+- **La lite sui social.** Un commento aggressivo sotto un post invita a deridere o detestare. Spinoza suggerirebbe di leggerlo come un fenomeno naturale: dietro c'è spesso stanchezza, solitudine o il bisogno di esistere. Non devi dargli ragione — devi smettere di farti trascinare.
+- **Il brutto voto di un figlio.** Detestare la pigrizia o lamentarsi del professore non spiega nulla. Capire le cause (metodo di studio sbagliato, ansia, troppe ore sul telefono) è l'unico punto di partenza che cambia davvero il prossimo voto.
 **QUIZ — 5 DOMANDE**
 Rispondi in chat con la sequenza completa, es. `1B 2A 3C 4D 5A`.
 

@@ -41,6 +41,11 @@ Agostino nasce il 13 novembre 354 a Tagaste, nell'Africa romana (l'odierna Souk 
 
 **Il momento:** il IV-V secolo è il crollo del mondo antico — cristianesimo imposto come religione di stato (380), sacco di Roma (410), invasioni vandaliche. La *Città di Dio* nasce per rispondere a chi incolpa il cristianesimo di quella catastrofe.
 
+**🌍 ESEMPI DI OGGI**
+Tre situazioni dove il tempo interiore di Agostino si riconosce:
+- **Le foto di dieci anni fa.** Guardarle commuove perché il passato vive solo nella memoria — e la memoria la abitiamo adesso, nel presente. La nostalgia non è un viaggio indietro: è il presente che si ricorda.
+- **La domenica sera con le notifiche spente.** Un'ora senza telefono, a camminare o a leggere, restituisce la sensazione di "avere tempo". Agostino direbbe che il tempo non si trova fuori (nell'agenda piena) ma dentro, nell'attenzione che gli dedichiamo.
+- **Cambiare un'abitudine.** Smettere di fumare o rimettersi a studiare a quarant'anni sembra impossibile finché non scatta qualcosa dentro — la stessa "conversione" di Agostino in versione quotidiana: non basta sapere cosa è giusto, bisogna volerlo con tutta la volontà, e quel momento arriva spesso all'improvviso, dopo anni di tentativi.
 ## 📝 Quiz — rispondi in chat
 
 Rispondi con es. **1B 2A 3C 4A 5D**

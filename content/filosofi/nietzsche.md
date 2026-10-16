@@ -41,6 +41,11 @@ Nato a Röcken il 15 ottobre 1844, figlio di un pastore luterano; morto a Weimar
 - Ha trasmesso: il vitalismo (Dilthey, Bergson), l'esistenzialismo (Jaspers, Heidegger, Sartre, Camus), il post-strutturalismo e la filosofia della differenza (Foucault, Deleuze, Derrida).
 - Un fraintendimento da smontare: la sorella Elisabeth Förster-Nietzsche, sposa di un antisemita convinto, curò l'archivio e pubblicò compilazioni postume (*La volontà di potenza*, 1901) piegandole in senso nazionalista e antisemita — idee che Nietzsche disprezzava apertamente nei suoi appunti.
 
+**🌍 ESEMPI DI OGGI**
+Tre situazioni dove "ciò che non uccide rende più forti" si vede all'opera — con un'avvertenza onesta: vale per le difficoltà che si possono affrontare, non per le tragedie:
+- **La bocciatura a un esame.** Il dolore brucia, ma chi lo usa per cambiare metodo (meno riassunti copiati, più esercizi, un gruppo di studio) arriva al secondo tentativo più solido. Non è il fallimento a formare: è quello che ci costruisci sopra.
+- **La fine di una relazione.** Dopo settimane difficili, molti scoprono di saper stare da soli, di avere amici veri, di conoscere meglio i propri confini. La ferita non era "utile", ma attraversarla ha lasciato una persona più consapevole.
+- **I primi mesi di corsa.** All'inizio ogni uscita è una fatica; dopo tre mesi gli stessi chilometri sembrano facili. Il corpo non è cambiato per magia: si è adattato allo sforzo. Nietzsche direbbe che è così anche per il carattere.
 🧠 **Quiz: 5 domande**
 
 Rispondi pure in chat con la combinazione, es. 1B 2A 3C 4B 5C.

@@ -75,6 +75,11 @@
 - *Errore comune:* copiare ritmo, frasi e gesti di un oratore che ammiri: il risultato suona "quasi giusto", e il pubblico percepisce lo straniamento prima ancora di saperlo dire.
 - *Collegamento:* Brené Brown e la vulnerabilità come origine della connessione; in termini di Cialdini, la simpatia nasce dalla somiglianza autentica, non dalla performance.
 
+**🌍 ESEMPI DI OGGI**
+Tre situazioni dove parlare "come al TED" cambia tutto:
+- **La riunione del lunedì.** Invece di 20 slide piene di testo, apri con una storia di 60 secondi ("venerdì un cliente ci ha detto che..."), poi un solo numero e una sola richiesta. La gente ricorda le storie, non gli elenchi.
+- **Il colloquio di lavoro.** Alla domanda "mi parli di lei", i candidati recitano il curriculum. Chi invece racconta la propria passione ("quello che mi fa alzare la mattina è...") e la lega a un risultato concreto resta impresso — è il primo segreto di Gallo: scatena il maestro che è in te.
+- **Il brindisi a un matrimonio.** Tre minuti, un aneddoto vero sugli sposi, una frase sul futuro, stop. Breve, personale, provato ad alta voce una volta: applausi garantiti, a differenza del discorso improvvisato di un quarto d'ora.
 **🗓️ Applicazione pratica: 3 azioni entro la settimana**
 1. Scegli una presentazione reale che hai nei prossimi 7 giorni (riunione, pitch, update) e trattala come un mini-TED: scrivi in tre righe cosa ti riguarda davvero e falla aprire il discorso.
 2. Riscrivi la scaletta in tre blocchi — una storia personale, due dati, una credenziale — e cancella almeno il 40% del testo in slide (Gallo consiglia di restare sotto le 40 parole nelle prime dieci slide).

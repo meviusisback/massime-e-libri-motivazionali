@@ -73,6 +73,11 @@
 - **Errore comune**: provare tutto il modello dalla prima chiamata e sul cliente più importante, per poi mollare al primo inciampo.
 - **Collegamento**: la pratica deliberata di Anders Ericsson (ripetizione mirata con feedback batte la quantità bruta) e *Atomic Habits* di James Clear: la ripetizione diventa identità.
 
+**🌍 ESEMPI DI OGGI**
+Tre situazioni dove le domande SPIN battono il pistolotto:
+- **Proporre un progetto al capo.** Invece di partire con la soluzione ("servirebbe un nuovo software"), fai emergere il problema: "quanto tempo perdiamo ogni mese a rifare i report a mano?" (Problema), "e cosa ci costa in straordinari?" (Implicazione). A quel punto è lui a chiederti la soluzione.
+- **Dal commesso che non interroga.** "Cerco un telefono" → "ecco il modello X, 800 euro". Il bravo venditore chiede prima: "cosa ci fa soprattutto? foto? batteria?". Chi fa domande vende il telefono giusto; chi spara caratteristiche vende solo il prezzo.
+- **Il preventivo del freelance.** Il cliente dice "costa troppo". Invece di difendere il prezzo, torna alle domande: "rispetto a cosa? cosa succede se il sito resta così per altri sei mesi?". Se il bisogno diventa esplicito, il prezzo smette di essere un'obiezione.
 ## Applicazione pratica: 3 azioni per la settimana
 - **Prepara tre domande SPIN** per la tua prossima riunione o chiamata (una di problema, una di implicazione, una di esigenza) e leggile *prima* dell'incontro, non durante.
 - **Riscrivi tre feature in benefici**: tre cose che dici o offri, trasformate nella forma "per te che hai detto di X, questo significa Y".

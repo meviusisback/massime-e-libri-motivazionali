@@ -88,6 +88,11 @@ Un "cigno nero" è un frammento innocuo di informazione, ignoto a entrambe le pa
 
 ---
 
+**🌍 ESEMPI DI OGGI**
+Tre situazioni dove le tecniche di Voss funzionano fuori dalle rapine:
+- **Chiedere un aumento.** Invece di elencare meriti, etichetta l'emozione del capo: "sembra che il budget sia strettissimo quest'anno". Sentirsi capito lo fa abbassare la guardia — e un "no" ("non possiamo darti il 10%") apre la porta al "come potremmo avvicinarci?".
+- **Comprare una bici usata al mercatino.** Il venditore chiede 300 euro. Fare mirroring ("300 euro?") e tacere lo spinge quasi sempre a giustificarsi e scendere da solo, senza che tu debba contrattaccare sul prezzo.
+- **Scegliere le vacanze in famiglia.** Moglie al mare, figli in montagna, tu vorresti risparmiare. Invece di imporre, domande calibrate: "come facciamo a far contenti tutti senza sforare il budget?". La soluzione (una settimana in una casa con lago) la trova la famiglia, non tu.
 **5. Applicazione pratica — 3 azioni per questa settimana**
 
 - **Usa il mirroring tre volte** in una conversazione reale: ripeti le ultime parole dell'altro con tono curioso e poi conta fino a cinque in silenzio.

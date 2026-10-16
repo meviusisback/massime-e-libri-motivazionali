@@ -77,6 +77,11 @@ Nel 1990 due psicologi, Peter Salovey e John Mayer, coniarono l'espressione "int
 - *Errore comune:* liquidare queste abilità come "bella presenza". Sono invece ciò che distingue i leader efficaci — Goleman lo sistemerà in *Working with Emotional Intelligence* (1998) e *Primal Leadership* (2002, con Boyatzis e McKee).
 - *Collegamento:* Patrick Lencioni, *Le 5 disfunzioni di un team*: senza fiducia reciproca il consenso è finto e i conflitti restano sottoterra.
 
+**🌍 ESEMPI DI OGGI**
+Tre situazioni dove l'intelligenza emotiva batte il quoziente intellettivo:
+- **L'email che fa arrabbiare.** Il capo scrive una frase secca e la mano corre a rispondere a caldo. La mossa emotivamente intelligente: alzarsi, bere un bicchiere d'acqua, rileggerla dopo un'ora (quasi sempre suonava peggio di quanto fosse) e rispondere solo ai fatti.
+- **Il litigio col partner.** Mentre lui parla, tu prepari già la replica — classico. Provare a riformulare ("se ho capito bene, ti senti esclusa dalle decisioni") abbassa la tensione più di mille argomentazioni, perché l'altro si sente ascoltato prima che convinto.
+- **L'ansia prima dell'esame.** Il cuore batte, la mente va in bianco: è il "rapimento" dell'amigdala. Nominarlo ("è solo agitazione, passerà in dieci minuti") e respirare lentamente restituisce il comando alla corteccia — e con lei i ricordi.
 **Applicazione pratica — 3 azioni per la settimana**
 1. **Diario emotivo (5 giorni):** tre volte al giorno una frase: "mi sento… perché…". Obiettivo: ampliare il vocabolario emotivo.
 2. **La regola della pausa:** mai rispondere a caldo. Su ogni messaggio o provocazione che ti accende: tre respiri, o venti minuti di attesa prima di inviare.

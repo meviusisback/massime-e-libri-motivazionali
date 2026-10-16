@@ -56,6 +56,11 @@ Arendt visse i traumi del Novecento dall'interno: la Prima guerra mondiale (che 
 
 **A chi ha trasmesso:** il femminismo politico (che spesso la rivendica nonostante lei si fosse diffidata del movimento), i teorici della democrazia deliberativa, gli studi post-totalitari, il pensiero contemporaneo su responsabilità e conformismo (da Milgram agli studi sull'obbedienza), e la riflessione etica sull'obbedienza agli ordini, ancora oggi citata nei dibattiti sui crimini di guerra.
 
+**🌍 ESEMPI DI OGGI**
+Tre situazioni dove "pensare ciò che stiamo facendo" fa la differenza:
+- **Il "si è sempre fatto così" in ufficio.** Una procedura assurda sopravvive da anni perché nessuno si ferma a chiedersene il senso. Il primo che chiede "perché lo facciamo?" rompe l'automatismo — ed è esattamente il pensare di Arendt contro la banalità dell'esecuzione senza pensiero.
+- **La notizia condivisa senza leggerla.** Un titolo indignato gira sui gruppi, tutti lo rilanciano, poi si scopre che è vecchio di tre anni o falso. Condividerlo "tanto lo fanno tutti" è agire senza pensare; fermarsi trenta secondi a verificare è l'opposto.
+- **La riunione dove nessuno fa domande.** Il capo presenta un piano fragile, tutti annuiscono per non creare problemi. Bastano due domande oneste ("qual è il rischio principale? chi lo controlla?") per trasformare un rito vuoto in un'azione politica nel senso migliore: parlare e agire tra pari.
 ## 📝 Quiz — 5 domande
 
 Rispondi in chat con la lettera di ogni risposta, es. **1B 2A 3C 4D 5B**.
