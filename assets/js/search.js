@@ -1,13 +1,19 @@
-// Ricerca live della home: filtra le schede mentre digiti.
+// Ricerca del sito: vive nella top bar di ogni pagina.
 // Nota sicurezza: ogni stringa dinamica (titoli, query, href) passa da esc(),
 // quindi nessun HTML esterno può finire in innerHTML.
 (function () {
   var input = document.getElementById('search');
+  if (!input) return;
   var box = document.getElementById('search-results');
-  if (!input || !box) return;
+  var homeLink = document.querySelector('.site-header .home');
+  var homeHref = homeLink ? homeLink.getAttribute('href') : 'index.html';
 
   function norm(s) {
     return (s || '').toLowerCase().normalize('NFD').replace(/[\u0300-\u036f]/g, '');
+  }
+
+  function esc(s) {
+    return s.replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;').replace(/"/g, '&quot;');
   }
 
   var cards = Array.prototype.slice.call(document.querySelectorAll('.cards .card')).map(function (a) {
@@ -20,15 +26,30 @@
       img: img ? img.getAttribute('src') : null,
       title: h3 ? h3.textContent : '',
       sub: p ? p.textContent : '',
-      date: date ? date.textContent : '',
-      kind: a.getAttribute('href').indexOf('filosofi/') === 0 ? '💬' : '📚',
+      kind: (a.getAttribute('href') || '').indexOf('filosofi/') === 0 ? '💬' : '📚',
       hay: norm([h3 && h3.textContent, p && p.textContent, date && date.textContent].join(' '))
     };
   });
 
-  function esc(s) {
-    return s.replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;').replace(/"/g, '&quot;');
+  // Pagina senza schede (dettaglio): rimanda alla home con la query.
+  if (!cards.length && !box) {
+    var t = null;
+    input.addEventListener('input', function () {
+      clearTimeout(t);
+      t = setTimeout(function () {
+        var q = input.value.trim();
+        if (q) window.location.href = homeHref + '?q=' + encodeURIComponent(q);
+      }, 600);
+    });
+    input.addEventListener('keydown', function (e) {
+      if (e.key === 'Enter') {
+        var q = input.value.trim();
+        if (q) window.location.href = homeHref + '?q=' + encodeURIComponent(q);
+      }
+    });
+    return;
   }
+  if (!box) return;
 
   function render(q) {
     q = norm(q.trim());
@@ -56,4 +77,14 @@
   }
 
   input.addEventListener('input', function () { render(input.value); });
+
+  // Arrivo da un'altra pagina (?q=...): mostra subito i risultati.
+  try {
+    var params = new URLSearchParams(window.location.search);
+    var q0 = params.get('q');
+    if (q0) {
+      input.value = q0;
+      render(q0);
+    }
+  } catch (e) { /* URLSearchParams non disponibile: niente precompilazione */ }
 })();

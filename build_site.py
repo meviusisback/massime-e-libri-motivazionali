@@ -374,6 +374,11 @@ details.solutions p,details.solutions ul,details.solutions ol{margin:.7rem 0;max
 .btn-primary{background:var(--accent);border-color:var(--accent);color:var(--bg)}
 .btn-primary:hover{filter:brightness(1.08)}
 .search-wrap{margin:1.6rem 0 0;max-width:560px;position:relative}
+.head-search{margin:0;flex:1;max-width:340px;min-width:140px}
+.head-search input{font-size:.92rem;padding:.5rem 1rem .5rem 2.6rem}
+.head-search::before{left:.9rem}
+.site-header{flex-wrap:wrap;gap:.7rem 1rem}
+@media(max-width:640px){.head-search{order:3;flex-basis:100%;max-width:none}}
 .search-wrap input{width:100%;font-size:1.05rem;font-family:var(--sans);color:var(--fg);
   background:var(--card);border:1px solid var(--border);border-radius:999px;
   padding:.8rem 1.2rem .8rem 3rem;outline:none}
@@ -419,8 +424,10 @@ SHELL = '''<!DOCTYPE html>
 <body>
 <header class="site-header">
   <a class="home" href="{prefix}index.html">📚 Biblioteca giornaliera</a>
+  <div class="search-wrap head-search"><input id="search" type="search" placeholder="Cerca…" autocomplete="off" aria-label="Cerca nel sito"></div>
   <nav><a href="{prefix}filosofi/">Filosofi</a><a href="{prefix}libri/">Libri</a></nav>
 </header>
+<script src="{prefix}assets/js/search.js" defer></script>
 <main class="container">
 {body}
 </main>
@@ -548,13 +555,11 @@ def main():
         body=f'''<header class="page-hero"><h1>📚 Biblioteca giornaliera</h1>
 <p>Massime filosofiche con quiz e riassunti di libri pratici. Un'idea al giorno, ben evidenziata.</p>
 <div class="hero-cta"><a class="btn btn-primary" href="filosofi/">I filosofi</a><a class="btn" href="libri/">I libri</a></div>
-<div class="search-wrap"><input id="search" type="search" placeholder="Cerca un filosofo o un libro…" autocomplete="off" aria-label="Cerca nel sito"></div>
 <div id="search-results" hidden></div></header>
 <h2 class="section-title">💬 Filosofi <span class="count">{len(fi)}</span></h2>
 <div class="cards">''' + index_cards(fi, 'filosofi') + f'''</div>
 <h2 class="section-title">📚 Libri motivazionali <span class="count">{len(li)}</span></h2>
-<div class="cards">''' + index_cards(li, 'libri') + '''</div>
-<script src="assets/js/search.js" defer></script>''')
+<div class="cards">''' + index_cards(li, 'libri') + '''</div>''')
     open(os.path.join(ROOT, 'index.html'), 'w', encoding='utf-8').write(home)
     print('OK pagine:',
           len([s for s in PHILOS]) + len([s for s in BOOKS]) + 3)
