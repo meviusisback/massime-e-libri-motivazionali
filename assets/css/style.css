@@ -126,8 +126,9 @@ details.solutions p,details.solutions ul,details.solutions ol{margin:.7rem 0;max
   padding:.8rem 1.2rem .8rem 3rem;outline:none}
 .search-wrap input:focus{border-color:var(--accent);box-shadow:0 0 0 3px color-mix(in srgb,var(--accent) 25%,transparent)}
 .search-wrap::before{content:"🔍";position:absolute;left:1.1rem;top:50%;transform:translateY(-50%);opacity:.7}
-body.searching .cards,body.searching .section-title{display:none}
-#search-results{margin:1.5rem 0 2.5rem}
+#search-results{position:absolute;top:calc(100% + .5rem);left:0;right:0;z-index:50;
+  background:var(--card);border:1px solid var(--border);border-radius:1rem;
+  box-shadow:0 18px 50px rgba(0,0,0,.4);padding:.7rem;max-height:min(60vh,420px);overflow:auto}
 #search-results[hidden]{display:none}
 .results-count{color:var(--muted);font-size:.9rem;margin:0 0 .8rem}
 .no-results{color:var(--muted);background:var(--card);border:1px solid var(--border);

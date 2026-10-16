@@ -32,7 +32,7 @@
   });
 
   // Pagina senza schede (dettaglio): rimanda alla home con la query.
-  if (!cards.length && !box) {
+  if (!cards.length) {
     var t = null;
     input.addEventListener('input', function () {
       clearTimeout(t);
@@ -54,14 +54,12 @@
   function render(q) {
     q = norm(q.trim());
     if (!q) {
-      document.body.classList.remove('searching');
-      box.hidden = true;
-      box.innerHTML = '';
+      closeDrop();
       return;
     }
     var hits = cards.filter(function (c) { return c.hay.indexOf(q) !== -1; });
-    document.body.classList.add('searching');
     box.hidden = false;
+    input.setAttribute('aria-expanded', 'true');
     if (!hits.length) {
       box.innerHTML = '<p class="no-results">Nessun risultato per <strong>' + esc(q) + '</strong>.</p>';
       return;
@@ -76,7 +74,21 @@
       }).join('');
   }
 
+  function closeDrop() {
+    box.hidden = true;
+    box.innerHTML = '';
+    input.setAttribute('aria-expanded', 'false');
+  }
+
   input.addEventListener('input', function () { render(input.value); });
+  input.addEventListener('keydown', function (e) {
+    if (e.key === 'Escape') { closeDrop(); input.blur(); }
+  });
+  document.addEventListener('click', function (e) {
+    var wrap = input.closest ? input.closest('.search-wrap') : null;
+    if (wrap && !wrap.contains(e.target)) closeDrop();
+    else if (!wrap && e.target !== input && e.target !== box && !box.contains(e.target)) closeDrop();
+  });
 
   // Arrivo da un'altra pagina (?q=...): mostra subito i risultati.
   try {

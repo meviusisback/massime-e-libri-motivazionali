@@ -384,8 +384,9 @@ details.solutions p,details.solutions ul,details.solutions ol{margin:.7rem 0;max
   padding:.8rem 1.2rem .8rem 3rem;outline:none}
 .search-wrap input:focus{border-color:var(--accent);box-shadow:0 0 0 3px color-mix(in srgb,var(--accent) 25%,transparent)}
 .search-wrap::before{content:"🔍";position:absolute;left:1.1rem;top:50%;transform:translateY(-50%);opacity:.7}
-body.searching .cards,body.searching .section-title{display:none}
-#search-results{margin:1.5rem 0 2.5rem}
+#search-results{position:absolute;top:calc(100% + .5rem);left:0;right:0;z-index:50;
+  background:var(--card);border:1px solid var(--border);border-radius:1rem;
+  box-shadow:0 18px 50px rgba(0,0,0,.4);padding:.7rem;max-height:min(60vh,420px);overflow:auto}
 #search-results[hidden]{display:none}
 .results-count{color:var(--muted);font-size:.9rem;margin:0 0 .8rem}
 .no-results{color:var(--muted);background:var(--card);border:1px solid var(--border);
@@ -424,7 +425,7 @@ SHELL = '''<!DOCTYPE html>
 <body>
 <header class="site-header">
   <a class="home" href="{prefix}index.html">📚 Biblioteca giornaliera</a>
-  <div class="search-wrap head-search"><input id="search" type="search" placeholder="Cerca…" autocomplete="off" aria-label="Cerca nel sito"></div>
+  <div class="search-wrap head-search"><input id="search" type="search" placeholder="Cerca…" autocomplete="off" aria-label="Cerca nel sito" aria-expanded="false" aria-controls="search-results"><div id="search-results" hidden></div></div>
   <nav><a href="{prefix}filosofi/">Filosofi</a><a href="{prefix}libri/">Libri</a></nav>
 </header>
 <script src="{prefix}assets/js/search.js" defer></script>
@@ -554,8 +555,7 @@ def main():
     home = SHELL.format(title='Biblioteca giornaliera', prefix='',
         body=f'''<header class="page-hero"><h1>📚 Biblioteca giornaliera</h1>
 <p>Massime filosofiche con quiz e riassunti di libri pratici. Un'idea al giorno, ben evidenziata.</p>
-<div class="hero-cta"><a class="btn btn-primary" href="filosofi/">I filosofi</a><a class="btn" href="libri/">I libri</a></div>
-<div id="search-results" hidden></div></header>
+<div class="hero-cta"><a class="btn btn-primary" href="filosofi/">I filosofi</a><a class="btn" href="libri/">I libri</a></div></header>
 <h2 class="section-title">💬 Filosofi <span class="count">{len(fi)}</span></h2>
 <div class="cards">''' + index_cards(fi, 'filosofi') + f'''</div>
 <h2 class="section-title">📚 Libri motivazionali <span class="count">{len(li)}</span></h2>
