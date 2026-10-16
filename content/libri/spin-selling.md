@@ -8,7 +8,7 @@
 - **A chi è utile**: a chi vende con cicli lunghi e più interlocutori (B2B, software, consulenza, preventivi importanti) — e a chiunque debba "vendere" un'idea dentro la propria azienda.
 
 ## Riassunto
-- **La scintilla centrale**: nelle vendite grosse le tecniche classiche — il closing spinto, l'arte di "battere" le obiezioni — non solo non aiutano: danneggiano. Il successo arriva quando il cliente arriva *da solo* a dire "devo cambiare", e ci arriva grazie alle domande giuste.
+- **La scintilla centrale**: nelle vendite grosse le tecniche classiche — il closing spinto, l'arte di "battere" le obiezioni — ==non solo non aiutano: danneggiano==. Il successo arriva quando il cliente arriva *da solo* a dire "devo cambiare", e ci arriva grazie alle domande giuste.
 - **La struttura** (8 capitoli + 2 appendici): (1) comportamento di vendita e successo, con le quattro fasi della chiamata; (2) ottenere l'impegno: la ricerca sul closing e perché non funziona nelle vendite grandi; (3) i bisogni nella vendita grande, impliciti vs espliciti; (4) la strategia SPIN, i quattro tipi di domanda; (5) dare benefici; (6) prevenire le obiezioni; (7) aprire la chiamata; (8) trasformare la teoria in pratica. Le appendici verificano la tenuta scientifica del modello (con un test condotto in Motorola Canada) e una scala per misurare il proprio "istinto di closing".
 - **Il punto di svolta**: il capitolo 2, dove la ricerca mostra che le tecniche di chiusura correlano col successo nelle vendite piccole e smettono di correlarvi (o correlano negativamente) nelle vendite grandi — e il libro si pone la domanda secca: perché tutto il mondo della vendita continua ad insegnarle?
 - **L'eredità oggi**: ha fondato il "vendere per consultazione" che è alla base di ogni metodologia B2B moderna: prima capire, poi proporre. La domanda "di cosa hai bisogno davvero?" viene da qui.
@@ -73,6 +73,10 @@
 - **Errore comune**: provare tutto il modello dalla prima chiamata e sul cliente più importante, per poi mollare al primo inciampo.
 - **Collegamento**: la pratica deliberata di Anders Ericsson (ripetizione mirata con feedback batte la quantità bruta) e *Atomic Habits* di James Clear: la ripetizione diventa identità.
 
+**💬 CITAZIONI DA RICORDARE**
+Le frasi che contengono la scoperta del libro:
+- «We've spent 10 years analyzing 35,000 sales transactions.» — Neil Rackham (cap. 1, p. 3). «Abbiamo passato 10 anni ad analizzare 35.000 trattative di vendita»: questo libro non predica, misura.
+- «Research has an inconvenient way of coming up with evidence that the researchers sometimes wish they'd never found.» — Neil Rackham (cap. 1, p. 4). «La ricerca ha il fastidioso vizio di trovare prove che i ricercatori preferirebbero non aver mai trovato»: cercava di confermare le tecniche classiche, e i dati le hanno smentite.
 **🌍 ESEMPI DI OGGI**
 Tre situazioni dove le domande SPIN battono il pistolotto:
 - **Proporre un progetto al capo.** Invece di partire con la soluzione ("servirebbe un nuovo software"), fai emergere il problema: "quanto tempo perdiamo ogni mese a rifare i report a mano?" (Problema), "e cosa ci costa in straordinari?" (Implicazione). A quel punto è lui a chiederti la soluzione.

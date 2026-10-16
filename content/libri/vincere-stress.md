@@ -72,7 +72,7 @@ Dale Carnegie (1888–1955), lo stesso di *Come trattare gli altri e farseli ami
 *Collegamento*: la trappola dei costi sommersi di Kahneman; la preghiera della serenità di Niebuhr che Carnegie richiama in quel capitolo: "accettare le cose che non posso cambiare".
 
 **6. La mente non ha due corsie**
-*Definizione*: «È impossibile per una mente, per quanto brillante, pensare davvero a due cose nello stesso tempo». Un pensiero pieno ne scaccia un altro; e la stanchezza alimenta l'ansia — la maggior parte della fatica di chi lavora sedentario è emotiva, non muscolare.
+*Definizione*: «È impossibile per una mente, per quanto brillante, pensare davvero a due cose nello stesso tempo». Un pensiero pieno ne scaccia un altro; e la stanchezza alimenta l'ansia — ==la maggior parte della fatica di chi lavora sedentario è emotiva, non muscolare==.
 *Esempio*: dopo la morte delle due figlie, un allievo di Carnegie era distrutto; un giorno il figlio di 4 anni gli chiese di costruirgli una barca. Tre ore di lavoro: la prima volta in mesi che la sua mente si quietò.
 *Come applicarlo*: (a) quando il pensiero gira, agisci subito su qualcosa di concreto, fisico o impegnativo; (b) riposa *prima* di essere esausto — come l'esercito, 10 minuti di riposo ogni ora, un pisolino programmato; (c) se non dormi, non angosciarti per l'insonnia: preoccuparsi del sonno fa più male dell'insonnia stessa.
 *Errore comune*: confondere il tempo morto con il riposo: scrollare il feed non riposa né occupa — non è né azione né riposo.
@@ -85,6 +85,10 @@ Dale Carnegie (1888–1955), lo stesso di *Come trattare gli altri e farseli ami
 *Errore comune*: il positivo forzato che nega i fatti. Non si tratta di fingersi sereni, ma di scegliere pensieri che portano a un'azione.
 *Collegamento*: Aaron Beck e la terapia cognitiva (tra evento ed emozione c'è sempre un pensiero); Carol Dweck, *Mindset*.
 
+**💬 CITAZIONI DA RICORDARE**
+Le frasi da mandare a memoria:
+- «Our fatigue is often caused not by work, but by worry, frustration and resentment.» — Dale Carnegie. «La nostra stanchezza spesso non è causata dal lavoro, ma da preoccupazione, frustrazione e risentimento»: riposa la mente, non solo il corpo.
+- «Live in day-tight compartments.» — il concetto-chiave del libro (cap. 1). «Vivi in scomparti a tenuta di giorno»: passato e futuro restano fuori, oggi si vive un giorno alla volta.
 **🌍 ESEMPI DI OGGI**
 Tre situazioni dove il metodo Carnegie disinnesca la preoccupazione:
 - **La visita medica di controllo.** Nei giorni prima la mente costruisce scenari neri. Carnegie direbbe: raccogli i fatti (che probabilità ci sono davvero? cosa ha detto il medico l'ultima volta?), decidi il da farsi, poi chiudi lo scomparto e vivi la giornata di oggi.

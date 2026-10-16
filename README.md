@@ -18,7 +18,11 @@ Pubblicato su GitHub Pages dalla branch `main`.
 3. Aggiungi una voce in testa alla lista giusta in `manifest.json`
    (campi: `slug`, `title`, `sub`/`author`+`topic`, `date` come `YYYYMMDD`,
    `img` solo per i filosofi, `quote`, `center`, `chips` con 4 concetti).
-4. Lancia `python3 build_site.py` (rigenera tutte le pagine).
-5. `git add -A && git commit`, `git pull --rebase`, `git push`.
+4. Nei briefing dei libri usa le intestazioni esatte `**💬 CITAZIONI DA RICORDARE**`
+   e `**🌍 ESEMPI DI OGGI**`, le etichette **Definizione**, **Esempio**,
+   **Come applicarlo**, **Errore comune**, **Collegamento** (il sito le colora
+   da solo) e racchiudi i passaggi chiave tra `==` `==` per evidenziarli.
+5. Lancia `python3 build_site.py` (rigenera tutte le pagine).
+6. `git add -A && git commit`, `git pull --rebase`, `git push`.
 
 Non serve altro: le pagine, gli indici e la home si aggiornano da soli.

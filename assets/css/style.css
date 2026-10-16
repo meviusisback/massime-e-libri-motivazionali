@@ -1,13 +1,13 @@
 
 :root{
   --bg:#1e1e2e; --fg:#cdd6f4; --muted:#a6adc8; --card:#313244; --accent:#cba6f7;
-  --accent-2:#89b4fa; --border:#45475a; --code:#181825; --gold:#f9e2af; --green:#a6e3a1;
+  --accent-2:#89b4fa; --border:#45475a; --code:#181825; --gold:#f9e2af; --green:#a6e3a1; --red:#f38ba8;
   --serif:"Fraunces",Georgia,"Times New Roman",serif;
   --sans:"Inter","Segoe UI",system-ui,-apple-system,Roboto,"Helvetica Neue",sans-serif;
 }
 @media (prefers-color-scheme: light){
   :root{ --bg:#eff1f5; --fg:#4c4f69; --muted:#6c6f85; --card:#ffffff; --accent:#8839ef;
-  --accent-2:#1e66f5; --border:#ccd0da; --code:#e6e9ef; --gold:#df8e1d; --green:#40a02b; }
+  --accent-2:#1e66f5; --border:#ccd0da; --code:#e6e9ef; --gold:#df8e1d; --green:#40a02b; --red:#d20f39; }
 }
 *{box-sizing:border-box}
 html,body{margin:0;padding:0}
@@ -50,6 +50,15 @@ a:hover{text-decoration:underline}
   margin:0 0 1rem;padding:1rem 1.25rem;border-left:5px solid var(--gold);
   background:var(--code);border-radius:0 .9rem .9rem 0;overflow-wrap:break-word}
 .maxim strong{color:var(--gold)}
+.lbl{display:inline-block;font-size:.78rem;font-weight:700;letter-spacing:.06em;text-transform:uppercase;
+  border:1px solid;border-radius:.45rem;padding:.05rem .55rem;margin-right:.4rem;vertical-align:baseline}
+.lbl-def{color:var(--accent-2);border-color:var(--accent-2);background:color-mix(in srgb,var(--accent-2) 12%,transparent)}
+.lbl-ex{color:var(--gold);border-color:var(--gold);background:color-mix(in srgb,var(--gold) 12%,transparent)}
+.lbl-do{color:var(--green);border-color:var(--green);background:color-mix(in srgb,var(--green) 12%,transparent)}
+.lbl-err{color:var(--red);border-color:var(--red);background:color-mix(in srgb,var(--red) 12%,transparent)}
+.lbl-link{color:var(--accent);border-color:var(--accent);background:color-mix(in srgb,var(--accent) 12%,transparent)}
+.hl{background:color-mix(in srgb,var(--gold) 28%,transparent);border-bottom:2px solid var(--gold);
+  padding:0 .15em;border-radius:.2em}
 .sec-lead{border-color:var(--gold);background:linear-gradient(180deg,rgba(249,226,175,.07),transparent 60%),var(--card)}
 .sec-lead strong{color:var(--gold)}
 .sec-key{border-color:var(--accent)}

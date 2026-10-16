@@ -16,7 +16,7 @@ Chris Voss è stato per 24 anni nell'FBI, dove è diventato il negoziatore di ra
 
 **2. Riassunto**
 
-- **La scintilla centrale**: la negoziazione classica (posizioni, logica, compromesso a metà strada) produce accordi mediocri, perché ignora che gli esseri umani sono irrazionali, emotivi e pieni di pregiudizi cognitivi. Serve un metodo basato su ascolto ed empatia *tattica*, non sulla forza degli argomenti.
+- **La scintilla centrale**: la negoziazione classica (posizioni, logica, compromesso a metà strada) produce accordi mediocri, perché ignora che ==gli esseri umani sono irrazionali, emotivi e pieni di pregiudizi cognitivi==. Serve un metodo basato su ascolto ed empatia *tattica*, non sulla forza degli argomenti.
 - **La struttura**: dieci capitoli che partono dalle "nuove regole" (la negoziazione è scoperta, non battaglia), passano alla costruzione del rapporto con **mirroring** ed **etichettatura delle emozioni**, arrivano al trattare il **"no"** come arma, alle **domande calibrate** ("come"/"cosa"), alla **percezione di "giusto"** e all'ancoraggio, alla garanzia di esecuzione, al **bargaining duro** (modello Ackerman) e infine alla ricerca dei **cigni neri**.
 - **Il punto di svolta**: capire che il "sì" che insegui con insistenza è quasi sempre un sì *contraffatto*, una via di fuga per chiuderla in fretta. La vera negoziazione comincia quando la controparte si sente abbastanza sicura da dire **no** senza paura.
 - **L'eredità oggi**: Voss ha rovesciato il mantra del "win-win razionale" (incluso *Arrivare a sì* di Fisher e Ury, a cui il libro contrappone un approccio più psicologico) e il suo metodo è oggi usato in vendite, risorse umane, diritto e vita quotidiana: la negoziazione è un flusso di comunicazione continuo, non un evento che succede solo in una sala riunioni.
@@ -88,6 +88,10 @@ Un "cigno nero" è un frammento innocuo di informazione, ignoto a entrambe le pa
 
 ---
 
+**💬 CITAZIONI DA RICORDARE**
+Le frasi che contengono tutto il libro:
+- «No deal is better than a bad deal.» — Chris Voss. In italiano: «Meglio nessun accordo che un brutto accordo.» Il coraggio di alzarsi dal tavolo è la leva più forte che hai.
+- «Non dividere mai la differenza: la trovi già nella testa dell'altra persona, se ascolti abbastanza a lungo da farla uscire.» Il compromesso a metà strada accontenta tutti e non risolve niente: la soluzione vera è già nella mente dell'altro.
 **🌍 ESEMPI DI OGGI**
 Tre situazioni dove le tecniche di Voss funzionano fuori dalle rapine:
 - **Chiedere un aumento.** Invece di elencare meriti, etichetta l'emozione del capo: "sembra che il budget sia strettissimo quest'anno". Sentirsi capito lo fa abbassare la guardia — e un "no" ("non possiamo darti il 10%") apre la porta al "come potremmo avvicinarci?".

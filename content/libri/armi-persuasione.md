@@ -10,7 +10,7 @@ Cialdini è uno psicologo sociale che ha passato anni "in incognito" dentro vend
 **A chi serve.** Utile a chi vende, negozia, presenta, gestisce un team o vuole semplicemente smettere di decidere d'istinto.
 
 **Riassunto**
-- **La scintilla centrale:** perché diciamo sì a persone che non conosciamo? Perché esistono poche leve psicologiche precise che innescano risposte mentali automatiche — Cialdini le chiama risposte "clic, ronzio" — le quali funzionano quasi sempre… e proprio per questo possono essere azionate contro di noi.
+- **La scintilla centrale:** perché diciamo sì a persone che non conosciamo? Perché esistono poche leve psicologiche precise che ==innescano risposte mentali automatiche== — Cialdini le chiama risposte "clic, ronzio" — le quali funzionano quasi sempre… e proprio per questo possono essere azionate contro di noi.
 - **La struttura:** un capitolo per ciascuno dei sei principi universali — reciprocità, impegno e coerenza, prova sociale, autorità, simpatia, scarsità. Ogni capitolo segue lo stesso schema: il meccanismo psicologico, gli esperimenti che lo dimostrano, come i "professionisti dell'assenso" lo sfruttano, come difendersi. L'edizione ampliata aggiunge un settimo principio, l'unità (l'identità condivisa: "noi siamo la stessa persona").
 - **Il punto di svolta:** capire che queste tecniche non funzionano perché siamo stupidi, ma perché funzionano: sono scorciatoie utili a gestire un mondo troppo complesso, e chi le apprende per primo le usa — nel bene o nel male.
 - **L'eredità oggi:** è il punto di riferimento imprescindibile di marketing, vendite e comunicazione, lodato da studiosi come Daniel Kahneman; quasi ogni campagna che incontri oggi applica uno dei suoi sei principi.
@@ -67,6 +67,10 @@ Cialdini è uno psicologo sociale che ha passato anni "in incognito" dentro vend
 - **Errore comune:** scarsità artefatta ripetuta nel tempo — brucia la fiducia e rende vuote le offerte vere; e rimandare una decisione solo per paura di perdere, senza valutarne il valore reale.
 - **Collegamento:** l'avversione alla perdita di Kahneman e Tversky, e *Pre-Suasion* dello stesso Cialdini — preparare il terreno *prima* della richiesta.
 
+**💬 CITAZIONI DA RICORDARE**
+Le frasi che contengono tutto il libro:
+- «click, whirr» — il termine del libro per le nostre risposte automatiche: come un registratore che parte da solo, decidiamo senza pensare. Riconoscere il "clic" è l'unica difesa.
+- Il principio della prova sociale, in sintesi: quando siamo incerti, decidiamo guardando cosa fanno le persone intorno a noi — soprattutto se ci somigliano.
 **🌍 ESEMPI DI OGGI**
 Tre situazioni dove i principi di Cialdini ti pescano ogni giorno — riconoscerli è già difendersi:
 - **"Solo 2 rimasti!" sull'e-commerce.** La scarsità fa scattare la paura di perdere l'occasione e spegne il confronto ("mi serve davvero? lo trovo altrove?"). La difesa è la domanda di Cialdini: "lo vorrei allo stesso modo se ce ne fossero cento?".

@@ -12,7 +12,7 @@
 **📖 Riassunto**
 - **La scintilla centrale:** un discorso efficace non è talento, è un insieme di tecniche riconoscibili e apprendibili. Gallo ha analizzato oltre 500 presentazioni TED (più di 150 ore di video) e ha intervistato i relatori più visti insieme a neuroscienziati, psicologi ed esperti di comunicazione, per isolare i pattern comuni.
 - **La struttura:** tre parti da tre capitoli ciascuna. *Emozionale* → passione (1), storia (2), conversazione (3). *Nuovo* → insegnare qualcosa di nuovo (4), momento a bocca aperta (5), umorismo (6). *Memorabile* → i 18 minuti (7), multisensorialità (8), autenticità (9). Ogni capitolo combina un segreto, esempi commentati di talk reali, la scienza che lo spiega e consigli operativi ("TEDnotes").
-- **Il punto di svolta:** smettere di vedere il discorso come una performance di sicurezza e iniziare a vederlo come un'idea-passione che passa per una storia, si condensa in pochi minuti e si prova finché non sembra spontanea.
+- **Il punto di svolta:** smettere di vedere il discorso come una performance di sicurezza e iniziare a vederlo come ==un'idea-passione che passa per una storia, si condensa in pochi minuti e si prova finché non sembra spontanea==.
 - **L'eredità oggi:** il formato TED è diventato lo standard di fatto delle presentazioni moderne. I meccanismi citati — accoppiamento neurale, carico cognitivo, novità e dopamina — restano i pilastri della divulgazione e del pitch. Nota onesta: alcune cifre che circolano (per esempio il "limite di 10-15 minuti di attenzione") hanno basi sperimentali più fragili di quanto sembri; la lezione vera è la disciplina del taglio, non il numero magico.
 
 **🎯 7 concetti da portare a casa**
@@ -75,6 +75,10 @@
 - *Errore comune:* copiare ritmo, frasi e gesti di un oratore che ammiri: il risultato suona "quasi giusto", e il pubblico percepisce lo straniamento prima ancora di saperlo dire.
 - *Collegamento:* Brené Brown e la vulnerabilità come origine della connessione; in termini di Cialdini, la simpatia nasce dalla somiglianza autentica, non dalla performance.
 
+**💬 CITAZIONI DA RICORDARE**
+Le frasi da mandare a memoria:
+- «Ideas are the currency of the twenty-first century.» — Carmine Gallo. «Le idee sono la moneta del XXI secolo»: ma diventano capitale solo se sai raccontarle.
+- «Stay hungry, stay foolish.» — Steve Jobs, Stanford 2005 (il discorso citato nel libro come esempio perfetto). «Siate affamati, siate folli»: passione e storia personale, in 15 minuti che il mondo ricorda ancora.
 **🌍 ESEMPI DI OGGI**
 Tre situazioni dove parlare "come al TED" cambia tutto:
 - **La riunione del lunedì.** Invece di 20 slide piene di testo, apri con una storia di 60 secondi ("venerdì un cliente ci ha detto che..."), poi un solo numero e una sola richiesta. La gente ricorda le storie, non gli elenchi.

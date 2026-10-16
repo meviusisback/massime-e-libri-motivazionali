@@ -43,7 +43,7 @@ Nel 1990 due psicologi, Peter Salovey e John Mayer, coniarono l'espressione "int
 - *Collegamento:* Antonio Damasio, *L'errore di Cartesio*: chi ha lesioni che aboliscono il marcaggio emotivo prende decisioni peggiori anche con un QI intatto — la ragione senza sentimento è handicappata.
 
 **3. Autoconsapevolezza: nominare per governare**
-- *Definizione:* riconoscere in tempo reale quale emozione si sta provando e come sta filtrando giudizi e azioni. È la base di tutto: non puoi gestire ciò che non percepisci. Goleman gli dedica il capitolo "Conosci te stesso".
+- *Definizione:* riconoscere in tempo reale quale emozione si sta provando e come sta filtrando giudizi e azioni. È la base di tutto: ==non puoi gestire ciò che non percepisci==. Goleman gli dedica il capitolo "Conosci te stesso".
 - *Esempio:* "sono arrabbiato" è grigio; "mi sento umiliato perché ha corretto il mio lavoro davanti a tutti" è preciso — e già riduce la presa che l'emozione ha su di te.
 - *Come applicarlo:* tre volte al giorno completa la frase "mi sento… perché…" con una parola esatta (preoccupato, invidioso, frustrato, sollevato); tieni per una settimana un taccuino emotivo; segna le situazioni che ti sorprendono arrabbiato o triste.
 - *Errore comune:* confondere l'emozione col fatto ("mi ha fatto arrabbiare" descrive l'altro, non te) e accontentarsi di parole vaghe come "sto male" o "sono stressato", che non dicono nulla di governabile.
@@ -77,6 +77,10 @@ Nel 1990 due psicologi, Peter Salovey e John Mayer, coniarono l'espressione "int
 - *Errore comune:* liquidare queste abilità come "bella presenza". Sono invece ciò che distingue i leader efficaci — Goleman lo sistemerà in *Working with Emotional Intelligence* (1998) e *Primal Leadership* (2002, con Boyatzis e McKee).
 - *Collegamento:* Patrick Lencioni, *Le 5 disfunzioni di un team*: senza fiducia reciproca il consenso è finto e i conflitti restano sottoterra.
 
+**💬 CITAZIONI DA RICORDARE**
+Le frasi da mandare a memoria:
+- «In a very real sense we have two minds, one that thinks and one that feels.» — Daniel Goleman. «In un senso molto reale abbiamo due menti, una che pensa e una che sente»: ignorare la seconda non ti rende razionale, ti rende cieco.
+- Il principio da ricordare: l'amigdala scatta prima della corteccia — tra stimolo e risposta c'è sempre uno spazio, e in quello spazio vive tutta l'intelligenza emotiva.
 **🌍 ESEMPI DI OGGI**
 Tre situazioni dove l'intelligenza emotiva batte il quoziente intellettivo:
 - **L'email che fa arrabbiare.** Il capo scrive una frase secca e la mano corre a rispondere a caldo. La mossa emotivamente intelligente: alzarsi, bere un bicchiere d'acqua, rileggerla dopo un'ora (quasi sempre suonava peggio di quanto fosse) e rispondere solo ai fatti.

@@ -36,6 +36,7 @@ SEC_META = {  # chiave nel titolo md -> (icona, etichetta, livello)
  'AZIONI': ('🛠️', 'Azioni pratiche', 'key'),
  'FRASE': ('💬', 'Frase finale', 'hero'),
  'ESEMPI DI OGGI': ('🌍', 'Esempi di oggi', 'key'),
+ 'CITAZIONI': ('💬', 'Citazioni da ricordare', 'key'),
  'ESEMPI': ('🌍', 'Esempi di oggi', 'key'),
  'DA PORTARE A CASA': ('💎', 'Da portare a casa', 'hero'),
  'APPROFONDIMENTO IN CHAT': ('💬', 'Approfondimento in chat', 'minor'),
@@ -43,6 +44,14 @@ SEC_META = {  # chiave nel titolo md -> (icona, etichetta, livello)
 
 def md_inline(t):
     t = H.escape(t)
+    for label, cls in [('Come applicarlo', 'do'), ('Come applicarla', 'do'),
+                       ('Errore comune', 'err'), ('Definizione', 'def'),
+                       ('Collegamento', 'link'), ('Esempio', 'ex')]:
+        t = re.sub(r'\*\*' + label + r'\*\*:',
+                   f'<span class="lbl lbl-{cls}">' + label + '</span>', t)
+        t = re.sub(r'(?<!\*)\*' + label + r':\*',
+                   f'<span class="lbl lbl-{cls}">' + label + '</span>', t)
+    t = re.sub(r'==(.+?)==', r'<span class="hl">\1</span>', t)
     t = re.sub(r'\*\*(.+?)\*\*', r'<strong>\1</strong>', t)
     t = re.sub(r'\*(.+?)\*', r'<em>\1</em>', t)
     t = re.sub(r'`(.+?)`', r'<code>\1</code>', t)
@@ -173,6 +182,8 @@ def match_key(title):
             if k in up:
                 return k
         return 'ALTRO'
+    if 'CITAZIONI' in up:
+        return 'CITAZIONI'
     _k = next((k for k in SEC_META if k in up), 'ALTRO')
     return KEY_ALIAS.get(_k, _k)
 
@@ -221,6 +232,14 @@ def parse_sections(raw):
 
 def section_html(key, title, buf, is_book):
     icon, label, level = SEC_META.get(key, ('📄', title.title(), 'body'))
+    if key == 'CITAZIONI':
+        items = [re.sub(r'^[-•]\s', '', p).strip()
+                 for p in split_paragraphs(buf) if p.strip()]
+        body = ''.join('<blockquote class="maxim">' + md_inline(i) + '</blockquote>' for i in items)
+        if not body.strip():
+            return ''
+        return (f'<section class="sec sec-key"><h2><span class="sec-ico">{icon}</span>'
+                f'{H.escape(label)}</h2>\n{body}\n</section>')
     if key == 'QUIZ':
         return f'<section class="sec sec-quiz"><h2><span class="sec-ico">{icon}</span>{H.escape(label)}</h2>\n{render_quiz_from_lines(buf)}\n</section>'
     if key == 'SOLUZIONI':
@@ -240,13 +259,13 @@ def section_html(key, title, buf, is_book):
 NEW_CSS = r'''
 :root{
   --bg:#1e1e2e; --fg:#cdd6f4; --muted:#a6adc8; --card:#313244; --accent:#cba6f7;
-  --accent-2:#89b4fa; --border:#45475a; --code:#181825; --gold:#f9e2af; --green:#a6e3a1;
+  --accent-2:#89b4fa; --border:#45475a; --code:#181825; --gold:#f9e2af; --green:#a6e3a1; --red:#f38ba8;
   --serif:"Fraunces",Georgia,"Times New Roman",serif;
   --sans:"Inter","Segoe UI",system-ui,-apple-system,Roboto,"Helvetica Neue",sans-serif;
 }
 @media (prefers-color-scheme: light){
   :root{ --bg:#eff1f5; --fg:#4c4f69; --muted:#6c6f85; --card:#ffffff; --accent:#8839ef;
-  --accent-2:#1e66f5; --border:#ccd0da; --code:#e6e9ef; --gold:#df8e1d; --green:#40a02b; }
+  --accent-2:#1e66f5; --border:#ccd0da; --code:#e6e9ef; --gold:#df8e1d; --green:#40a02b; --red:#d20f39; }
 }
 *{box-sizing:border-box}
 html,body{margin:0;padding:0}
@@ -289,6 +308,15 @@ a:hover{text-decoration:underline}
   margin:0 0 1rem;padding:1rem 1.25rem;border-left:5px solid var(--gold);
   background:var(--code);border-radius:0 .9rem .9rem 0;overflow-wrap:break-word}
 .maxim strong{color:var(--gold)}
+.lbl{display:inline-block;font-size:.78rem;font-weight:700;letter-spacing:.06em;text-transform:uppercase;
+  border:1px solid;border-radius:.45rem;padding:.05rem .55rem;margin-right:.4rem;vertical-align:baseline}
+.lbl-def{color:var(--accent-2);border-color:var(--accent-2);background:color-mix(in srgb,var(--accent-2) 12%,transparent)}
+.lbl-ex{color:var(--gold);border-color:var(--gold);background:color-mix(in srgb,var(--gold) 12%,transparent)}
+.lbl-do{color:var(--green);border-color:var(--green);background:color-mix(in srgb,var(--green) 12%,transparent)}
+.lbl-err{color:var(--red);border-color:var(--red);background:color-mix(in srgb,var(--red) 12%,transparent)}
+.lbl-link{color:var(--accent);border-color:var(--accent);background:color-mix(in srgb,var(--accent) 12%,transparent)}
+.hl{background:color-mix(in srgb,var(--gold) 28%,transparent);border-bottom:2px solid var(--gold);
+  padding:0 .15em;border-radius:.2em}
 .sec-lead{border-color:var(--gold);background:linear-gradient(180deg,rgba(249,226,175,.07),transparent 60%),var(--card)}
 .sec-lead strong{color:var(--gold)}
 .sec-key{border-color:var(--accent)}
@@ -380,8 +408,8 @@ SHELL = '''<!DOCTYPE html>
 FILO_RANK = {'MASSIMA': 0, 'SINTESI': 1, 'CONTESTO': 2, 'ESEMPI DI OGGI': 3,
              'ESEMPI': 3, 'QUIZ': 4, 'SOLUZIONI': 5, 'RIPASSO': 6}
 LIBRI_RANK = {'INTRODUZIONE': 0, 'RIASSUNTO': 1, 'CONCETTI': 2, 'ESPANSIONE': 3,
-              'ESEMPI DI OGGI': 4, 'ESEMPI': 4, 'APPLICAZIONE': 5, 'AZIONI': 5,
-              'FRASE': 6, 'DA PORTARE A CASA': 6, 'APPROFONDIMENTO IN CHAT': 7}
+              'CITAZIONI': 4, 'ESEMPI DI OGGI': 5, 'ESEMPI': 5, 'APPLICAZIONE': 6, 'AZIONI': 6,
+              'FRASE': 7, 'DA PORTARE A CASA': 7, 'APPROFONDIMENTO IN CHAT': 8}
 
 def rank_of(kind, key, title):
     if key in (None, 'ALTRO'):
