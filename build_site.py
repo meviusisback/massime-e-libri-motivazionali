@@ -373,6 +373,29 @@ details.solutions p,details.solutions ul,details.solutions ol{margin:.7rem 0;max
 .btn:hover{text-decoration:none;border-color:var(--accent)}
 .btn-primary{background:var(--accent);border-color:var(--accent);color:var(--bg)}
 .btn-primary:hover{filter:brightness(1.08)}
+.search-wrap{margin:1.6rem 0 0;max-width:560px;position:relative}
+.search-wrap input{width:100%;font-size:1.05rem;font-family:var(--sans);color:var(--fg);
+  background:var(--card);border:1px solid var(--border);border-radius:999px;
+  padding:.8rem 1.2rem .8rem 3rem;outline:none}
+.search-wrap input:focus{border-color:var(--accent);box-shadow:0 0 0 3px color-mix(in srgb,var(--accent) 25%,transparent)}
+.search-wrap::before{content:"🔍";position:absolute;left:1.1rem;top:50%;transform:translateY(-50%);opacity:.7}
+body.searching .cards,body.searching .section-title{display:none}
+#search-results{margin:1.5rem 0 2.5rem}
+#search-results[hidden]{display:none}
+.results-count{color:var(--muted);font-size:.9rem;margin:0 0 .8rem}
+.no-results{color:var(--muted);background:var(--card);border:1px solid var(--border);
+  border-radius:1rem;padding:1.2rem 1.4rem}
+.result-row{display:flex;align-items:center;gap:1rem;background:var(--card);
+  border:1px solid var(--border);border-radius:1rem;padding:.7rem .9rem;margin-bottom:.6rem;color:var(--fg)}
+.result-row:hover{border-color:var(--accent);text-decoration:none}
+.result-row img{width:52px;height:52px;object-fit:cover;object-position:top center;
+  border-radius:.6rem;flex:none;background:var(--code)}
+.result-ph{width:52px;height:52px;flex:none;display:flex;align-items:center;justify-content:center;
+  font-size:1.4rem;background:var(--code);border-radius:.6rem}
+.result-txt{display:flex;flex-direction:column;gap:.1rem;min-width:0}
+.result-txt strong{font-family:var(--serif);font-size:1.05rem}
+.result-txt span{color:var(--muted);font-size:.88rem;white-space:nowrap;overflow:hidden;text-overflow:ellipsis;max-width:60ch}
+.result-row .go{margin-left:auto;color:var(--accent);font-weight:700;font-size:1.2rem;flex:none}
 .page-hero{text-align:left;padding:2.5rem 0 1rem;max-width:760px}
 .page-hero h1{font-family:var(--serif);font-size:clamp(2.2rem,6vw,3.4rem);margin:0 0 .6rem}
 .page-hero p{color:var(--muted);font-size:1.08rem;margin:0}
@@ -524,11 +547,14 @@ def main():
     home = SHELL.format(title='Biblioteca giornaliera', prefix='',
         body=f'''<header class="page-hero"><h1>📚 Biblioteca giornaliera</h1>
 <p>Massime filosofiche con quiz e riassunti di libri pratici. Un'idea al giorno, ben evidenziata.</p>
-<div class="hero-cta"><a class="btn btn-primary" href="filosofi/">I filosofi</a><a class="btn" href="libri/">I libri</a></div></header>
+<div class="hero-cta"><a class="btn btn-primary" href="filosofi/">I filosofi</a><a class="btn" href="libri/">I libri</a></div>
+<div class="search-wrap"><input id="search" type="search" placeholder="Cerca un filosofo o un libro…" autocomplete="off" aria-label="Cerca nel sito"></div>
+<div id="search-results" hidden></div></header>
 <h2 class="section-title">💬 Filosofi <span class="count">{len(fi)}</span></h2>
 <div class="cards">''' + index_cards(fi, 'filosofi') + f'''</div>
 <h2 class="section-title">📚 Libri motivazionali <span class="count">{len(li)}</span></h2>
-<div class="cards">''' + index_cards(li, 'libri') + '</div>')
+<div class="cards">''' + index_cards(li, 'libri') + '''</div>
+<script src="assets/js/search.js" defer></script>''')
     open(os.path.join(ROOT, 'index.html'), 'w', encoding='utf-8').write(home)
     print('OK pagine:',
           len([s for s in PHILOS]) + len([s for s in BOOKS]) + 3)
