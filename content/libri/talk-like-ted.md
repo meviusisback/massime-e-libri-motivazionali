@@ -28,7 +28,7 @@
 
 **1. La passione è il contenuto, non la vernice.**
 - *Definizione:* nel primo segreto ("Unleash the Master Within") Gallo sostiene che il pubblico sente la passione genuina in pochi secondi e che è quasi impossibile appassionare gli altri su un tema che non ti appartiene. La domanda guida non è "di cosa voglio parlare", ma "cosa fa battere il mio cuore".
-- *Esempio:* Aimee Mullins, atleta amputata bilateralmente, non parla di protesi ma di potenziale umano; Cameron Russell, modella, apre il suo talk coprendosi con gonna e maglia da ufficio per parlare dell'autostima delle ragazze. Parlanodi ciò che le rode davvero, non di ciò per cui sono famose.
+- *Esempio:* Aimee Mullins, atleta amputata bilateralmente, non parla di protesi ma di potenziale umano; Cameron Russell, modella, apre il suo talk coprendosi con gonna e maglia da ufficio per parlare dell'autostima delle ragazze. Parlano di ciò che sta loro davvero a cuore, non di ciò per cui sono famose.
 - *Come applicarlo:* prima di aprire qualsiasi slide, scrivi tre righe: perché questo progetto mi riguarda, cosa cambia per chi mi ascolta, quale problema mi sta a cuore. Prendine una e falla aprire il discorso.
 - *Errore comune:* scegliere l'argomento che "suona professionale" ed elencare contenuti tecnici: il risultato è corretto e dimenticabile.
 - *Collegamento:* lo studio di Melissa Cardon (Journal of Business Venturing, 2012) su 241 startup presentate a un network di angel investor: la "passione percepita" risultava il terzo criterio di valutazione su 13, sopra formazione, età ed esperienza. È l'"ethos" di Aristotele reso misurabile.
@@ -42,7 +42,7 @@
 
 **3. La naturalezza si costruisce, non si improvvisa.**
 - *Definizione:* "Have a Conversation": i migliori oratori TED sembrano parlare con un amico davanti a una folla, ed è l'effetto di prove ossessive, non di carisma nato.
-- *Esempio:* Jill Bolte Taylor ha ripetuto il suo *My Stroke of Insight* 200 volte prima di salirvi in palco; il video ha superato i 15 milioni di visualizzazioni e le è valso l'invito da Oprah.
+- *Esempio:* Jill Bolte Taylor ha ripetuto il suo *My Stroke of Insight* 200 volte prima di salire sul palco; il video ha superato i 15 milioni di visualizzazioni e le è valso l'invito da Oprah.
 - *Come applicarlo:* leggi il testo **ad alta voce** (mai solo a mente) almeno 10 volte, registrati una volta, riscrivi dove ti sei perso, poi ripeti finché non padroneggi la struttura ma non le parole: così puoi guardare il pubblico e adattarti.
 - *Errore comune:* imparare tutto parola per parola: il copione memorizzato produce il tono piatto della lettura, che il pubblico sente al volo.
 - *Collegamento:* la pratica deliberata di K. Anders Ericsson (*Peak*): la "naturalezza" è l'ultimo stadio di un allenamento lungo. Carnegie lo sapeva già nel 1915.
@@ -50,14 +50,14 @@
 **4. Porta il pubblico su un terreno che non conosce.**
 - *Definizione:* "Teach Me Something New": il cervello ignora ciò che ha già archiviato, mentre la novità libera dopamina, che secondo la neuroscienziata Martha Burns citata da Gallo è il "tasto di salvataggio" della memoria: c'è dopamina, l'informazione resta; non c'è, svanisce.
 - *Esempio:* Gallo usa un test semplice per il messaggio: riesci a condensarlo in una frase brevissima (lui parla di 140 caratteri, lo standard Twitter di allora)? Se no, non è ancora chiaro nemmeno per te.
-- *Come applicarlo:* trova il "peppo nuovo" del tuo intervento — un dato del tuo cliente, un confronto inedito, un errore diffuso che smonti — e mettilo in una frase da una riga: è quella che dovrebbero ripetere il giorno dopo.
+- *Come applicarlo:* trova il "pezzo nuovo" del tuo intervento — un dato del tuo cliente, un confronto inedito, un errore diffuso che smonti — e mettilo in una frase da una riga: è quella che dovrebbero ripetere il giorno dopo.
 - *Errore comune:* buttare dentro tutto quello che si sa: il sovraccarico non è ricchezza, è rumore.
 - *Collegamento:* la "curiosity gap" di George Loewenstein: la curiosità nasce dal divario tra ciò che sappiamo e ciò che vorremmo sapere.
 
 **5. Un solo momento a bocca aperta.**
 - *Definizione:* "Deliver Jaw-Dropping Moments": un evento "carico emotivamente" — sorpresa, shock, paura — fa scaricare dopamina e aggancia il ricordo. Dura pochissimo, ma è la parte che tutti ricordano e raccontano.
 - *Esempio:* al TED 2009 Bill Gates, parlando di malaria, apre un barattolo di zanzare e le lascia libere in sala: "Non c'è ragione perché solo i poveri debbano fare questa esperienza". Lo stunt occupa meno del 5% dei suoi 18 minuti.
-- *Come applicarlo:* scegli **uno** solo: una demo dal vivo, un oggetto fisico portato in sala, una frase-azzeccata, un dato scioccante messo a confronto con qualcosa di quotidiano. Posizionalo a metà discorso e ricollegalo esplicitamente al tuo messaggio.
+- *Come applicarlo:* scegli **uno** solo: una demo dal vivo, un oggetto fisico portato in sala, una frase azzeccata, un dato scioccante messo a confronto con qualcosa di quotidiano. Posizionalo a metà discorso e ricollegalo esplicitamente al tuo messaggio.
 - *Errore comune:* voler stupire su ogni slide: cinque colpi di scena non fanno cinque colpi, fanno rumore — e il pubblico smette di crederti.
 - *Collegamento:* la "peak-end rule" di Daniel Kahneman: giudichiamo un'esperienza dal momento più intenso e dalla fine, non dalla media. Investi su un picco e su una chiusura pulita.
 
@@ -65,7 +65,7 @@
 - *Definizione:* "Stick to the 18-Minute Rule": ascoltare è faticoso, e l'ascolto prolungato accumula quello che Gallo chiama "cognitive backlog": la stanza si svuota di energia prima che delle idee. Il limite forza la chiarezza — se non sai tagliare, forse non hai ancora capito bene cosa vuoi dire.
 - *Esempio:* David Christian ha raccontato 13 miliardi di anni di storia in 18 minuti ed è nato un movimento scolastico ("Big History"). Il curatore Chris Anderson: 18 minuti sono abbastanza per essere seri e abbastanza brevi per l'attenzione — e sono la durata di una pausa caffè, per questo i video vengono condivisi. Se devi essere più lungo, inserisci storie, video o dimostrazioni ogni 10 minuti, e fai lavorare più sensi: parole e immagini restano più delle parole sole.
 - *Come applicarlo:* prendi la presentazione che hai già e taglia almeno il 40%: via la storia dell'azienda, le slide-riepilogo, i "completerò nei prossimi slide". Poi rileggi ad alta voce con il cronometro.
-- *Errore comune:* riempire il tempo disponibile perché "tanto ce l'ho": il pubblico non ti giudia per quanto hai detto, ma per cosa ricorda.
+- *Errore comune:* riempire il tempo disponibile perché "tanto ce l'ho": il pubblico non ti giudica per quanto hai detto, ma per cosa ricorda.
 - *Collegamento:* il vincolo intelligente stimola la creatività (Matthew May, ripreso da Gallo). E sempre per onestà intellettuale: una revisione del 2016 ha trovato poche prove solide per il famoso limite di "10-15 minuti di attenzione" — la vera lezione è il taglio, non l'orologio.
 
 **7. Resta nella tua corsia.**

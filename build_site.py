@@ -47,7 +47,7 @@ def split_paragraphs(lines):
         s = ln.strip()
         if s == '':
             if buf: paras.append(' '.join(buf)); buf = []
-        elif re.match(r'^[-•]\s|^\d+[.\)]\s', s):
+        elif re.match(r'^[-•]\s|^\d+[.\)]\s|^>\s?', s):
             if buf: paras.append(' '.join(buf)); buf = []
             paras.append(s)
         else:
@@ -72,6 +72,12 @@ def render_body(paras):
                 items.append('<li>' + md_inline(re.sub(r'^\d+\.\s', '', paras[i])) + '</li>')
                 i += 1
             out.append('<ol>' + ''.join(items) + '</ol>')
+        elif re.match(r'^>\s?', p):
+            quotes = []
+            while i < len(paras) and re.match(r'^>\s?', paras[i]):
+                quotes.append(md_inline(re.sub(r'^>\s?', '', paras[i])))
+                i += 1
+            out.append('<blockquote class="maxim">' + '<br />\n'.join(quotes) + '</blockquote>')
         else:
             out.append('<p>' + md_inline(p) + '</p>')
             i += 1
@@ -228,6 +234,10 @@ a:hover{text-decoration:underline}
 .sec ul,.sec ol{margin:0 0 .9rem;padding-left:1.6rem;max-width:70ch;overflow-wrap:break-word}
 .sec li{margin-bottom:.45rem}
 .sec li::marker{color:var(--accent);font-weight:700}
+.maxim{font-family:var(--serif);font-size:1.12rem;line-height:1.6;font-style:italic;
+  margin:0 0 1rem;padding:1rem 1.25rem;border-left:5px solid var(--gold);
+  background:var(--code);border-radius:0 .9rem .9rem 0;overflow-wrap:break-word}
+.maxim strong{color:var(--gold)}
 .sec-lead{border-color:var(--gold);background:linear-gradient(180deg,rgba(249,226,175,.07),transparent 60%),var(--card)}
 .sec-lead strong{color:var(--gold)}
 .sec-key{border-color:var(--accent)}
@@ -237,8 +247,8 @@ a:hover{text-decoration:underline}
 .sec-body h2{color:var(--accent-2)}
 .sec-side h2{color:var(--green)}
 .portrait-card{background:var(--card);border:1px solid var(--border);border-radius:1rem;
-  overflow:hidden;margin:0 0 1.2rem}
-.portrait-card img{display:block;width:100%;height:auto;aspect-ratio:4/3;object-fit:cover}
+  overflow:hidden;margin:0 0 1.4rem;max-width:560px}
+.portrait-card img{display:block;width:100%;height:auto;aspect-ratio:16/9;object-fit:cover}
 .portrait-card figcaption{padding:.7rem 1rem;color:var(--muted);font-size:.82rem;font-style:italic}
 .facts{background:var(--card);border:1px solid var(--border);border-radius:1rem;
   padding:1.1rem 1.25rem;margin:0 0 1.2rem;font-size:.92rem}
@@ -336,6 +346,7 @@ def detail_page(kind, slug, title, sub, date, img, img_cap, quote, chips, raw):
              f'<a href="./">{"Filosofi" if kind == "filosofi" else "Libri"}</a> / {H.escape(title)}</p>')
     body = f'''{crumb}
 <header class="hero">
+  {fig}
   <span class="kicker">{kicker}</span>
   <h1>{H.escape(title)}</h1>
   <p class="sub">{H.escape(sub)}</p>
@@ -347,7 +358,6 @@ def detail_page(kind, slug, title, sub, date, img, img_cap, quote, chips, raw):
 {chr(10).join(main)}
   </div>
   <aside>
-    {fig}
     {chr(10).join(aside_extra)}
   </aside>
 </div>'''

@@ -1,9 +1,15 @@
-📖 **Libro del giorno: *Intelligenza emotiva***
+**Libro del giorno: *Intelligenza emotiva***
 
 **Autore:** Daniel Goleman — *Emotional Intelligence: Why It Can Matter More than IQ*, Bantam, 1995. Edizione italiana: *Intelligenza emotiva. Che cos'è e perché può renderci felici*, Rizzoli.
 
 **Introduzione**
-Nel 1990 due psicologi, Peter Salovey e John Mayer, coniarono l'espressione "intelligenza emotiva"; cinque anni dopo Daniel Goleman — psicologo formatosi ad Harvard, per oltre dodici anni giornalista scientifico del *New York Times* — la rese un'idea popolare, intrecciando neuroscienze e casi di vita. Il libro restò circa diciotto mesi nella lista dei best seller del *New York Times*, fu tradotto in 40 lingue e la *TIME* lo annoverò tra i 25 libri di management più influenti. Perché conta oggi: viviamo in un ambiente — lavoro, chat, social, trattative — che ci sollecita continuamente sul piano emotivo, mentre a scuola ci hanno insegnato solo le materie. Utile a chi negozia, vende, presenta, guida un team, o semplicemente vuole smettere di perdere la testa nei momenti caldi.
+Nel 1990 due psicologi, Peter Salovey e John Mayer, coniarono l'espressione "intelligenza emotiva"; cinque anni dopo Daniel Goleman — psicologo formatosi ad Harvard, per oltre dodici anni giornalista scientifico del *New York Times* — la rese un'idea popolare, intrecciando neuroscienze e casi di vita.
+
+**Un successo mondiale.** Il libro restò circa diciotto mesi nella lista dei best seller del *New York Times*, fu tradotto in 40 lingue e la *TIME* lo annoverò tra i 25 libri di management più influenti.
+
+**Perché conta oggi.** Viviamo in un ambiente — lavoro, chat, social, trattative — che ci sollecita continuamente sul piano emotivo, mentre a scuola ci hanno insegnato solo le materie.
+
+**A chi serve.** Utile a chi negozia, vende, presenta, guida un team, o semplicemente vuole smettere di perdere la testa nei momenti caldi.
 
 **Riassunto**
 - **La scintilla centrale:** un QI alto non basta. A predire relazioni stabili, salute e successo al lavoro ci sono autocontrollo, perseveranza e empatia — e a differenza del QI queste capacità si possono imparare, a qualsiasi età.
@@ -25,7 +31,7 @@ Nel 1990 due psicologi, Peter Salovey e John Mayer, coniarono l'espressione "int
 **1. Il rapimento emotivo dell'amygdala**
 - *Definizione:* l'amygdala è la centrale d'allarme del cervello: interroga ogni esperienza con una sola domanda ("è qualcosa che temo? che mi fa male?") e può scattare come un contatto elettrico, mandando il segnale di crisi in tutto il cervello molto prima che la corteccia abbia analizzato la situazione. Goleman lo chiama rapimento emotivo: serviva ai nostri antenati per scappare dai predatori, oggi ci fa esplodere in riunione.
 - *Esempio:* un collega anticipa la tua frase con tono stizzito, tu rispondi secco e la riunione si incrina — capisci cosa ti ha ferito solo ore dopo.
-- *Come applicarlo:* mappa i tuoi trigger ricorrenti (critica pubblica, tono di comando, sorprese di ultima ora); installa una pausa meccanica — tre respiri, un sorso d'acqua, un "ci penso e torno io" — tra stimolo e risposta; rimanda a freddo ogni risposta scritta d'impulso.
+- *Come applicarlo:* mappa i tuoi fattori scatenanti ricorrenti (critica pubblica, tono di comando, sorprese di ultima ora); installa una pausa meccanica — tre respiri, un sorso d'acqua, un "ci penso e torno io" — tra stimolo e risposta; rimanda a freddo ogni risposta scritta d'impulso.
 - *Errore comune:* pensare "è lui che mi fa arrabbiare". Il fatto è il detonatore, non la causa: la causa è la lettura che ne fai.
 - *Collegamento:* Viktor Frankl (*Man's Search for Meaning*): nello spazio tra stimolo e risposta c'è la nostra libertà di scegliere — il rapimento emotivo è proprio quello spazio che si chiude.
 
@@ -37,7 +43,7 @@ Nel 1990 due psicologi, Peter Salovey e John Mayer, coniarono l'espressione "int
 - *Collegamento:* Antonio Damasio, *L'errore di Cartesio*: chi ha lesioni che aboliscono il marcaggio emotivo prende decisioni peggiori anche con un QI intatto — la ragione senza sentimento è handicappata.
 
 **3. Autoconsapevolezza: nominare per governare**
-- *Definizione:* riconoscere in tempo reale quale emozione si sta provando e come sta filtrare giudizi e azioni. È la base di tutto: non puoi gestire ciò che non percepisci. Goleman gli dedica il capitolo "Conosci te stesso".
+- *Definizione:* riconoscere in tempo reale quale emozione si sta provando e come sta filtrando giudizi e azioni. È la base di tutto: non puoi gestire ciò che non percepisci. Goleman gli dedica il capitolo "Conosci te stesso".
 - *Esempio:* "sono arrabbiato" è grigio; "mi sento umiliato perché ha corretto il mio lavoro davanti a tutti" è preciso — e già riduce la presa che l'emozione ha su di te.
 - *Come applicarlo:* tre volte al giorno completa la frase "mi sento… perché…" con una parola esatta (preoccupato, invidioso, frustrato, sollevato); tieni per una settimana un taccuino emotivo; segna le situazioni che ti sorprendono arrabbiato o triste.
 - *Errore comune:* confondere l'emozione col fatto ("mi ha fatto arrabbiare" descrive l'altro, non te) e accontentarsi di parole vaghe come "sto male" o "sono stressato", che non dicono nulla di governabile.
@@ -47,7 +53,7 @@ Nel 1990 due psicologi, Peter Salovey e John Mayer, coniarono l'espressione "int
 - *Definizione:* lasciare che l'emozione nasca senza lasciarsi travolgere, modulandone intensità e durata. Goleman apre il libro con la sfida di Aristotele: arrabbiarsi con la persona giusta, nella giusta misura, al momento giusto, per il giusto motivo e nel modo giusto.
 - *Esempio:* un'email che ti sobbalza: puoi rispondere d'impulso (lasciarti prendere), cancellare tutto e fingere non ti abbia toccato (comprimere), oppure scrivere la risposta, lasciarla lì e mandarla venti minuti dopo, lucida.
 - *Come applicarlo:* tecnica del "bozza, non inviare"; allunga l'espirazione, il respiro lungo calma l'attivazione; riscrivi il pensiero che alimenta l'emozione ("mi sta sottovalutando" → "ha fretta, non è un giudizio su di me").
-- *Errore comune:* scambiare l'autocontrollo per compressione. Trenere ripetutamente significa restare in allerta fisiologica e far marcire i rapporti sotto la superficie.
+- *Errore comune:* scambiare l'autocontrollo per compressione. Trattenere ripetutamente significa restare in allerta fisiologica e far marcire i rapporti sotto la superficie.
 - *Collegamento:* James Gross (Stanford): sopprimere l'emozione peggiora l'attivazione fisica e i rapporti, mentre rielaborarla funziona meglio — lo stesso principio alla base della mindfulness di Kabat-Zinn.
 
 **5. Controllo dell'impulso: il test del marshmallow**
@@ -74,10 +80,10 @@ Nel 1990 due psicologi, Peter Salovey e John Mayer, coniarono l'espressione "int
 **Applicazione pratica — 3 azioni per la settimana**
 1. **Diario emotivo (5 giorni):** tre volte al giorno una frase: "mi sento… perché…". Obiettivo: ampliare il vocabolario emotivo.
 2. **La regola della pausa:** mai rispondere a caldo. Su ogni messaggio o provocazione che ti accende: tre respiri, o venti minuti di attesa prima di inviare.
-3. **Un ascolto empatico al giorno:** in una conversazione riformula ciò che ha sentito l'altro prima di esporre il tuo parere.
+3. **Un ascolto empatico al giorno:** in una conversazione riformula ciò che ha detto l'altro prima di esporre il tuo parere.
 
 **Da portare a casa**
 Non è il QI a decidere come ti va la vita: sono le tue parole per le emozioni — riconoscerle, nominarle, governarle — e, come scrive Goleman, a queste abilità un tempo si dava un nome semplice: il carattere. È un muscolo: si allena.
 
-**💬 Approfondimento in chat**
+**Approfondimento in chat**
 Rispondimi con il **numero** di un concetto (da 1 a 7) che vuoi espandere di più, oppure con un tema — public speaking, vendite, persuasione, negoziazione, stress, emozioni, carriera — e ci costruiamo sopra la prossima volta.

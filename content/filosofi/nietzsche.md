@@ -13,13 +13,19 @@ Buongiorno Alberto. Oggi tocca a **Friedrich Nietzsche**: il filosofo che ha pre
 
 💬 **Cosa vuole dire**
 
-Letta da social, la frase sembra una ricetta di resilienza: "sorporta il dolore e diventi più forte". Nel contesto dice qualcosa di più scomodo. La formula completa parla di una *scuola di guerra*: la vita non è un percorso lineare da compiere, ma un allenamento che ti frusta. E non si tratta di subire passivamente — si tratta di prendere ciò che ti ferisce e trasformarlo in materia per crescere.
+Letta sui social, la frase sembra una ricetta di resilienza: "sopporta il dolore e diventi più forte". Nel contesto dice qualcosa di più scomodo. La formula completa parla di una *scuola di guerra*: la vita non è un percorso lineare da compiere, ma un allenamento che ti frusta. E non si tratta di subire passivamente — si tratta di prendere ciò che ti ferisce e trasformarlo in materia per crescere.
 
-Nietzsche parlava per esperienza diretta. Visse con emicranie terribili, vomiti, una vista quasi cieca, mesi interi a letto; e proprio in quei periodi di bassa vitalità, racconta in *Ecce Homo*, smise di essere un pessimista: l'istinto di autoconservazione gli proibì di restare fedele "a una filosofia della povertà e della disperazione". La massima condensa tre idee portanti del suo pensiero: l'*amor fati* (dire sì anche al destino più amaro), la *volontà di potenza* come superamento di sé, e il rifiuto della rassegnazione che aveva assorbito dal giovane Schopenhauer.
+Nietzsche parlava per esperienza diretta. Visse con emicranie terribili, vomiti, una vista quasi cieca, mesi interi a letto; e proprio in quei periodi di bassa vitalità, racconta in *Ecce Homo*, smise di essere un pessimista: l'istinto di autoconservazione gli proibì di restare fedele "a una filosofia della povertà e della disperazione".
+
+**Tre idee in una frase.** La massima condensa tre idee portanti del suo pensiero: l'*amor fati* (dire sì anche al destino più amaro), la *volontà di potenza* come superamento di sé, e il rifiuto della rassegnazione che aveva assorbito dal giovane Schopenhauer.
 
 👤 **Chi era**
 
-Nato a Röcken il 15 ottobre 1844, figlio di un pastore luterano; morto a Weimar il 25 agosto 1900. Filologo prodigio: a ventiquattro anni (1869) ottiene la cattedra all'Università di Basilea senza aver neppure finito la tesi. Amicizia appassionata e rottura con Wagner (per *Parsifal* e per il nazionalismo di Bayreuth). Opere chiave: *La nascita della tragedia* (1872), *Humano, troppo umano* (1878), *La gaia scienza* (1882, con la "morte di Dio"), *Così parlò Zarathustra* (1883-85), *Al di là del bene e del male* (1886), *Genealogia della morale* (1887), *Il crepuscolo degli idoli* e *L'anticristo* (1888). Poi il collasso: Torino, 3 gennaio 1889, abbraccia in piazza Carlo Alberto un cavallo frustato dal cocchiere. Undici anni di follia, morto a Weimar.
+Nato a Röcken il 15 ottobre 1844, figlio di un pastore luterano; morto a Weimar il 25 agosto 1900. Filologo prodigio: a ventiquattro anni (1869) ottiene la cattedra all'Università di Basilea senza aver neppure finito la tesi. Amicizia appassionata e rottura con Wagner (per *Parsifal* e per il nazionalismo di Bayreuth).
+
+**Le opere e il crollo.** Opere chiave: *La nascita della tragedia* (1872), *Umano, troppo umano* (1878), *La gaia scienza* (1882, con la "morte di Dio"), *Così parlò Zarathustra* (1883-85), *Al di là del bene e del male* (1886), *Genealogia della morale* (1887), *Il crepuscolo degli idoli* e *L'anticristo* (1888).
+
+**Il crollo.** Poi il collasso: Torino, 3 gennaio 1889, abbraccia in piazza Carlo Alberto un cavallo frustato dal cocchiere. Undici anni di follia, morto a Weimar.
 
 🧠 **Sintesi del pensiero**
 

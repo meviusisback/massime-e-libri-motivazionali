@@ -8,7 +8,9 @@
 
 Chris Voss è stato per 24 anni nell'FBI, dove è diventato il negoziatore di rapimenti internazionali di riferimento; ha trattato con rapinatori di banche, capi banda e terroristi, lasciando il Bureau nel 2007 con oltre 150 trattative ad alto rischio alle spalle. Poi ha portato lo stesso metodo in azienda con la Black Swan Group e insegnato negoziazione in università prestigiose.
 
-**Perché conta oggi**: ci dicono che negoziare significa esser logici, preparati, pronti a replicare. Voss dimostra il contrario: la ragione da sola non convince nessuno, perché le persone non decidono sulla logica ma sulle emozioni. **A chi è utile**: a chi chiede un aumento, compra una macchina, tratta un preventivo, rinegozia un affitto — e a chi discute con figli o partner pensando di star usando la "ragione".
+**Perché conta oggi**: ci dicono che negoziare significa essere logici, preparati, pronti a replicare. Voss dimostra il contrario: la ragione da sola non convince nessuno, perché le persone non decidono sulla logica ma sulle emozioni.
+
+**A chi è utile**: a chi chiede un aumento, compra una macchina, tratta un preventivo, rinegozia un affitto — e a chi discute con figli o partner pensando di star usando la "ragione".
 
 ---
 
@@ -46,7 +48,7 @@ Ogni trattativa è prima di tutto un flusso di informazioni: chi vuole "avere ra
 Il *mirroring* consiste nel ripetere con tono curioso le ultime due o tre parole che l'interlocutore ha appena detto, come per chiedergli di verificarle.
 *Esempio*: "Non possiamo consegnare entro venerdì." — tu, piano: "Entro venerdì?" E l'altro, per riflesso: "Beh, in realtà forse mercoledì potremmo fare qualcosa." Ha appena ceduto informazioni che non voleva dare.
 *Applicazione*: scegli le parole salienti, usala con una voce calma e lenta (Voss la chiama la voce del **DJ di notte**), poi **silenzio**: il vuoto attrae l'altra persona a riempirlo.
-*Errore comune*: specchiare ogni frase meccanica (sembri un pappagallo), oppure — peggio — riempire il silenzio parlando tu e sabotare la tecnica.
+*Errore comune*: specchiare ogni frase meccanicamente (sembri un pappagallo), oppure — peggio — riempire il silenzio parlando tu e sabotare la tecnica.
 *Collegamento*: lo studio sui camerieri di **Richard Wiseman** citato da Voss: quelli che riusavano le parole del cliente ricevevano in media mance più alte (intorno al 70%). È lo specchiamento descritto dalla psicologia sociale.
 
 **3. Etichetta le emozioni invece di consolarle**
@@ -61,18 +63,18 @@ Voss distingue tre sì: **contraffatto** (la via di fuga più facile per non aff
 *Esempio*: chiedi "Quindi confermi che vuoi cambiare le condizioni?" — l'altro dice sì per chiuderti in faccia la conversazione, e poi non fa nulla.
 *Applicazione*: costruisci domande che rendano il **no sicuro e comodo** ("È questo il momento sbagliato per parlarne?", "Le sto chiedendo qualcosa di irrealistico?"): la controparte si sente protetta, smette di difendersi e ricomincia a parlare davvero.
 *Errore comune*: temere il no come una sconfitta e insistere per un sì a ogni costo, trasformando la trattativa in un interrogatorio.
-*Collegamento*: **Fisher e Ury** in *Arrivare a sì* — dietro ogni posizione c'è un interesse; il no, in realtà, ti sta rivelando quello interesse meglio di un sì frettoloso.
+*Collegamento*: **Fisher e Ury** in *Arrivare a sì* — dietro ogni posizione c'è un interesse; il no, in realtà, ti sta rivelando quell'interesse meglio di un sì frettoloso.
 
 **5. Domande calibrate: solo "come" e "cosa"**
 Sono domande che iniziano con *come* o *cosa*, tarate più per l'impatto emotivo che per l'informazione: danno all'altro l'illusione del controllo mentre lo portano dove vuoi tu.
 *Esempio*: invece di "Puoi scontarmi il 5%?", prova: "Come mi consiglia di giustificare questo prezzo al mio capo?" o "Cosa mi suggerisce di fare per chiuderla questa settimana?" L'interlocutore lavora per te — e ti sta dicendo da solo come ottenere quello che vuoi.
-*Applicazione*: riscrivi le tue richieste dirette in domande "come/cosa"; quelle "cosa" fanno nominare gli ostacoli, quelle "quando" spingono a fissare una data.
+*Applicazione*: riscrivi le tue richieste dirette in domande "come/cosa"; quelle "cosa" fanno nominare gli ostacoli, quelle "come" spingono a fissare una data.
 *Errore comune*: usare il **"perché"** — suona come un interrogatorio e mette subito l'altro sulla difensiva — o mascherare una richiesta in una domanda chiusa ("non è meglio se...?").
 *Collegamento*: lo script dell'upgrade in albergo che Voss attribuisce a un tasso di successo oltre il 90%: prima riconosci di sembrare un rompiscatole ("audit delle accuse"), poi chiedi "quanti guai si prende se le chiedo una suite?".
 
 **6. Audit delle accuse e ancoraggi: preparati a ciò che ti diranno**
 L'*audit delle accuse* è l'elenco esaustivo di tutti i pensieri negativi che l'altra parte può avere su di te — che devi **dichiarare per primo**. Poi viene l'ancoraggio: chi nomina per primo il numero tende a fissare il riferimento di tutta la trattativa.
-*Esempio*: chiedi un aumento e apri così: "Sembra che stia approfittando di un momento complicato per l'azienda." Le accuse dette da te da solo perdono il potere di colpirti e ti fanno sembrare onesto.
+*Esempio*: chiedi un aumento e apri così: "Sembra che stia approfittando di un momento complicato per l'azienda." Le accuse dette da te da sole perdono il potere di colpirti e ti fanno sembrare onesto.
 *Applicazione*: prima di ogni conversazione difficile scrivi 5 accuse negative possibili, scegli le due più dolorose e dille tu per primo; poi prepara la tua "ancora" con consapevolezza.
 *Errore comune*: giocare la carta del "giusto": Voss avverte che invocare la parola *fair* accende l'ira dell'altra parte, perché suggerisce che qualcuno sia stato ingiusto — ed è il modo più veloce per irrigidire una trattativa.
 *Collegamento*: l'**avversione alla perdita** di Kahneman e Tversky (una perdita pesa più di un guadagno equivalente) e l'**effetto Pinocchio**: una bugia detta in trattativa se ne esce sempre, e peggiora tutto.
@@ -89,8 +91,8 @@ Un "cigno nero" è un frammento innocuo di informazione, ignoto a entrambe le pa
 **5. Applicazione pratica — 3 azioni per questa settimana**
 
 - **Usa il mirroring tre volte** in una conversazione reale: ripeti le ultime parole dell'altro con tono curioso e poi conta fino a cinque in silenzio.
-- **Prepara un audit delle accuse** (5 punti) prima di una discussione programmata — un rinnovo, un preventivo, un confronto sul lavoro — e aprile tu per primo.
-- **Riscrivi una richiesta diretta** come domanda calibrate: da "Puoi darmi uno sconto?" a "Come mi consiglia di fare per giustificare questo prezzo al mio capo?" — e osserva cosa cambia nella risposta.
+- **Prepara un audit delle accuse** (5 punti) prima di una discussione programmata — un rinnovo, un preventivo, un confronto sul lavoro — e aprilo tu per primo.
+- **Riscrivi una richiesta diretta** come domanda calibrata: da "Puoi darmi uno sconto?" a "Come mi consiglia di fare per giustificare questo prezzo al mio capo?" — e osserva cosa cambia nella risposta.
 
 ---
 

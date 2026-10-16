@@ -1,7 +1,3 @@
-Tutto verificato: ritratto su disco (PNG valido 394 KB), massima controllata su Wikiquote (trad. Maltese, Garzanti 2007, cap. 5), used.json aggiornato con Epitteto. Ecco il briefing.
-
----
-
 **Buongiorno Alberto! 👋 La massima del filosofo di oggi porta in un'epoca lontana ma sorprendentemente vicina: la Roma degli imperatori, la scuola di uno schiavo.**
 
 Ritratto: /home/alberto/.hermes/profiles/philosopher/workspace/daily-philosopher/2026-10-14-ritratto.png
@@ -15,18 +11,28 @@ Ritratto: /home/alberto/.hermes/profiles/philosopher/workspace/daily-philosopher
 **«Non sono i fatti in sé che turbano gli uomini, ma i giudizi che gli uomini formulano sui fatti.»**
 *(Manuale, o Enchiridion, cap. 5 — traduzione di E. V. Maltese, Garzanti 2007)*
 
-Questa frase è il cuore pulsante di tutto il suo pensiero, ed è anche quella che la filosofia stoica ha trasmesso, intatta, fino a noi. Il punto sottile è questo: tra un evento e la tua reazione emotiva c'è sempre un passaggio invisibile — il **giudizio** che dai a quell'evento. Un'amica ti ignora in chat (fatto). Tu pensi "mi sta evitando perché non le interessi più" (giudizio) — ed ecco che arriva il dolore. Ma se il giudizio è sbagliato — magari è in riunione da due ore — la sofferenza non nasce affatto.
+Questa frase è il cuore pulsante di tutto il suo pensiero, ed è anche quella che la filosofia stoica ha trasmesso, intatta, fino a noi.
 
-Per Epitteto questo non è un tecnicismo: è la base di tutta la libertà umana. Se i fatti ci turbassero direttamente, saremmo in balia del caso. Invece, nel punto esatto in cui il fatto entra nella nostra mente, noi possiamo scegliere se accettare quel giudizio o rifiutarlo. È lì, e solo lì, che si gioca il nostro bene e il nostro male. Tutto il resto — salute, denaro, fama, persino la morte — è "indifferente".
+**Il passaggio invisibile.** Il punto sottile è questo: tra un evento e la tua reazione emotiva c'è sempre un passaggio invisibile — il **giudizio** che dai a quell'evento. Un'amica ti ignora in chat (fatto). Tu pensi «mi sta evitando perché non le interessi più» (giudizio) — ed ecco che arriva il dolore.
+
+**Se il giudizio è sbagliato.** Ma se il giudizio è sbagliato — magari è in riunione da due ore — la sofferenza non nasce affatto.
+
+Per Epitteto questo non è un tecnicismo: è la base di tutta la libertà umana. Se i fatti ci turbassero direttamente, saremmo in balia del caso.
+
+**Qui si gioca tutto.** Invece, nel punto esatto in cui il fatto entra nella nostra mente, noi possiamo scegliere se accettare quel giudizio o rifiutarlo. È lì, e solo lì, che si gioca il nostro bene e il nostro male. Tutto il resto — salute, denaro, fama, persino la morte — è «indifferente».
 
 ---
 
 ### 📜 Biografia breve
-Epitteto nasce schiavo verso il 50 d.C. a **Gerapoli**, nell'Asia Minore (oggi Turchia). Il suo nome greco, *Èpiktètos*, significa letteralmente **"il comprato"**, "il posseduto": era il nome che si dava ai servi, come "libero" o "salvato" per i ragazzi. Viene portato a Roma e messo alle dipendenze di **Epafrodito**, liberto e segretario dell'imperatore Nerone.
+Epitteto nasce schiavo verso il 50 d.C. a **Ierapoli**, nell'Asia Minore (oggi Turchia). Il suo nome greco, *Èpiktètos*, significa letteralmente **"il comprato"**, "il posseduto": era il nome che si dava ai servi, come "libero" o "salvato" per i ragazzi. Viene portato a Roma e messo alle dipendenze di **Epafrodito**, liberto e segretario dell'imperatore Nerone.
 
-Da schiavo impara — probabilmente in segreto — la filosofia, finché non ottiene la libertà. Si mette a insegnare, ma la sua gamba è rimasta storpiata: le fonti antiche si dividono tra chi attribuisce il difetto a una malattia dell'infanzia e chi alla violenza del padrone. Nonostante la condizione umile, la sua scuola è aperta a tutti: donne, liberti, stranieri, gente povera — cosa rara per l'epoca. E non chiede mai soldi.
+Da schiavo impara — probabilmente in segreto — la filosofia, finché non ottiene la libertà. Si mette a insegnare, ma la sua gamba è rimasta storpiata: le fonti antiche si dividono tra chi attribuisce il difetto a una malattia dell'infanzia e chi alla violenza del padrone.
 
-Intorno all'86-89 d.C., l'imperatore **Domiziano**, sospettoso verso ogni filosofia libera,bandisce dalla città tutti i filosofi. Epitteto si trasferisce a **Nicopoli**, in Epiro, e qui continua a insegnare fino alla vecchiaia, mantenendo uno stile di vita asciuttissimo. La sua lampada d'argilla gli viene rubata una volta: "Domani", dice, "me ne servirà un'altra". Non scrisse mai nulla di suo. Morì verso il 135.
+**Una scuola aperta a tutti.** Nonostante la condizione umile, la sua scuola è aperta a tutti: donne, liberti, stranieri, gente povera — cosa rara per l'epoca. E non chiede mai soldi.
+
+Intorno all'86-89 d.C., l'imperatore **Domiziano**, sospettoso verso ogni filosofia libera, bandisce dalla città tutti i filosofi. Epitteto si trasferisce a **Nicopoli**, in Epiro, e qui continua a insegnare fino alla vecchiaia, mantenendo uno stile di vita asciuttissimo.
+
+**La lampada d'argilla.** La sua lampada d'argilla gli viene rubata una volta: «Domani», dice, «me ne servirà un'altra». Non scrisse mai nulla di suo. Morì verso il 135.
 
 ---
 
@@ -44,13 +50,15 @@ Non a caso, anche oggi i manuali di **terapia cognitivo-comportamentale** citano
 ---
 
 ### 📚 Contesto storico
-Epitteto vive in piena **età imperiale romana**, sotto i Flavi (Vespasiano, Tito, Domiziano) e all'inizio degli Antonini (Nerva, Trajano, Adriano). È contemporaneo di **Seneca** (che pure aveva servito Nerone) e precede di un secolo **Marco Aurelio**, che delle sue lezioni riceverà gli scritti tramite il maestro Giunio Rustico.
+Epitteto vive in piena **età imperiale romana**, sotto i Flavi (Vespasiano, Tito, Domiziano) e all'inizio degli Antonini (Nerva, Traiano, Adriano). È contemporaneo di **Seneca** (che pure aveva servito Nerone) e precede di un secolo **Marco Aurelio**, che delle sue lezioni riceverà gli scritti tramite il maestro Giunio Rustico.
 
 La **Stoa romana** — Seneca, Epitteto, Marco Aurelio — è la filosofia che cerca di sopravvivere alla crisi della polis: la libertà non si trova più nelle istituzioni, ma nell'anima individuale. Epitteto è l'esponente più radicale di questa linea.
 
 **Influenze ricevute:** lo **stoicismo ellenistico** (Zenone, Crisippo) — in particolare la teoria delle rappresentazioni e dell'assenso — e la tradizione **cinica** di Diogene, che Epitteto ammira per la sua frugalità e il disprezzo per le convenzioni. Il suo maestro diretto è **Musonio Rufo**, cavaliere romano e stoico.
 
-**Influenze trasmesse:** il suo *Manuale* diventa uno dei testi morali più letti della storia, letto per secoli nei **monasteri ortodossi** (ancora oggi, in alcune comunità). Contamina il **cristianesimo primitivo** (Clemente Alessandrino e Origene lo citano con stima), passa attraverso **Montaigne** e **Pascal**, e arriva fino alla moderna **psicoterapia cognitiva** e al **movimento stoico contemporaneo** (Massimo Pigliucci, Ryan Holiday, i podcast e i gruppi di lettura che lo riscoprono ogni anno).
+**Influenze trasmesse:** il suo *Manuale* diventa uno dei testi morali più letti della storia, letto per secoli nei **monasteri ortodossi** (ancora oggi, in alcune comunità). Contamina il **cristianesimo primitivo** (Clemente Alessandrino e Origene lo citano con stima), passa attraverso **Montaigne** e **Pascal**.
+
+**Fino a oggi.** Arriva fino alla moderna **psicoterapia cognitiva** e al **movimento stoico contemporaneo** (Massimo Pigliucci, Ryan Holiday, i podcast e i gruppi di lettura che lo riscoprono ogni anno).
 
 ---
 

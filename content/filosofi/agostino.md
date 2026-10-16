@@ -8,11 +8,21 @@ Ritratto di Philippe de Champaigne (XVII secolo, pubblico dominio, Wikimedia Com
 **"Tardi ti amai, bellezza tanto antica e tanto nuova, tardi ti amai!"**
 — *Confessioni*, X, 27, 38 (originale latino: *"Sero te amavi, pulchritudo tam antiqua et tam nova, sero te amavi!"* — attribuzione verificata sul testo e sulle fonti)
 
-**Che ci dice.** È il grido di un uomo che riconosce di aver cercato la felicità ovunque tranne che dentro di sé. Agostino non dice "non ti ho mai amato", ma "tardi": per trent'anni ha inseguito il piacere, il successo intellettuale, le sette, le astuzie retoriche — e la Verità era già lì, dentro di lui, mentre lui la cercava fuori. Il paradosso "antica e nuova" è tipico del suo pensiero: Dio (la Verità, il Bene) non cambia, dunque è *antico*; ma ogni incontro con lui è nuovo perché è l'uomo che si rinnova. La massima condensa il nucleo delle *Confessioni*: il tempo, il desiderio irrequieto e il fatto che il male non è una realtà da trovare, ma qualcosa che noi *scegliamo*, ovvero una carenza di bene.
+**Che ci dice.** È il grido di un uomo che riconosce di aver cercato la felicità ovunque tranne che dentro di sé. Agostino non dice "non ti ho mai amato", ma "tardi": per trent'anni ha inseguito il piacere, il successo intellettuale, le sette, le astuzie retoriche — e la Verità era già lì, dentro di lui, mentre lui la cercava fuori.
+
+**Antica e nuova.** Il paradosso è tipico del suo pensiero: Dio (la Verità, il Bene) non cambia, dunque è *antico*; ma ogni incontro con lui è nuovo perché è l'uomo che si rinnova. La massima condensa il nucleo delle *Confessioni*: il tempo, il desiderio irrequieto e il fatto che il male non è una realtà da trovare, ma qualcosa che noi *scegliamo*, ovvero una carenza di bene.
 
 ## 📖 Biografia in breve
 
-Agostino nasce il 13 novembre 354 a Tagaste, nell'Africa romana (l'odierna Souk Ahras, in Algeria): figlio di Patrizio, funzionario pagano, e di Monica, cristiana devota che non smette di pregare per lui. Studia retorica a Cartagine, dove a 19 anni legge l'*Ortensio* di Cicerone e scopre la filosofia — ma anche l'ambizione e la vanità dello "spettacolo" intellettuale. Vive come concubina con una donna che gli darà il figlio Adeodato; resta legato al manicheismo per circa dieci anni, fino a deludersene. Nel 383 lascia Cartagine per Roma, poi nel 384 ottiene la cattedra di retorica a Milano. Qui, tra il 386 e il 387, ascolta il vescovo **Ambrogio**, legge i "libri dei platonicorum" in traduzione latina e, durante una crisi interiore nel giardino di Cassiciacum, matura la conversione: nella Pasqua del 387 Ambrogio lo battezza, insieme ad Adeodato. Torna in Africa, fonda comunità, viene ordinato sacerdote a Ippona nel 391 e consacrato vescovo nel 395. Scrive le *Confessioni* (397-400) e, dopo il sacco di Roma del 410, inizia la *Città di Dio* (413-426). Muore il 28 agosto 430, mentre i Vandali di Genserico assediano Ippona. Il carattere: un convertito che non finge di essere nato santo — orgoglioso, passionale, testardo, capace di ammettere davanti a tutti i propri fallimenti.
+Agostino nasce il 13 novembre 354 a Tagaste, nell'Africa romana (l'odierna Souk Ahras, in Algeria): figlio di Patrizio, funzionario pagano, e di Monica, cristiana devota che non smette di pregare per lui. Studia retorica a Cartagine, dove a 19 anni legge l'*Ortensio* di Cicerone e scopre la filosofia — ma anche l'ambizione e la vanità dello "spettacolo" intellettuale.
+
+**Gli anni inquieti.** Convive con una concubina, una donna che gli darà il figlio Adeodato; resta legato al manicheismo per circa dieci anni, fino a restarne deluso. Nel 383 lascia Cartagine per Roma, poi nel 384 ottiene la cattedra di retorica a Milano.
+
+**La conversione.** Qui, tra il 386 e il 387, ascolta il vescovo **Ambrogio**, legge i "libri dei platonicorum" in traduzione latina e, durante una crisi interiore nel giardino di Cassiciacum, matura la conversione: nella Pasqua del 387 Ambrogio lo battezza, insieme ad Adeodato.
+
+**Vescovo di Ippona.** Torna in Africa, fonda comunità, viene ordinato sacerdote a Ippona nel 391 e consacrato vescovo nel 395. Scrive le *Confessioni* (397-400) e, dopo il sacco di Roma del 410, inizia la *Città di Dio* (413-426). Muore il 28 agosto 430, mentre i Vandali di Genserico assediano Ippona.
+
+**Il carattere.** Un convertito che non finge di essere nato santo — orgoglioso, passionale, testardo, capace di ammettere davanti a tutti i propri fallimenti.
 
 ## 🧭 Sintesi del pensiero
 
@@ -25,7 +35,7 @@ Agostino nasce il 13 novembre 354 a Tagaste, nell'Africa romana (l'odierna Souk 
 
 ## 🏛️ Contesto storico
 
-**Lo riceve:** la retorica romana e l'etica della gloria di **Cicerone**; il **manicheismo** (movimento dualista di Mani, fiore in Africa romana); il **neoplatonismo** di **Plotino**, che lo convince che dietro la molteplicità c'è un unico principio — ma che non gli dà il Dio che cerca; la lettura di **Paolo** (la lettera ai Romani è la scintilla della conversione) e l'esegesi di **Ambrogio**.
+**Lo riceve:** la retorica romana e l'etica della gloria di **Cicerone**; il **manicheismo** (movimento dualista di Mani, fiorente in Africa romana); il **neoplatonismo** di **Plotino**, che lo convince che dietro la molteplicità c'è un unico principio — ma che non gli dà il Dio che cerca; la lettura di **Paolo** (la lettera ai Romani è la scintilla della conversione) e l'esegesi di **Ambrogio**.
 
 **Lo trasmette:** la **scolastica medievale** (**Anselmo**, **Bonaventura**, **Tommaso d'Aquino**); la **Riforma protestante** (**Lutero**, che fu frate agostiniano, e **Calvino**, sulla grazia); il **giansenismo** e **Pascal**; la filosofia moderna (**Cartesio** riprende il "se erro, esisto" della *Città di Dio*); la filosofia del tempo interiore, fino a **Bergson**.
 

@@ -14,23 +14,35 @@ Ritratto (1933, pubblico dominio):
 > *"Ciò che propongo, quindi, è molto semplice: non è altro che pensare a ciò che stiamo facendo."*
 > — Hannah Arendt, *La condizione umana* (1958), introduzione
 
-**Spiegazione.** Sembra una frase banale, quasi un consiglio da manualetto: pensa a quello che fai. Ma nel contesto del libro assume un peso enorme. Arendt la pronuncia per aprire un'analisi della *vita activa* — il triplice ambito del lavoro, dell'opera e dell'azione — in un'epoca in cui, dice, ci siamo abituati a *agire senza pensarci*. Il "pensare a ciò che stiamo facendo" non è riflessione astratta da biblioteca: è quella facoltà di fermarsi, di interrompere il flusso automatico delle abitudini e di chiedersi *perché* stiamo facendo ciò che facciamo.
+**Spiegazione.** Sembra una frase banale, quasi un consiglio da manualetto: pensa a quello che fai. Ma nel contesto del libro assume un peso enorme. Arendt la pronuncia per aprire un'analisi della *vita activa* — il triplice ambito del lavoro, dell'opera e dell'azione — in un'epoca in cui, dice, ci siamo abituati a *agire senza pensarci*.
 
-Il paradossoAre ndtiano è che pensare è difficile proprio perché è semplice: è un dialogo silenzioso con se stessi, un "due in uno", che non richiede genialità ma solo la disponibilità a fermarsi. Ed è questa idea che la porterà, quindici anni dopo, a diagnosicare Adolf Eichmann a Gerusalemme non come un mostro, ma come un uomo *incapace di pensare*, un burocrate che obbediva senza mai fermarsi a interrogare se stesso. Il male, dice, può essere banale quando manca il pensiero.
+**Fermarsi a pensare.** Il "pensare a ciò che stiamo facendo" non è riflessione astratta da biblioteca: è quella facoltà di fermarsi, di interrompere il flusso automatico delle abitudini e di chiedersi *perché* stiamo facendo ciò che facciamo.
+
+**Il paradosso arendtiano.** Pensare è difficile proprio perché è semplice: è un dialogo silenzioso con se stessi, un "due in uno", che non richiede genialità ma solo la disponibilità a fermarsi.
+
+**Eichmann.** Ed è questa idea che la porterà, quindici anni dopo, a diagnosticare Adolf Eichmann a Gerusalemme non come un mostro, ma come un uomo *incapace di pensare*, un burocrate che obbediva senza mai fermarsi a interrogare se stesso. Il male, dice, può essere banale quando manca il pensiero.
 
 Per Arendt, dunque, pensare non è un lusso intellettuale: è la condizione minima della moralità. Chi non pensa non è cattivo per definizione — è solo pericolosamente automatico.
 
 ## 🧑 La vita
 
-Hannah Arendt nacque nel 1906 a Linden, presso Hannover, in una famiglia ebrea tedesca di cultura laica. Studiò filosofia e teologia con Karl Jaspers e Martin Heidegger a Marburgo e Heidelberg — e proprio il legame (turbolento) con Heidegger segnò per sempre il suo rapporto con la filosofia tedesca. Dopo la tesi su Sant'Agostino e il concetto di amore nel pensiero antico, entrò attivamente in politica: collaborò con l'Organizzazione sionista tedesca, fu perseguitata dai nazisti (arrestata dalla Gestapo nel 1933, fuggì dapprima a Praga poi a Parigi), visse la clandestinità e la detenzione in campi di concentramento francesi fino alla fuga negli Stati Uniti nel 1941.
+Hannah Arendt nacque nel 1906 a Linden, presso Hannover, in una famiglia ebrea tedesca di cultura laica. Studiò filosofia e teologia con Karl Jaspers e Martin Heidegger a Marburgo e Heidelberg — e proprio il legame (turbolento) con Heidegger segnò per sempre il suo rapporto con la filosofia tedesca. Dopo la tesi su Sant'Agostino e il concetto di amore nel pensiero antico, entrò attivamente in politica.
 
-A New York divenne una delle voci più ascoltate del pensiero politico del Novecento. Il culmine — e il grande scandalo — arrivò nel 1961, quando *The New Yorker* la inviò a Gerusalemme come corrispondente del processo Adolf Eichmann. Il suo reportage, *La banalità del male* (1963), le valse l'isolamento di molti antichi amici: accusò la comunità ebraica di una parzialità ebraica, e propose l'idea sconvolgente che Eichmann non fosse un mostro sadico ma un uomo banale,庸庸碌碌, un funzionario che eseguiva ordini senza pensarci. Morì nel 1975, lasciando incompiuto il monumentale *La vita della mente*.
+**L'esilio.** Collaborò con l'Organizzazione sionista tedesca, fu perseguitata dai nazisti (arrestata dalla Gestapo nel 1933, fuggì dapprima a Praga poi a Parigi), visse la clandestinità e la detenzione in campi di concentramento francesi fino alla fuga negli Stati Uniti nel 1941.
+
+A New York divenne una delle voci più ascoltate del pensiero politico del Novecento.
+
+**Lo scandalo Eichmann.** Il culmine — e il grande scandalo — arrivò nel 1961, quando *The New Yorker* la inviò a Gerusalemme come corrispondente del processo Adolf Eichmann. Il suo reportage, *La banalità del male* (1963), le valse l'isolamento da parte di molti antichi amici: accusò la comunità ebraica di parzialità nel giudizio.
+
+**La tesi sconvolgente.** Propose l'idea che Eichmann non fosse un mostro sadico ma un uomo banale, un funzionario che eseguiva ordini senza pensarci.
+
+**Gli ultimi anni.** Morì nel 1975, lasciando incompiuto il monumentale *La vita della mente*.
 
 Era una donna riservata ma pungente, ironica, combattiva nelle dispute accademiche (insegnò alla University of Chicago e alla New School di New York), capace di difendere le proprie tesi con una tenacia che incuteva rispetto.
 
 ## 🧠 Il pensiero in sintesi
 
-- **La vita activa.** In *La condizione umana* (1958) distingue tre attività fondamentali: il *lavoro* (sopravvivenza del corpo), l'*opera* (la costruzione del mondo di oggetti duraturi) e l'*azione* (l'agire politico tra pari, nella parola e nel gesto). L'azione è la più alta e la più脆弱a: è quella che fa nascere qualcosa di nuovo.
+- **La vita activa.** In *La condizione umana* (1958) distingue tre attività fondamentali: il *lavoro* (sopravvivenza del corpo), l'*opera* (la costruzione del mondo di oggetti duraturi) e l'*azione* (l'agire politico tra pari, nella parola e nel gesto). L'azione è la più alta e la più fragile: è quella che fa nascere qualcosa di nuovo.
 - **La pluralità.** La condizione umana è vivere *tra* altri, non accanto ad altri. Politica non è dominio ma spazio comune in cui la diversità si manifesta.
 - **Il potere versus la violenza.** Il potere, per Arendt, nasce quando gli uomini agiscono *insieme* e svanisce quando si disperdono; la violenza invece è strumentale e può essere esercitata anche da uno solo. Confonderli è l'errore tipico dei regimi totalitari.
 - **La banalità del male.** Il male radicale non ha bisogno di profondità: può nascere dalla superficialità, dall'incapacità di pensare, dal conformismo burocratico.
