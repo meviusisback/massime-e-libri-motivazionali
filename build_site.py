@@ -193,8 +193,8 @@ NEW_CSS = r'''
 :root{
   --bg:#1e1e2e; --fg:#cdd6f4; --muted:#a6adc8; --card:#313244; --accent:#cba6f7;
   --accent-2:#89b4fa; --border:#45475a; --code:#181825; --gold:#f9e2af; --green:#a6e3a1;
-  --serif:Georgia,"Times New Roman",serif;
-  --sans:"Segoe UI",system-ui,-apple-system,Roboto,"Helvetica Neue",sans-serif;
+  --serif:"Fraunces",Georgia,"Times New Roman",serif;
+  --sans:"Inter","Segoe UI",system-ui,-apple-system,Roboto,"Helvetica Neue",sans-serif;
 }
 @media (prefers-color-scheme: light){
   :root{ --bg:#eff1f5; --fg:#4c4f69; --muted:#6c6f85; --card:#ffffff; --accent:#8839ef;
@@ -277,17 +277,26 @@ details.solutions summary{cursor:pointer;font-weight:700;color:var(--green);font
 details.solutions summary::-webkit-details-marker{display:none}
 details.solutions .hint{color:var(--muted);font-weight:400;font-size:.85rem}
 details.solutions p,details.solutions ul,details.solutions ol{margin:.7rem 0;max-width:70ch}
-.cards{display:grid;grid-template-columns:repeat(auto-fill,minmax(250px,1fr));gap:1rem;margin:0 0 2.5rem}
-.card{background:var(--card);border:1px solid var(--border);border-radius:1rem;overflow:hidden;
-  display:flex;flex-direction:column;color:var(--fg)}
-.card:hover{transform:translateY(-3px);box-shadow:0 12px 32px rgba(0,0,0,.3);text-decoration:none}
-.card img{width:100%;height:170px;object-fit:cover;object-position:top center;display:block}
-.card-body{padding:1rem 1.1rem}
-.card-body h3{margin:0 0 .3rem;font-family:var(--serif);font-size:1.15rem;color:var(--fg)}
-.card-body p{margin:0;color:var(--muted);font-size:.9rem;font-style:italic}
-.card-tag{display:inline-block;font-size:.72rem;font-weight:700;letter-spacing:.08em;text-transform:uppercase;
-  color:var(--accent);margin-bottom:.4rem}
-.section-title{font-family:var(--serif);font-size:1.7rem;margin:2.2rem 0 1rem}
+.cards{display:grid;grid-template-columns:repeat(auto-fill,minmax(260px,1fr));gap:1.25rem;margin:0 0 2.5rem}
+.card{background:var(--card);border:1px solid var(--border);border-radius:1.2rem;overflow:hidden;
+  display:flex;flex-direction:column;color:var(--fg);transition:transform .15s ease,box-shadow .15s ease,border-color .15s ease}
+.card:hover{transform:translateY(-4px);box-shadow:0 16px 40px rgba(0,0,0,.35);border-color:var(--accent);text-decoration:none}
+.card img{width:100%;height:auto;max-height:300px;object-fit:contain;background:var(--code);display:block}
+.card-body{padding:1.1rem 1.2rem 1.25rem;display:flex;flex-direction:column;gap:.35rem;flex:1}
+.card-date{font-size:.75rem;font-weight:600;letter-spacing:.1em;text-transform:uppercase;color:var(--muted)}
+.card-body h3{margin:0;font-family:var(--serif);font-weight:700;font-size:1.35rem;line-height:1.25;color:var(--fg)}
+.card-body p{margin:0;color:var(--muted);font-size:.93rem;font-style:italic;font-family:var(--serif)}
+.read-more{margin-top:auto;padding-top:.6rem;color:var(--accent);font-weight:600;font-size:.9rem}
+.card:hover .read-more{text-decoration:underline}
+.section-title{font-family:var(--serif);font-weight:700;font-size:1.8rem;margin:2.4rem 0 1.1rem;display:flex;align-items:center;gap:.6rem}
+.count{font-family:var(--sans);font-size:.78rem;font-weight:700;background:var(--code);border:1px solid var(--border);
+  color:var(--accent);border-radius:999px;padding:.15rem .7rem}
+.hero-cta{display:flex;flex-wrap:wrap;gap:.8rem;margin-top:1.4rem}
+.btn{display:inline-block;padding:.65rem 1.4rem;border-radius:999px;font-weight:600;font-size:.95rem;
+  border:1px solid var(--border);color:var(--fg)}
+.btn:hover{text-decoration:none;border-color:var(--accent)}
+.btn-primary{background:var(--accent);border-color:var(--accent);color:var(--bg)}
+.btn-primary:hover{filter:brightness(1.08)}
 .page-hero{text-align:left;padding:2.5rem 0 1rem;max-width:760px}
 .page-hero h1{font-family:var(--serif);font-size:clamp(2.2rem,6vw,3.4rem);margin:0 0 .6rem}
 .page-hero p{color:var(--muted);font-size:1.08rem;margin:0}
@@ -303,6 +312,9 @@ SHELL = '''<!DOCTYPE html>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width,initial-scale=1">
 <title>{title} — Biblioteca giornaliera</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,500;0,9..144,700;1,9..144,500;1,9..144,600&family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
 <link rel="stylesheet" href="{prefix}assets/css/style.css">
 </head>
 <body>
@@ -370,13 +382,14 @@ def detail_page(kind, slug, title, sub, date, img, img_cap, quote, chips, raw):
 </div>'''
     return SHELL.format(title=H.escape(title), prefix='../', body=body)
 
+def fmt_date(d):
+    return f'{d[6:8]}/{d[4:6]}/{d[:4]}'
+
 def index_cards(items, kind):
     out = []
-    for slug, title, sub in items:
-        img = f'assets/img/{kind}/{slug}.jpg'
+    for slug, title, sub, date in items:
         import os as _os
         if kind == 'filosofi':
-            # trova ritratto reale
             img = None
             for p in PHILOS:
                 if p[0] == slug:
@@ -386,9 +399,9 @@ def index_cards(items, kind):
             if not _os.path.exists(os.path.join(ROOT, img)):
                 img = None
         imgtag = f'<img src="{img}" alt="" loading="lazy">' if img else ''
-        tag = '💬 Massima' if kind == 'filosofi' else '📚 Libro'
         out.append(f'<a class="card" href="{kind}/{slug}.html">{imgtag}<div class="card-body">'
-                   f'<span class="card-tag">{tag}</span><h3>{H.escape(title)}</h3><p>{H.escape(sub)}</p></div></a>')
+                   f'<span class="card-date">{fmt_date(date)}</span><h3>{H.escape(title)}</h3>'
+                   f'<p>{H.escape(sub)}</p><span class="read-more">Leggi la scheda →</span></div></a>')
     return '\n'.join(out)
 
 def main():
@@ -403,8 +416,8 @@ def main():
         raw = open(os.path.join(CONTENT, 'libri', slug + '.md'), encoding='utf-8').read()
         pg = detail_page('libri', slug, title, f'{author} · {topic}', date, '', author, title, leaves, raw)
         open(os.path.join(ROOT, 'libri', slug + '.html'), 'w', encoding='utf-8').write(pg)
-    fi = [(s, n, q) for s, n, m, d, i, q, c, l in PHILOS]
-    li = [(s, t, a) for s, t, a, d, tp, c, l in BOOKS]
+    fi = [(s, n, q, d) for s, n, m, d, i, q, c, l in PHILOS]
+    li = [(s, t, a, d) for s, t, a, d, tp, c, l in BOOKS]
     fidx = SHELL.format(title='Filosofi', prefix='../',
         body='<header class="page-hero"><h1>Filosofi</h1><p>Massime quotidiane: citazione, contesto e quiz.</p></header><div class="cards">'
              + index_cards(fi, 'filosofi') + '</div>')
@@ -414,11 +427,12 @@ def main():
              + index_cards(li, 'libri') + '</div>')
     open(os.path.join(ROOT, 'libri/index.html'), 'w', encoding='utf-8').write(lidx)
     home = SHELL.format(title='Biblioteca giornaliera', prefix='',
-        body='''<header class="page-hero"><h1>📚 Biblioteca giornaliera</h1>
-<p>Massime filosofiche con quiz e riassunti di libri pratici. Un’idea al giorno, ben evidenziata.</p></header>
-<h2 class="section-title">💬 Filosofi</h2>
-<div class="cards">''' + index_cards(fi, 'filosofi') + '''</div>
-<h2 class="section-title">📚 Libri motivazionali</h2>
+        body=f'''<header class="page-hero"><h1>📚 Biblioteca giornaliera</h1>
+<p>Massime filosofiche con quiz e riassunti di libri pratici. Un'idea al giorno, ben evidenziata.</p>
+<div class="hero-cta"><a class="btn btn-primary" href="filosofi/">I filosofi</a><a class="btn" href="libri/">I libri</a></div></header>
+<h2 class="section-title">💬 Filosofi <span class="count">{len(fi)}</span></h2>
+<div class="cards">''' + index_cards(fi, 'filosofi') + f'''</div>
+<h2 class="section-title">📚 Libri motivazionali <span class="count">{len(li)}</span></h2>
 <div class="cards">''' + index_cards(li, 'libri') + '</div>')
     open(os.path.join(ROOT, 'index.html'), 'w', encoding='utf-8').write(home)
     print('OK pagine:',
