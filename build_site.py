@@ -16,6 +16,7 @@ SEC_META = {  # chiave nel titolo md -> (icona, etichetta, livello)
  'MASSIMA': ('💬', 'La massima', 'hero'),
  'COMMENTO': ('🔍', 'Commento', 'body'),
  'BIOGRAFIA': ('👤', 'Biografia', 'side'),
+ 'VITA': ('👤', 'La vita', 'side'),
  'BIO IN BREVE': ('👤', 'Biografia', 'side'),
  'COME SI LEGGE': ('🔍', 'Commento', 'body'),
  'SINTESI': ('📌', 'Sintesi del pensiero', 'key'),
@@ -338,7 +339,11 @@ def detail_page(kind, slug, title, sub, date, img, img_cap, quote, chips, raw):
         h = section_html(key, t or '', buf, kind == 'libri')
         if not h.strip():
             continue
-        if key in ('BIOGRAFIA', 'BIO IN BREVE') and kind == 'filosofi':
+        if key in (None, 'ALTRO'):
+            txt = re.sub(r'<[^>]+>', '', h)
+            if len(txt.strip()) < 150:
+                continue
+        if key in ('BIOGRAFIA', 'BIO IN BREVE', 'VITA') and kind == 'filosofi':
             aside_extra.append(h)
         else:
             main.append(h)
