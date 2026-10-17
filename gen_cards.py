@@ -1,13 +1,14 @@
 #!/usr/bin/env python3
-"""Genera le schede visuali (PNG 16:9) per filosofi e libri.
+"""Genera gli schemi visuali (SVG) per filosofi e libri: vera infografica
+schematica — nodo centrale, 3 nodi collegati, banda con massima breve.
+Niente frasi troncate: solo parole chiave e una citazione corta che sta
+tutta intera. Solo libreria standard, nessun browser.
 
 Uso: python3 gen_cards.py [slug]  (senza slug: li genera tutti)
-Strumenti: solo libreria standard + chromium di sistema (nessun pip).
 """
 import html as H
 import os
 import re
-import subprocess
 import sys
 
 ROOT = os.path.dirname(os.path.abspath(__file__))
@@ -21,16 +22,7 @@ FG = '#cdd6f4'
 MUTED = '#a6adc8'
 ACCENT = '#cba6f7'
 GOLD = '#f9e2af'
-GREEN = '#a6e3a1'
-BLUE = '#89b4fa'
-
-
-def trunc(s, n):
-    s = ' '.join(s.split())
-    if len(s) <= n:
-        return s
-    cut = s[:n].rsplit(' ', 1)[0]
-    return (cut or s[:n]) + '…'
+DARK = '#11111b'
 
 
 def sections_of(md):
@@ -67,45 +59,6 @@ def bullets(lines):
     return out
 
 
-def clean_desc(d):
-    """Toglie l'etichetta iniziale (**Definizione:** ...) e restituisce il testo."""
-    d = d.strip()
-    m = re.match(r'^\*\*(.+?)\*\*\s*:?\s*(.*)$', d)
-    if m and len(m.group(1).split()) <= 3:
-        return m.group(2).strip()
-    return d
-
-
-def libro_concetti(secs):
-    """(titolo, descrizione) x N: prima dalla sezione riepilogo, poi dagli header numerati."""
-    out = []
-    for key, lines in secs.items():
-        if 'CONCETT' in key and 'PORTARE A CASA' in key:
-            for b in bullets(lines):
-                t, d = lead_of(b)
-                out.append((t, d))
-    if len(out) < 3:
-        for key, lines in secs.items():
-            m = re.match(r'(\d+)\.\s*(.+)', key)
-            if m and not any(w in key for w in ('CITAZIONI', 'ESEMPI', 'APPLICAZIONE', 'PORTARE A CASA', 'LIBRO DEL GIORNO')):
-                first = next(iter(bullets(lines)), '')
-                out.append((m.group(2).strip(), clean_desc(first)))
-    return out[:4]
-
-
-def libro_azioni(secs):
-    """(titolo_colonna, voci): Applicazione, senno Da portare a casa, senno Esempi."""
-    for wants, title in (('APPLICAZIONE', 'Azioni'),
-                         ('PORTARE A CASA', 'Da portare a casa'),
-                         ('ESEMPI', 'Esempi')):
-        for key, lines in secs.items():
-            if wants in key:
-                items = [re.sub(r'\*+', '', b) for b in bullets(lines)[:4]]
-                if items:
-                    return title, items
-    return 'Azioni', []
-
-
 def lead_of(b):
     m = re.match(r'\*\*(.+?)\*\*\s*:?\s*(.*)', b)
     if m:
@@ -113,162 +66,143 @@ def lead_of(b):
     return b.split(':')[0].strip(), b
 
 
-def quotes_of(bitems):
+def all_quotes(bitems):
     out = []
     for b in bitems:
-        m = re.search(r'«([^»]+)»', b)
-        if m:
+        for m in re.finditer(r'«([^»]+)»', b):
+            out.append(m.group(1).strip())
+        for m in re.finditer(r'"([^"]{10,})"', b):
             out.append(m.group(1).strip())
     return out
 
 
-def inline_md(t):
-    t = H.escape(t)
-    t = re.sub(r'\*\*(.+?)\*\*', r'<strong>\1</strong>', t)
-    t = re.sub(r'==(.+?)==', r'<mark>\1</mark>', t)
-    return t
+def pick_maxim(quotes):
+    """La più corta tra quelle sostanziose (>=30 caratteri), senno la più corta."""
+    if not quotes:
+        return ''
+    pool = [q for q in quotes if len(q) >= 30] or quotes
+    return min(pool, key=len)
 
 
-CARD_CSS = (
-    '*{margin:0;padding:0;box-sizing:border-box}'
-    'body{width:1280px;height:720px;background:' + BG + ';color:' + FG + ';'
-    'font-family:system-ui,-apple-system,"Segoe UI",Roboto,sans-serif;'
-    'display:flex;flex-direction:column;padding:28px 32px;overflow:hidden}'
-    '.head{display:flex;align-items:center;gap:20px;margin-bottom:20px}'
-    '.head img{width:96px;height:96px;object-fit:cover;border-radius:50%;'
-    'border:3px solid ' + ACCENT + ';flex:none;background:' + CARD + '}'
-    '.head h1{font-size:38px;line-height:1.1}'
-    '.head p{color:' + MUTED + ';font-size:19px;margin-top:4px}'
-    '.grid{flex:1;display:grid;grid-template-columns:1.15fr 1fr 1fr;gap:18px;min-height:0}'
-    '.box{background:' + CARD + ';border-radius:16px;padding:18px 20px;overflow:hidden;'
-    'display:flex;flex-direction:column;justify-content:center}'
-    '.box h2{font-size:20px;margin-bottom:12px}'
-    '.box h2 .dot{display:inline-block;width:10px;height:10px;border-radius:50%;margin-right:8px}'
-    '.box ul{list-style:none}'
-    '.box li{font-size:18px;line-height:1.42;margin-bottom:10px}'
-    '.box li strong{color:' + GOLD + '}'
-    '.box .q{font-size:18px;line-height:1.45;border-left:4px solid ' + GOLD + ';'
-    'padding-left:12px;margin-bottom:12px;font-style:italic}'
-    '.foot{margin-top:16px;color:' + MUTED + ';font-size:15px;display:flex;'
-    'justify-content:space-between}'
-    'mark{background:rgba(249,226,175,.25);color:' + GOLD + ';padding:0 4px;border-radius:4px}'
-)
+def node_label(lead):
+    """Etichetta nodo: pulita, max 2 righe, mai troncata con puntini."""
+    s = lead.strip().rstrip('.')
+    if len(s) > 30 and ',' in s:
+        s = s.split(',')[0].strip()
+    if len(s) <= 26:
+        return [s]
+    words = s.split()
+    l1, l2 = '', ''
+    for w in words:
+        if not l2 and len((l1 + ' ' + w).strip()) <= 24:
+            l1 = (l1 + ' ' + w).strip()
+        else:
+            l2 = (l2 + ' ' + w).strip()
+    return [l1, l2] if l2 else [l1]
 
 
-def card_html(title, sub, img_src, cols, foot):
-    boxes = []
-    for color, h, body in cols:
-        boxes.append(
-            '<div class="box"><h2><span class="dot" style="background:' + color + '"></span>'
-            + H.escape(h) + '</h2>' + body + '</div>')
-    img = '<img src="' + img_src + '" alt="">' if img_src else ''
-    return ('<!DOCTYPE html><html lang="it"><head><meta charset="utf-8"><style>'
-            + CARD_CSS + '</style></head><body>'
-            '<div class="head">' + img + '<div><h1>' + H.escape(title) + '</h1><p>'
-            + H.escape(sub) + '</p></div></div>'
-            '<div class="grid">' + ''.join(boxes) + '</div>'
-            '<div class="foot"><span>' + H.escape(foot) + '</span>'
-            '<span>massime-e-libri-motivazionali</span></div>'
-            '<script>try{document.querySelectorAll(".box").forEach(function(b)'
-            '{if(b.scrollHeight>b.clientHeight+1)b.setAttribute("data-overflow","1")})}'
-            'catch(e){}</script>'
-            '</body></html>')
+def libro_titles(secs):
+    out = []
+    for key, lines in secs.items():
+        if 'CONCETT' in key and 'PORTARE A CASA' in key:
+            for b in bullets(lines):
+                t, _ = lead_of(b)
+                out.append(t)
+    if len(out) < 3:
+        for key, lines in secs.items():
+            m = re.match(r'(\d+)\.\s*(.+)', key)
+            if m and not any(w in key for w in ('CITAZIONI', 'ESEMPI', 'APPLICAZIONE', 'PORTARE A CASA', 'LIBRO DEL GIORNO')):
+                out.append(m.group(2).strip())
+    return out[:3]
 
 
-def filo_card(slug, meta, md):
-    secs = sections_of(md)
-    sint = ' '.join(find_secs(secs, 'SINTESI'))[:400]
-    sint = trunc(re.sub(r'\*+', '', sint), 380)
-    temi = bullets(find_secs(secs, 'TEMI'))[:3]
-    temi_li = ''.join('<li><strong>' + H.escape(lead_of(b)[0])
-                      + '</strong> — ' + inline_md(trunc(lead_of(b)[1], 90)) + '</li>'
-                      for b in temi)
-    mass_items = bullets(find_secs(secs, 'MASSIME'))[:2]
-    mass_html = ''
-    for b in mass_items:
-        mq = re.search(r'«[^»]+»', b)
-        q = mq.group(0) if mq else b
-        rest = trunc(re.sub(r'\*+', '', b.replace(q, '', 1)).lstrip(' —–-.:;'), 120)
-        mass_html += '<div class="q">' + H.escape(trunc(q, 160)) + '</div>'
-        if rest:
-            mass_html += '<ul><li>' + inline_md(rest) + '</li></ul>'
-    opere = bullets(find_secs(secs, 'OPERE'))[:3]
-    opere_li = ''.join('<li><strong>' + H.escape(trunc(lead_of(b)[0], 60)) + '</strong> — '
-                       + inline_md(trunc(lead_of(b)[1], 100)) + '</li>'
-                       for b in opere)
-    img = 'file://' + os.path.join(ROOT, 'assets', 'img', 'filosofi', meta.get('img', ''))
-    if not meta.get('img') or not os.path.exists(os.path.join(ROOT, 'assets', 'img', 'filosofi', meta.get('img', ''))):
-        img = ''
-    sub = meta.get('dates', meta.get('sub', ''))
-    cols = [(ACCENT, 'Sintesi', '<ul><li>' + inline_md(sint) + '</li></ul>' + '<ul>' + temi_li + '</ul>'),
-            (GOLD, 'Massime', mass_html or '<ul><li>—</li></ul>'),
-            (GREEN, 'Opere', '<ul>' + opere_li + '</ul>')]
-    return card_html(meta['title'], sub, img, cols, 'Sintesi visuale · ' + meta['title'])
-
-
-def libro_card(slug, meta, md):
-    secs = sections_of(md)
-    conc = libro_concetti(secs)
-    conc_li = ''.join('<li><strong>' + H.escape(t)
-                      + '</strong>' + (' — ' + inline_md(trunc(d, 100)) if d else '') + '</li>'
-                      for t, d in conc)
-    cits = quotes_of(bullets(find_secs(secs, 'CITAZIONI')))[:3]
-    frase = trunc(' '.join(find_secs(secs, 'PORTARE A CASA'))[:200].replace('*', ''), 140)
-    if not frase.strip():
-        rb = bullets(find_secs(secs, 'RIASSUNTO'))
-        if rb:
-            frase = trunc(re.sub(r'\*+', '', rb[0]), 140)
-    cit_html = ''.join('<div class="q">' + H.escape(trunc(q, 180)) + '</div>' for q in cits)
-    if frase:
-        cit_html += '<ul><li>' + inline_md(frase) + '</li></ul>'
-    az_title, az = libro_azioni(secs)
-    az_li = ''.join('<li>' + inline_md(trunc(b, 110)) + '</li>' for b in az)
-    img = 'file://' + os.path.join(ROOT, 'assets', 'img', 'libri', slug + '.jpg')
-    if not os.path.exists(os.path.join(ROOT, 'assets', 'img', 'libri', slug + '.jpg')):
-        img = ''
-    cols = [(BLUE, 'Concetti chiave', '<ul>' + conc_li + '</ul>'),
-            (GOLD, 'Da ricordare', cit_html or '<ul><li>—</li></ul>'),
-            (GREEN, az_title, '<ul>' + az_li + '</ul>')]
-    return card_html(meta['title'], meta.get('author', ''), img, cols,
-                     'Sintesi visuale · ' + meta['title'])
+def schema_svg(title, sub, center_kw, center_emoji, nodes, maxim):
+    ys = [150, 285, 420]
+    p = [
+        '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 660" role="img">',
+        '<rect width="1200" height="660" fill="' + BG + '"/>',
+        '<circle cx="1080" cy="80" r="180" fill="' + ACCENT + '" opacity="0.06"/>',
+        '<circle cx="120" cy="620" r="150" fill="' + ACCENT + '" opacity="0.05"/>',
+        '<text x="40" y="62" font-family="system-ui,sans-serif" font-size="38" font-weight="700" fill="' + FG + '">'
+        + H.escape(title) + '</text>',
+        '<text x="40" y="94" font-family="system-ui,sans-serif" font-size="20" fill="' + MUTED + '">'
+        + H.escape(sub) + '</text>',
+        '<text x="1160" y="52" font-family="system-ui,sans-serif" font-size="16" letter-spacing="3" fill="' + MUTED
+        + '" text-anchor="end">SINTESI VISUALE</text>',
+        '<circle cx="320" cy="350" r="122" fill="' + CARD + '" stroke="' + ACCENT + '" stroke-width="3"/>',
+        '<text x="320" y="322" font-size="36" text-anchor="middle">' + center_emoji + '</text>',
+        '<text x="320" y="372" font-family="system-ui,sans-serif" font-size="31" font-weight="700" fill="' + ACCENT
+        + '" text-anchor="middle">' + H.escape(center_kw) + '</text>',
+    ]
+    for num, lines_kw, y in zip((1, 2, 3), nodes, ys):
+        mid = y + 55
+        p.append('<line x1="442" y1="350" x2="600" y2="' + str(mid) + '" stroke="' + MUTED
+                 + '" stroke-width="2" opacity="0.6"/>')
+        p.append('<rect x="600" y="' + str(y) + '" width="540" height="110" rx="20" fill="' + CARD + '"/>')
+        p.append('<circle cx="652" cy="' + str(mid) + '" r="24" fill="' + ACCENT + '"/>')
+        p.append('<text x="652" y="' + str(mid + 8)
+                 + '" font-family="system-ui,sans-serif" font-size="24" font-weight="700" fill="' + DARK
+                 + '" text-anchor="middle">' + str(num) + '</text>')
+        if len(lines_kw) == 1:
+            p.append('<text x="692" y="' + str(mid + 8)
+                     + '" font-family="system-ui,sans-serif" font-size="24" font-weight="600" fill="' + FG + '">'
+                     + H.escape(lines_kw[0]) + '</text>')
+        else:
+            p.append('<text x="692" y="' + str(mid - 6)
+                     + '" font-family="system-ui,sans-serif" font-size="21" font-weight="600" fill="' + FG + '">'
+                     + H.escape(lines_kw[0]) + '</text>')
+            p.append('<text x="692" y="' + str(mid + 24)
+                     + '" font-family="system-ui,sans-serif" font-size="21" font-weight="600" fill="' + FG + '">'
+                     + H.escape(lines_kw[1]) + '</text>')
+    mq = '«' + maxim + '»'
+    qsize = 22 if len(maxim) <= 85 else 19
+    p += [
+        '<rect x="40" y="566" width="1100" height="64" rx="16" fill="' + CARD + '" stroke="' + GOLD + '" stroke-width="2"/>',
+        '<text x="590" y="607" font-family="system-ui,sans-serif" font-size="' + str(qsize)
+        + '" font-style="italic" fill="' + FG + '" text-anchor="middle">' + H.escape(mq) + '</text>',
+        '</svg>',
+    ]
+    return ''.join(p)
 
 
 def render(slug, kind, meta):
     md = open(os.path.join(CONTENT, kind, slug + '.md'), encoding='utf-8').read()
-    html = filo_card(slug, meta, md) if kind == 'filosofi' else libro_card(slug, meta, md)
-    hp = os.path.join(CARDS, slug + '.html')
-    pp = os.path.join(CARDS, slug + '.png')
-    open(hp, 'w', encoding='utf-8').write(html)
-    r = subprocess.run(['chromium', '--headless', '--no-sandbox', '--disable-gpu',
-                        '--hide-scrollbars', '--force-device-scale-factor=2',
-                        '--window-size=1280,720', '--virtual-time-budget=3000',
-                        '--screenshot=' + pp, hp],
-                       capture_output=True, text=True, timeout=120)
-    if not os.path.exists(pp) or os.path.getsize(pp) < 10000:
-        print('FALLITA', slug, (r.stderr or '')[-200:])
-        return False
-    print('ok', slug, os.path.getsize(pp) // 1024, 'KB')
-    return True
+    secs = sections_of(md)
+    if kind == 'filosofi':
+        center_kw = meta.get('center', '')
+        sub = meta.get('sub', '')
+        emoji = '👤'
+        tb = bullets(find_secs(secs, 'TEMI'))[:3]
+        nodes = [node_label(lead_of(b)[0]) for b in tb]
+        mb = bullets(find_secs(secs, 'MASSIME'))
+        maxim = pick_maxim(all_quotes(mb))
+    else:
+        center_kw = meta.get('center', meta.get('topic', ''))
+        sub = meta.get('author', '')
+        emoji = '📚'
+        nodes = [node_label(t) for t in libro_titles(secs)]
+        cb = bullets(find_secs(secs, 'CITAZIONI'))
+        maxim = pick_maxim(all_quotes(cb))
+        if not maxim:
+            rb = bullets(find_secs(secs, 'PORTARE A CASA') or find_secs(secs, 'RIASSUNTO'))
+            maxim = re.sub(r'\*+', '', rb[0])[:90] if rb else ''
+    assert len(nodes) == 3, slug + ' nodi=' + str(len(nodes))
+    assert maxim, slug + ' senza massima'
+    svg = schema_svg(meta['title'], sub, center_kw, emoji, nodes, maxim)
+    open(os.path.join(CARDS, slug + '.svg'), 'w', encoding='utf-8').write(svg)
+    print('ok', slug, '| massima:', len(maxim), 'caratteri')
 
 
 def main():
     import json
     m = json.load(open(os.path.join(ROOT, 'manifest.json'), encoding='utf-8'))
-    jobs = []
-    for e in m['filosofi']:
-        jobs.append(('filosofi', e['slug'], e))
-    for e in m['libri']:
-        jobs.append(('libri', e['slug'], e))
+    jobs = [('filosofi', e['slug'], e) for e in m['filosofi']]
+    jobs += [('libri', e['slug'], e) for e in m['libri']]
     only = sys.argv[1] if len(sys.argv) > 1 else None
-    ok, no = 0, 0
     for kind, slug, meta in jobs:
         if only and slug != only:
             continue
-        if render(slug, kind, meta):
-            ok += 1
-        else:
-            no += 1
-    print('fatte:', ok, 'fallite:', no)
+        render(slug, kind, meta)
 
 
 main()

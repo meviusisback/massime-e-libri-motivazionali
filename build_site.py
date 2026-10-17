@@ -543,11 +543,11 @@ def detail_page(kind, slug, title, sub, date, img, img_cap, quote, chips, raw):
     main.sort(key=lambda x: x[0])
     main = [h for _, h in main]
     visual = ''
-    if os.path.exists(os.path.join(ROOT, 'assets', 'cards', slug + '.png')):
+    if os.path.exists(os.path.join(ROOT, 'assets', 'cards', slug + '.svg')):
         visual = ('<section class="sec sec-visual"><h2><span class="sec-ico">🖼️</span>'
                   'In un colpo d’occhio</h2><a class="visual-link" href="../assets/cards/'
-                  + slug + '.png" target="_blank" rel="noopener"><img src="../assets/cards/'
-                  + slug + '.png" alt="Sintesi visuale di ' + H.escape(title)
+                  + slug + '.svg" target="_blank" rel="noopener"><img src="../assets/cards/'
+                  + slug + '.svg" alt="Sintesi visuale di ' + H.escape(title)
                   + '" loading="lazy"></a>'
                   '<p class="visual-hint">Tocca l’immagine per ingrandirla.</p></section>')
     crumb = (f'<p class="crumb"><a href="../index.html">Home</a> / '
