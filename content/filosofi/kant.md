@@ -31,12 +31,7 @@ Immanuel Kant nasce a Königsberg (allora Prussia, oggi Kaliningrad) nel 1724, q
 **Gli ultimi anni.** Dopo il 1790 scrive soprattutto di politica, religione e diritto, entusiasta della Rivoluzione francese (suo malgrado, ammette, per la speranza che suscita). Muore a Königsberg il 12 febbraio 1804, mai diventato marito né padre, ma universalmente riconosciuto come il filosofo che ha riformato la metafisica dall'interno.
 
 **Sintesi del pensiero**
-- **Rivoluzione copernicana:** non è la conoscenza a doversi adeguare agli oggetti, ma gli oggetti a doversi adeguare alle forme della nostra conoscenza (spazio, tempo, categorie).
-- **Fenomeno e noumeno:** conosciamo i fenomeni (come ci appaiono); la "cosa in sé" resta oltre ogni esperienza possibile.
-- **Imperativo categorico:** «Agisci solo secondo quella massima che puoi volere diventi legge universale» — e la seconda formula: trattare l'umanità *sempre* anche come fine, mai solo come mezzo.
-- **Autonomia:** la moralità non viene dall'esterno (Dio, Stato, natura) ma dalla ragione che detta legge a se stessa; da qui la dignità.
-- **Postulati pratici:** libertà, immortalità dell'anima e Dio non si *dimostrano* ma si *postulano* come condizioni perché la morale abbia senso.
-- **Il sublime e il giudizio:** nella *Critica del giudizio* Kant collega il cielo stellato alla potenza illimitata della natura e la legge morale alla dignità della libertà, congiungendo natura e libertà.
+Kant fonda il criticismo: la ragione non rispecchia il mondo in sé ma lo conosce entro i propri limiti, rendendo possibile la scienza e impossibile la metafisica dogmatica. Sul piano pratico rovescia la prospettiva: l'uomo è libero e degno perché dà a sé stesso la legge morale, senza obbedire ad autorità esterne. Natura e libertà, cielo stellato e legge morale, restano così i due poli di un unico sistema che tiene insieme conoscenza scientifica, azione morale e speranza razionale umana e condivisa.
 
 **TEMI FONDAMENTALI**
 - **Rivoluzione copernicana.** La rivoluzione copernicana è il gesto con cui Kant rovescia il rapporto tra mente e mondo. Non è la nostra conoscenza a doversi modellare passivamente sulle cose, come pensavano razionalisti ed empiristi. Sono invece gli oggetti dell'esperienza a doversi conformare alle strutture a priori della nostra mente: spazio, tempo e le dodici categorie dell'intelletto.

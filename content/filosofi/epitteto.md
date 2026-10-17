@@ -37,15 +37,7 @@ Intorno all'86-89 d.C., l'imperatore **Domiziano**, sospettoso verso ogni filoso
 ---
 
 ### 🧠 Sintesi del pensiero
-Il pensiero di Epitteto si regge su tre gambe:
-
-1. **La dicotomia del controllo.** "Delle cose, alcune dipendono da noi e altre no" (*Manuale*, cap. 1). Dipendono da noi i nostri giudizi, desideri e avversioni — in pratica, il nostro mondo interiore. Non dipendono da noi il corpo, i beni, la reputazione, la vita. La saggezza sta nel concentrare tutta l'energia sulla prima sfera e nell'accettare serenamente la seconda.
-
-2. **La libertà intoccabile.** Un tiranno può imprigionarti, mandarti in esilio, ucciderti — ma non può toccare il tuo giudizio, perché quello è l'unica cosa che ti appartiene davvero. La vera prigione non è di ferro ma di opinioni sbagliate. Per questo Epitteto, da ex schiavo, si sente più libero del suo ex padrone Epafrodito.
-
-3. **Il cosmopolitismo.** Non sei "ateniese" o "romano": sei **cittadino del mondo**, membro di una comunità universale governata dalla ragione comune (Diatribe II, 10). Questo non ti distacca dagli altri, ma ti impone doveri verso di loro, perché nei loro errori devi vedere te stesso che sbagli altrove.
-
-Non a caso, anche oggi i manuali di **terapia cognitivo-comportamentale** citano Epitteto come loro antenato: l'idea che siano i nostri pensieri, e non gli eventi, a determinare il nostro stato emotivo nasce qui.
+Lo stoicismo di Epitteto è una filosofia pratica della libertà interiore: vivere secondo ragione distinguendo ciò che dipende da noi da ciò che non ne dipende. Il bene e il male stanno solo nell'uso della nostra facoltà di scelta, non nei beni esterni, che restano indifferenti. Da ex schiavo, mostra che nessuno può toglierci il giudizio: lì resta intatta la dignità umana. Questo cammino personale si apre all'universale: ogni uomo è cittadino del mondo, legato agli altri dalla comune ragione e dal dovere reciproco.
 
 ---
 

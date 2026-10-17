@@ -29,11 +29,7 @@ Nato a Röcken il 15 ottobre 1844, figlio di un pastore luterano; morto a Weimar
 
 🧠 **Sintesi del pensiero**
 
-- La *morte di Dio*: non un trionfo ateo, ma la constatazione che i valori che reggevano l'Occidente hanno perso ogni presa → nichilismo da attraversare, non da accettare.
-- La *volontà di potenza*: non desiderio di dominio sugli altri, ma spinta a crescere, ordinarsi, darsi forma.
-- L'*oltre-uomo* (Übermensch): chi crea valori propri invece di ereditarli ciecamente.
-- L'*eterno ritorno*: esperimento mentale — rivivresti identico ogni istante della tua vita?
-- L'*amor fati*, il dionisiaco e l'apollineo, la critica alla morale ("da padroni" contro "da schiavi"), la filosofia "con il martello".
+Nietzsche pensa la crisi dell'Occidente dopo la fine dei valori assoluti: venuta meno ogni garanzia trascendente, l'uomo resta sospeso tra nichilismo passivo e nuova possibilità creatrice aperta al futuro. La sua risposta è un sì radicale alla vita, che chiede di trasformare la sofferenza in crescita, di superare l'uomo ereditato e di inventare valori propri con coraggio. È una filosofia sperimentale e provocatoria, che usa martello e aforisma per smascherare le morali consolate e restituire forza e dignità al divenire.
 
 **TEMI FONDAMENTALI**
 - **Volontà di potenza.** Il primo tema è la volontà di potenza. Non è brama di comando sugli altri, ma spinta di ogni vivente a crescere, darsi forma e superarsi. Anche conoscere, creare e amare sono per Nietzsche modi di questa volontà. Dove la vita si espande e ordina il caos, lì è all'opera la potenza. Dove si accontenta di conservarsi, inizia il declino.

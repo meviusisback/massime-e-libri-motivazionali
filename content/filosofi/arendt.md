@@ -42,11 +42,11 @@ Era una donna riservata ma pungente, ironica, combattiva nelle dispute accademic
 
 ## 🧠 Il pensiero in sintesi
 
-- **La vita activa.** In *La condizione umana* (1958) distingue tre attività fondamentali: il *lavoro* (sopravvivenza del corpo), l'*opera* (la costruzione del mondo di oggetti duraturi) e l'*azione* (l'agire politico tra pari, nella parola e nel gesto). L'azione è la più alta e la più fragile: è quella che fa nascere qualcosa di nuovo.
-- **La pluralità.** La condizione umana è vivere *tra* altri, non accanto ad altri. Politica non è dominio ma spazio comune in cui la diversità si manifesta.
-- **Il potere versus la violenza.** Il potere, per Arendt, nasce quando gli uomini agiscono *insieme* e svanisce quando si disperdono; la violenza invece è strumentale e può essere esercitata anche da uno solo. Confonderli è l'errore tipico dei regimi totalitari.
-- **La banalità del male.** Il male radicale non ha bisogno di profondità: può nascere dalla superficialità, dall'incapacità di pensare, dal conformismo burocratico.
-- **Il pensiero come dialogo.** Pensare è un "due in uno", un colloquio silenzioso con se stesso che rende impossibile il delitto — perché chi pensa non può convivere con se stesso sapendo di fare il male.
+Il pensiero di Arendt ha un centro chiaro: la politica come spazio comune in cui esseri plurali agiscono e parlano tra pari, facendo nascere potere e nuovi inizi.
+
+- **Politica e pluralità:** contro dominio e violenza, l'azione condivisa fonda libertà e mondo comune.
+- **Diagnosi del Novecento:** totalitarismo e banalità del male mostrano che cosa accade quando pensiero, giudizio e spazio pubblico vengono meno.
+- **Pensare e giudicare:** senza appoggi ideologici, come condizione della responsabilità morale e della resistenza al conformismo.
 
 **TEMI FONDAMENTALI**
 

@@ -26,12 +26,7 @@ Agostino nasce il 13 novembre 354 a Tagaste, nell'Africa romana (l'odierna Souk 
 
 ## 🧭 Sintesi del pensiero
 
-- **La memoria interiore:** Dio non si trova cercandolo fuori, ma nel "deposito" della memoria (*Confessioni* X): l'uomo è un abisso in cui è riflessa una luce che non è sua.
-- **Il tempo come distensione dell'anima** (*Confessioni* XI): "Se nessuno me lo chiede, lo so; se volessi spiegarlo a chi me lo chiede, non lo so." Passato = memoria, presente = attenzione, futuro = attesa.
-- **Il male come privazione del bene** (*privatio boni*): il male non ha sostanza propria, è assenza di bene — come il buio è assenza di luce. Polemica contro i manichei, che facevano del male un principio eterno.
-- **Grazia e libero arbitrio:** contro Pelagio, Agostino sostiene che l'uomo, ferito dal peccato originale, non si salva da solo: serve la grazia. Il libero arbitrio resta reale ma debole.
-- **Le due città** (*Città di Dio*): non due stati, ma due amori — "l'amore di sé fino al disprezzo di Dio" e "l'amore di Dio fino al disprezzo di sé".
-- **La conversione come storia dell'amore:** le *Confessioni* sono la prima grande autobiografia dell'Occidente — preghiera e analisi insieme.
+Agostino unisce fede cristiana e ragione filosofica in un cammino tutto interiore: la verità non si trova fuori, ma rientrando in sé, dove l'anima inquieta cerca un bene che non passa. La sua storia personale diventa paradigma universale: l'uomo, ferito e diviso, non basta a sé stesso e si compie solo nell'amore ordinato verso Dio. Da qui rilegge male, libertà e storia non come teorie astratte, ma come vicende di questo desiderio: tensione tra due amori che attraversano coscienza e civiltà.
 
 **TEMI FONDAMENTALI**
 

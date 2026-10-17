@@ -41,13 +41,7 @@ Impara il latino nella scuola del libertino Franciscus van den Enden, si guadagn
 Carattere: metodico, parco, restio ai compromessi, capace di una pazienza quasi artigianale — e al tempo stesso violento nella scrittura. La leggenda del «santo ateo» lucido e senza passioni, tramandata dalla biografia di Colerus, è in parte una costruzione: quello che lo tiene in piedi non è la mancanza di affetti, ma la volontà di intenderli.
 
 **SINTESI DEL PENSIERO**
-- **Dio sive Natura:** un'unica sostanza infinita, di cui noi siamo *modi*; Dio non è una persona fuori dal mondo, è l'immanente ordine della natura (l'*Etica* lo dimostra geometricamente, partendo dalle definizioni).
-- **Critica delle cause finali:** la natura non fa nulla per uno scopo; l'idea che tutto sia stato fatto «per noi» è la radice di ogni superstizione.
-- **Conatus:** ogni cosa persevera nel proprio essere; è l'essenza stessa di ciascun ente e il germe di tutti gli affetti.
-- **Gli affetti:** solo tre primi — **desiderio, allegria, tristezza** (cioè passaggio a maggiore o minore potere). Gli affetti *passivi* sono idee inadeguate, e da lì nasce la servitù; gli *attivi* seguono dalla comprensione.
-- **Tre forme di conoscenza:** immaginazione (inadeguata), ragione (adeguata), conoscenza intuitiva (adeguata), che dall'essenza di Dio scende all'essenza delle cose.
-- **La libertà come comprensione:** la mente «dipende dalla natura esterna» finché ha idee confuse; il vertice è l'amore intellettuale di Dio e la beatitudine.
-- **La politica:** libertà di pensiero e di filosofare come condizione della pace (*Tractatus Theologico-Politicus*, 1670), e la democrazia come regime migliore nel *Tractatus Politicus*, rimasto incompiuto.
+Il pensiero di Spinoza è un unico progetto di liberazione razionale: tutto è una sola realtà necessaria, Dio ossia Natura, dentro cui l'uomo vive senza fini provvidenziali né libero arbitrio assoluto. La servitù nasce dal subire affetti e superstizioni senza comprenderne le cause; la libertà nasce dalla ragione, che trasforma le passioni in azioni consapevoli fino alla beatitudine. Su questa base fonda anche la politica: solo la libertà di pensare e la tolleranza reciproca rendono possibile una pace civile comune e duratura.
 
 **TEMI FONDAMENTALI**
 - **Dio sive Natura.** Il primo tema è Dio ossia la Natura. Spinoza sostiene che esiste una sola sostanza infinita, che è insieme Dio e natura. Tutto ciò che esiste è un modo di questa sostanza, come le onde sono modi del mare. Dio non è quindi una persona separata dal mondo che premia e punisce, ma l'ordine necessario e immanente delle cose. Conoscere la natura significa conoscere Dio, e liberarsi dalla superstizione che immagina un Dio simile a un re.

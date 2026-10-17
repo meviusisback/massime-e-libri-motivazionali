@@ -58,6 +58,10 @@ a:hover{text-decoration:underline}
 .lbl-do{color:var(--green);border-color:var(--green);background:color-mix(in srgb,var(--green) 12%,transparent)}
 .lbl-err{color:var(--red);border-color:var(--red);background:color-mix(in srgb,var(--red) 12%,transparent)}
 .lbl-link{color:var(--accent);border-color:var(--accent);background:color-mix(in srgb,var(--accent) 12%,transparent)}
+.lbl-tm,.lbl-op,.lbl-er{text-transform:none;font-size:.92rem;letter-spacing:0}
+.lbl-tm{color:var(--accent);border-color:var(--accent);background:color-mix(in srgb,var(--accent) 14%,transparent)}
+.lbl-op{color:var(--gold);border-color:var(--gold);background:color-mix(in srgb,var(--gold) 14%,transparent)}
+.lbl-er{color:var(--green);border-color:var(--green);background:color-mix(in srgb,var(--green) 14%,transparent)}
 .hl{background:color-mix(in srgb,var(--gold) 28%,transparent);border-bottom:2px solid var(--gold);
   padding:0 .15em;border-radius:.2em}
 .sec-lead{border-color:var(--gold);background:linear-gradient(180deg,rgba(249,226,175,.07),transparent 60%),var(--card)}

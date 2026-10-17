@@ -30,11 +30,11 @@ Socrate nacque ad Atene intorno al 470 o 469 a.C., figlio dello scalpellino Sofr
 
 ## 🧠 Il pensiero in sintesi
 
-- **La dotta ignoranza.** Sapere di non sapere è la sola sapienza onesta, e insieme il punto di partenza di ogni vera conoscenza. Chi crede di sapere smette di cercare; chi sa di non sapere continua a domandare.
-- **L'ironia socratica.** Socrate finge di non sapere e chiede lumi all'interlocutore, lodandone la presunta competenza — finché le risposte, incalzate dalle domande, crollano in contraddizione. È una trappola gentile: smaschera la falsa sapienza senza mai imporre la propria.
-- **La maieutica, l'arte della levatrice.** Come la madre faceva nascere i corpi, Socrate faceva nascere le idee: con domande mirate aiutava l'interlocutore a «partorire» una verità che già possedeva senza saperlo. Insegnare, per lui, non è riempire un vaso vuoto ma accendere un fuoco.
-- **Conosci te stesso e la cura dell'anima.** Sul tempio di Delfi era scritto «conosci te stesso»: Socrate ne fa un programma. L'importante non è la ricchezza o la fama, ma la salute dell'anima — e l'anima sta bene quando cerca il vero e il giusto.
-- **Virtù è scienza.** La tesi più audace: nessuno fa il male volontariamente; chi sbaglia, sbaglia per ignoranza del bene. Se conoscessimo davvero che cos'è il bene, lo sceglieremmo. Per questo l'educazione — il domandare continuo — è anche educazione morale.
+Il pensiero di Socrate, che non scrisse nulla, sta tutto nel dialogo come esame di sé e degli altri: partire dal sapere di non sapere per cercare insieme il vero, il giusto e la vita buona.
+
+- **Metodo:** domande e confutazione smascherano la falsa sapienza e aprono la ricerca del vero e del giusto.
+- **Etica:** virtù, bene e cura dell'anima coincidono con la conoscenza vagliata dall'esame quotidiano.
+- **Senso politico:** formare cittadini capaci di giudizio autonomo, contro retorica, conformismo e opinioni non esaminate.
 
 **TEMI FONDAMENTALI**
 

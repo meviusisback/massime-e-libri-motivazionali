@@ -272,8 +272,10 @@ def section_html(key, title, buf, is_book):
         return f'<section class="sec sec-body">{h2}{body}\n</section>'
     lvl_class = {'hero': 'sec-lead', 'key': 'sec-key', 'side': 'sec-side', 'minor': 'sec-minor', 'quiz': 'sec-quiz'}.get(level, 'sec-body')
     body = render_body(split_paragraphs(buf))
-    if key in ('OPERE PRINCIPALI', 'TEMI FONDAMENTALI', 'DOPO DI LUI', 'EREDITÀ'):
-        body = re.sub('<li><strong>(.+?)</strong>', lambda m: '<li><span class="hl">' + m.group(1) + '</span>', body)
+    lead_cls = {'OPERE PRINCIPALI': 'op', 'TEMI FONDAMENTALI': 'tm',
+                'DOPO DI LUI': 'er', 'EREDITÀ': 'er'}.get(key)
+    if lead_cls:
+        body = re.sub('<li><strong>(.+?)</strong>', lambda m: '<li><span class="lbl lbl-' + lead_cls + '">' + m.group(1) + '</span>', body)
     return f'<section class="sec {lvl_class}"><h2><span class="sec-ico">{icon}</span>{H.escape(label)}</h2>\n{body}\n</section>'
 
 NEW_CSS = r'''
@@ -336,6 +338,10 @@ a:hover{text-decoration:underline}
 .lbl-do{color:var(--green);border-color:var(--green);background:color-mix(in srgb,var(--green) 12%,transparent)}
 .lbl-err{color:var(--red);border-color:var(--red);background:color-mix(in srgb,var(--red) 12%,transparent)}
 .lbl-link{color:var(--accent);border-color:var(--accent);background:color-mix(in srgb,var(--accent) 12%,transparent)}
+.lbl-tm,.lbl-op,.lbl-er{text-transform:none;font-size:.92rem;letter-spacing:0}
+.lbl-tm{color:var(--accent);border-color:var(--accent);background:color-mix(in srgb,var(--accent) 14%,transparent)}
+.lbl-op{color:var(--gold);border-color:var(--gold);background:color-mix(in srgb,var(--gold) 14%,transparent)}
+.lbl-er{color:var(--green);border-color:var(--green);background:color-mix(in srgb,var(--green) 14%,transparent)}
 .hl{background:color-mix(in srgb,var(--gold) 28%,transparent);border-bottom:2px solid var(--gold);
   padding:0 .15em;border-radius:.2em}
 .sec-lead{border-color:var(--gold);background:linear-gradient(180deg,rgba(249,226,175,.07),transparent 60%),var(--card)}
