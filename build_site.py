@@ -29,6 +29,9 @@ SEC_META = {  # chiave nel titolo md -> (icona, etichetta, livello)
  'VUOI APPROFONDIRE': ('💬', 'Approfondimento in chat', 'minor'),
  'BIO IN BREVE': ('👤', 'Biografia', 'side'),
  'SINTESI': ('📌', 'Sintesi del pensiero', 'key'),
+ 'TEMI FONDAMENTALI': ('🏛️', 'I temi fondamentali', 'key'),
+ 'OPERE PRINCIPALI': ('📚', 'Le opere principali', 'key'),
+ 'DOPO DI LUI': ('🌊', "Dopo di lui: l'eredità", 'body'),
  'CONTESTO': ('⌛', 'Contesto storico', 'minor'),
  'QUIZ': ('🧠', 'Quiz', 'quiz'),
  'SOLUZIONI': ('✅', 'Soluzioni', 'solutions'),
@@ -441,8 +444,9 @@ SHELL = '''<!DOCTYPE html>
 </body>
 </html>'''
 
-FILO_RANK = {'MASSIMA': 0, 'SINTESI': 1, 'CONTESTO': 2, 'ESEMPI DI OGGI': 3,
-             'ESEMPI': 3, 'QUIZ': 4, 'SOLUZIONI': 5, 'RIPASSO': 6}
+FILO_RANK = {'MASSIMA': 0, 'SINTESI': 1, 'TEMI FONDAMENTALI': 2, 'OPERE PRINCIPALI': 3,
+             'CONTESTO': 4, 'DOPO DI LUI': 5, 'ESEMPI DI OGGI': 6,
+             'ESEMPI': 6, 'QUIZ': 7, 'SOLUZIONI': 8, 'RIPASSO': 9}
 LIBRI_RANK = {'INTRODUZIONE': 0, 'RIASSUNTO': 1, 'CONCETTI': 2, 'ESPANSIONE': 3,
               'CITAZIONI': 4, 'ESEMPI DI OGGI': 5, 'ESEMPI': 5, 'APPLICAZIONE': 6, 'AZIONI': 6,
               'FRASE': 7, 'DA PORTARE A CASA': 7, 'APPROFONDIMENTO IN CHAT': 8}

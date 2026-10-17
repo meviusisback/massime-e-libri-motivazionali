@@ -33,6 +33,38 @@ Agostino nasce il 13 novembre 354 a Tagaste, nell'Africa romana (l'odierna Souk 
 - **Le due città** (*Città di Dio*): non due stati, ma due amori — "l'amore di sé fino al disprezzo di Dio" e "l'amore di Dio fino al disprezzo di sé".
 - **La conversione come storia dell'amore:** le *Confessioni* sono la prima grande autobiografia dell'Occidente — preghiera e analisi insieme.
 
+**TEMI FONDAMENTALI**
+
+Il tempo non è fuori di noi, è dentro di noi. Nelle Confessioni Agostino osserva che il passato non esiste più, il futuro non esiste ancora, eppure li misuriamo. Come è possibile? Perché esistono nell'anima: il passato come memoria, il presente come attenzione, il futuro come attesa. Il tempo è una distensione dell'anima, non una cosa del mondo. Da qui nasce tutta la filosofia moderna del tempo vissuto.
+
+La memoria è il luogo immenso dove l'uomo incontra se stesso e Dio. Non è un magazzino di immagini, ma lo spazio in cui il passato resta presente e in cui si scopre una luce che non viene da noi. Cercare Dio fuori è inutile: bisogna rientrare in se stessi, perché la verità abita nell'uomo interiore.
+
+Il male non è una sostanza, è una mancanza. Contro i manichei, che vedevano due principi eterni del bene e del male, Agostino afferma che tutto ciò che esiste, in quanto esiste, è buono. Il male è privazione del bene, come il buio è assenza di luce. Nasce dalla volontà che si distoglie dal bene più alto per amare beni inferiori.
+
+Da qui il dramma di grazia e libero arbitrio. Contro Pelagio, che credeva l'uomo capace di salvarsi con le proprie forze, Agostino sostiene che la volontà è reale ma ferita dal peccato originale. Senza la grazia non può volere stabilmente il bene. La libertà non è negata, ma va guarita.
+
+Le due città non sono due stati, ma due amori. La città terrena nasce dall'amore di sé fino al disprezzo di Dio, la città celeste dall'amore di Dio fino al disprezzo di sé. Storia e politica diventano il campo in cui questi due amori si mescolano fino alla fine dei tempi.
+
+**OPERE PRINCIPALI**
+
+Le Confessioni, scritte tra il 397 e il 400, sono la prima grande autobiografia dell'Occidente. Tredici libri in forma di preghiera, dal peccato giovanile alla conversione fino alla riflessione su memoria, tempo e creazione. Non raccontano solo una vita, ma mostrano come ogni vita diventi intelligibile solo davanti a Dio. Filosofia, racconto e confessione si fondono in un modello che resterà unico.
+
+La Città di Dio, composta tra il 413 e il 426 dopo il sacco di Roma del 410, è la sua opera più vasta. Nata per difendere i cristiani accusati della caduta di Roma, diventa una filosofia della storia. Le due città si intrecciano nella storia concreta, nessun impero si identifica con il Regno di Dio. Politica, provvidenza e destino dell'uomo vengono ripensati in ventidue libri.
+
+Il De Trinitate è il vertice speculativo. In quindici libri Agostino cerca analogie della Trinità nella mente umana: memoria, intelligenza e volontà come immagine dell'unità e trinità divina. Non è solo teologia, ma una profonda filosofia della mente e dell'autocoscienza, dove conoscere e amare si implicano a vicenda.
+
+Il De libero arbitrio affronta l'origine del male morale. In dialogo con Evodio, Agostino dimostra che il male non viene da Dio ma dal cattivo uso della volontà libera. La libertà è un bene, anche se permette il peccato. L'opera prepara la polemica contro manichei e pelagiani e fonda l'etica occidentale della responsabilità. Scritta in gioventù e poi ripresa negli anni della maturità, mostra già il metodo del dialogo interiore che diventerà la cifra delle Confessioni e di tutta la sua filosofia.
+
+**DOPO DI LUI: EREDITA**
+
+Tommaso d'Aquino eredita Agostino pur correggendolo con Aristotele. Ne conserva l'interiorità, la dottrina della grazia e l'idea del male come privazione, ma attenua il pessimismo sulla natura decaduta. Per secoli scolastici agostiniani e tomisti discuteranno proprio su grazia e libertà, segno che Agostino resta il punto di riferimento inevitabile della teologia medievale. Anche la sua teoria dell'illuminazione, pur trasformata nella dottrina dell'intelletto agente, continua a operare nella gnoseologia tomista come esigenza di un fondamento interiore della verità.
+
+Lutero e Calvino lo riscoprono contro la scolastica. Lutero, frate agostiniano, riprende la polemica contro Pelagio: l'uomo non si salva con le opere, solo la grazia giustifica. Calvino radicalizza la dottrina della predestinazione. La Riforma può essere letta come un ritorno ad Agostino, alla sua visione della volontà ferita e della fede come dono.
+
+Cartesio ne raccoglie l'eredità filosofica. Il se erro, esisto della Città di Dio anticipa il cogito: anche nel dubbio radicale, chi si inganna esiste. L'interiorità agostiniana, il rientro in se stessi per trovare la verità, diventa il metodo della filosofia moderna, dal dubbio cartesiano fino alla coscienza come fondamento. Pascal e il giansenismo proseguono la stessa linea sul piano spirituale, facendo dell'io diviso e del cuore inquieto il luogo decisivo della fede e della ragione.
+
+La fenomenologia del Novecento lo ritrova sul tempo e sulla memoria. Husserl, Heidegger, Ricoeur e Marion vedono nelle analisi delle Confessioni l'origine della filosofia del tempo vissuto e dell'io. L'inquietudine del cuore agostiniano diventa il modello dell'esistenza come ricerca, tra memoria, attesa e desiderio. Un autore così resta un classico perché ogni epoca vi ritrova le proprie domande sul tempo, sulla colpa e sulla libertà.
+
 ## 🏛️ Contesto storico
 
 **Lo riceve:** la retorica romana e l'etica della gloria di **Cicerone**; il **manicheismo** (movimento dualista di Mani, fiorente in Africa romana); il **neoplatonismo** di **Plotino**, che lo convince che dietro la molteplicità c'è un unico principio — ma che non gli dà il Dio che cerca; la lettura di **Paolo** (la lettera ai Romani è la scintilla della conversione) e l'esegesi di **Ambrogio**.

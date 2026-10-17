@@ -49,6 +49,35 @@ Carattere: metodico, parco, restio ai compromessi, capace di una pazienza quasi 
 - **La libertà come comprensione:** la mente «dipende dalla natura esterna» finché ha idee confuse; il vertice è l'amore intellettuale di Dio e la beatitudine.
 - **La politica:** libertà di pensiero e di filosofare come condizione della pace (*Tractatus Theologico-Politicus*, 1670), e la democrazia come regime migliore nel *Tractatus Politicus*, rimasto incompiuto.
 
+**TEMI FONDAMENTALI**
+Il primo tema è Dio sive Natura, cioè Dio ossia la Natura. Spinoza sostiene che esiste una sola sostanza infinita, che è insieme Dio e natura. Tutto ciò che esiste è un modo di questa sostanza, come le onde sono modi del mare. Dio non è quindi una persona separata dal mondo che premia e punisce, ma l'ordine necessario e immanente delle cose. Conoscere la natura significa conoscere Dio, e liberarsi dalla superstizione che immagina un Dio simile a un re.
+
+Il secondo tema è il conatus. Ogni cosa, scrive Spinoza, si sforza di perseverare nel proprio essere. Questo sforzo non è un istinto tra gli altri, ma l'essenza stessa di ogni ente. Nell'uomo il conatus diventa desiderio consapevole, e dal desiderio nascono tutti gli affetti. Aumentare la propria potenza di agire è gioia, diminuirla è tristezza. Tutta l'etica spinoziana parte da qui.
+
+Il terzo tema sono gli affetti. Amore, odio, ira, invidia e pietà non sono vizi da condannare, ma fenomeni naturali con cause precise. Finché li subiamo senza comprenderli, siamo schiavi. Quando ne conosciamo le cause, diventano attivi. Per questo la massima del giorno chiede di non ridere, non piangere e non detestare, ma comprendere.
+
+Il quarto tema è la libertà come comprensione. L'uomo non è libero perché sceglie senza cause, ma perché intende le cause che lo muovono. Chi conosce adeguatamente i propri affetti non ne è più trascinato. La beatitudine è l'amore intellettuale di Dio, cioè la gioia stabile di chi vede se stesso dentro l'ordine necessario della natura.
+
+Il quinto tema è la tolleranza. Se gli uomini agiscono per cause necessarie, il dissenso non va punito ma compreso. Da qui nasce la difesa della libertà di pensiero e di parola, fondamento della pace civile e antidoto alle guerre di religione.
+
+**OPERE PRINCIPALI**
+L'opera centrale è l'Etica dimostrata con ordine geometrico, pubblicata postuma nel 1677. Scritta con definizioni, assiomi e proposizioni sul modello della geometria, espone in cinque parti metafisica, teoria della conoscenza, dottrina degli affetti, servitù umana e libertà. È il sistema completo di Spinoza, preparato per anni e non pubblicato in vita per timore delle reazioni dei teologi.
+
+La seconda opera è il Trattato teologico-politico, uscito anonimo nel 1670. Qui Spinoza sostiene che Scrittura e filosofia hanno ambiti distinti: la prima insegna obbedienza e carità, la seconda cerca la verità. Da questa distinzione deriva la rivendicazione della libertà di filosofare come condizione della pace dello Stato. Il libro fu subito attribuito a lui e bandito nel 1674.
+
+La terza opera è il Trattato politico, rimasto incompiuto e pubblicato postumo. Qui Spinoza analizza monarchia, aristocrazia e democrazia con metodo realistico, studiando come le istituzioni possano incanalare le passioni umane verso la concordia. La democrazia appare la forma più ragionevole, perché più vicina alla libertà naturale degli uomini.
+
+Accanto a queste stanno il commento ai Principi di Descartes del 1663, unico libro uscito in vita sotto il suo nome, il Trattato sull'emendazione dell'intelletto e un ampio Epistolario con Oldenburg, Blyenbergh e altri, prezioso per seguire la genesi del sistema. Il metodo geometrico non è un ornamento: mostra che etica e politica possono procedere per dimostrazioni, non per prediche. Chi legge in sequenza Trattato teologico-politico, Etica e Trattato politico vede un unico progetto, dalla liberazione dal pregiudizio alla fondazione della libertà comune e duratura nel tempo.
+
+**DOPO DI LUI: EREDITA**
+Nel Settecento Spinoza è insieme famoso e temuto. L'Illuminismo lo legge come maestro di critica biblica e di tolleranza, anche quando lo accusa di ateismo. Bayle lo discute, Voltaire e Diderot lo citano, Lessing e Mendelssohn aprono negli anni ottanta la disputa sul panteismo, che rimette Spinoza al centro del dibattito tedesco.
+
+L'idealismo tedesco parte da lui come da un avversario necessario. Herder e Goethe vedono nella Natura spinoziana un tutto vivente, Schelling e Hegel trasformano la sostanza in soggetto e processo. Hegel definisce Spinoza un passaggio obbligato: senza la sostanza non si arriva allo spirito. Il romanticismo ne fa il filosofo dell'unità di uomo e natura.
+
+Nel Novecento torna il Spinoza etico e politico. Gilles Deleuze ne fa il filosofo dell'immanenza e della gioia, rileggendo conatus ed etica degli affetti contro ogni moralismo. Antonio Negri e altri ne riprendono la democrazia radicale del Trattato politico. La psicologia delle emozioni e le neuroscienze riscoprono la teoria degli affetti come variazione di potenza.
+
+Resta celebre la formula di Einstein, che disse di credere nel Dio di Spinoza, rivelato nell'ordine armonioso del mondo. Non un Dio personale che interviene nella storia, ma la razionalità stessa della natura. È la prova che Spinoza parla ancora a scienziati, filosofi e lettori in cerca di libertà senza superstizione. Leggerlo oggi significa imparare un'arte rara: tenere insieme rigore logico, passione per la verità e rispetto profondo e costante per le opinioni altrui e per la fatica di comprenderle davvero ogni giorno con pazienza e onestà intellettuale.
+
 **CONTESTO STORICO**
 Spinoza vive nella Repubblica olandese del Seicento, potenza commerciale e centro della stampa europea, dove convivono una forte intolleranza calvinista (il sinodo di Dordrecht del 1618-19) e una relativa tolleranza pratica.
 

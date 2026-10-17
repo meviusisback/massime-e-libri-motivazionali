@@ -36,6 +36,26 @@ Socrate nacque ad Atene intorno al 470 o 469 a.C., figlio dello scalpellino Sofr
 - **Conosci te stesso e la cura dell'anima.** Sul tempio di Delfi era scritto «conosci te stesso»: Socrate ne fa un programma. L'importante non è la ricchezza o la fama, ma la salute dell'anima — e l'anima sta bene quando cerca il vero e il giusto.
 - **Virtù è scienza.** La tesi più audace: nessuno fa il male volontariamente; chi sbaglia, sbaglia per ignoranza del bene. Se conoscessimo davvero che cos'è il bene, lo sceglieremmo. Per questo l'educazione — il domandare continuo — è anche educazione morale.
 
+**TEMI FONDAMENTALI**
+
+- **La maieutica, l'arte di far partorire le idee.** Socrate non insegnava dottrine: faceva domande. Come la madre levatrice aiutava a nascere i bambini, lui aiutava a nascere i pensieri, mostrando che l'interlocutore sapeva già più di quanto credesse — o molto meno.
+- **L'ironia socratica.** Fingeva di non sapere nulla e chiedeva lumi ai potenti, per poi smontare le loro certezze pezzo per pezzo. Non era crudeltà: era l'unico modo per far crollare le opinioni non esaminate.
+- **La virtù è conoscenza.** Il cuore etico di Socrate: nessuno fa il male volontariamente, ma solo per ignoranza. Chi conosce davvero il bene non può non seguirlo. Da qui l'idea rivoluzionaria che educare significa rendere migliori.
+- **La cura dell'anima.** Ricchezza, fama e corpo passano; l'anima resta. Il compito della vita è renderla migliore con l'esame quotidiano — da cui il motto delfico che fece suo: «conosci te stesso».
+
+**OPERE PRINCIPALI**
+
+Socrate non scrisse nemmeno una riga: lo conosciamo solo attraverso gli altri. Le tre fonti che contano:
+- **L'*Apologia di Socrate* di Platone.** Il discorso di difesa al processo del 399 a.C.: il ritratto più diretto del suo metodo e del suo coraggio. Da leggere per prima.
+- **Il *Critone* e il *Fedone* di Platone.** Il primo sul rispetto delle leggi (rifiuta la fuga), il secondo sulle ultime ore in carcere e l'immortalità dell'anima.
+- **I *Memorabili* di Senofonte.** Un Socrate più pratico e quotidiano, utile a confrontare con quello platonico. Da maneggiare con cura: ognuno dipinge il maestro a propria immagine.
+
+**DOPO DI LUI: EREDITÀ**
+
+- **Platone e l'Accademia.** Il discepolo più grande fece di Socrate il protagonista dei suoi dialoghi: senza Socrate non esisterebbe Platone, e senza Platone non esisterebbe quasi nulla della filosofia occidentale.
+- **Cinici, cirenaici, stoici.** Antistene fondò il cinismo imitando la povertà di Socrate; Aristippo il piacere misurato; Zenone e gli stoici fecero della virtù-conoscenza il loro pilastro.
+- **Kierkegaard e il Novecento.** Il filosofo danese vide in Socrate il modello dell'ironia e del singolo contro la folla. E ogni volta che un professore interroga invece di dettare, ripete il suo gesto.
+
 ## 🌍 Il contesto storico
 
 Socrate vive nell'Atene del V secolo a.C.: l'età di Pericle, del Partenone e della democrazia, ma anche della guerra del Peloponneso contro Sparta, della peste e della crisi politica che porterà alla tirannide dei Trenta e alla restaurazione democratica che poi lo condannerà.
