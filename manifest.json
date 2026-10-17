@@ -1,64 +1,20 @@
 {
   "filosofi": [
     {
-      "slug": "socrate",
-      "title": "Socrate",
-      "sub": "Socrate · 470/469–399 a.C.",
-      "date": "20261017",
-      "img": "2026-10-17-ritratto.jpg",
-      "quote": "So di non sapere",
       "center": "Ignoranza",
       "chips": [
         "Maieutica",
         "Dialogo",
         "Ironia",
         "Dotta ignoranza"
-      ]
-    },
-    {
-      "center": "Dio = Natura",
-      "chips": [
-        "Determinismo",
-        "Conatus",
-        "Affetti",
-        "Conoscenza"
       ],
-      "date": "20261011",
-      "img": "2026-10-11-ritratto.jpg",
-      "quote": "Non ridere, non lamentarsi, non detestare, ma comprendere",
-      "slug": "spinoza",
-      "sub": "Baruch (Benedictus) de Spinoza · 1632–1677",
-      "title": "Spinoza"
-    },
-    {
-      "center": "Volontà",
-      "chips": [
-        "Volontà di potenza",
-        "Superuomo",
-        "Eterno ritorno",
-        "Critica morale"
-      ],
-      "date": "20261012",
-      "img": "2026-10-12-ritratto.jpg",
-      "quote": "Ciò che non mi uccide mi rende più forte",
-      "slug": "nietzsche",
-      "sub": "Friedrich Nietzsche · 1844–1900",
-      "title": "Nietzsche"
-    },
-    {
-      "center": "Dovere",
-      "chips": [
-        "Autonomia",
-        "Imperativo",
-        "Critica",
-        "Cielo stellato"
-      ],
-      "date": "20261013",
-      "img": "2026-10-13-ritratto.jpg",
-      "quote": "Il cielo stellato sopra di me e la legge morale in me",
-      "slug": "kant",
-      "sub": "Immanuel Kant · 1724–1804",
-      "title": "Kant"
+      "date": "20261017",
+      "img": "2026-10-17-ritratto.jpg",
+      "quote": "So di non sapere",
+      "slug": "socrate",
+      "sub": "Socrate · 470/469–399 a.C.",
+      "title": "Socrate",
+      "year": -470
     },
     {
       "center": "Controllo",
@@ -73,7 +29,8 @@
       "quote": "Non sono i fatti a turbarci, ma i giudizi sui fatti",
       "slug": "epitteto",
       "sub": "Epitteto · 50–135 d.C.",
-      "title": "Epitteto"
+      "title": "Epitteto",
+      "year": 50
     },
     {
       "center": "Anima",
@@ -88,7 +45,56 @@
       "quote": "Tardi ti amai, bellezza tanto antica e tanto nuova",
       "slug": "agostino",
       "sub": "Agostino d’Ippona · 354–430",
-      "title": "Sant’Agostino"
+      "title": "Sant’Agostino",
+      "year": 354
+    },
+    {
+      "center": "Dio = Natura",
+      "chips": [
+        "Determinismo",
+        "Conatus",
+        "Affetti",
+        "Conoscenza"
+      ],
+      "date": "20261011",
+      "img": "2026-10-11-ritratto.jpg",
+      "quote": "Non ridere, non lamentarsi, non detestare, ma comprendere",
+      "slug": "spinoza",
+      "sub": "Baruch (Benedictus) de Spinoza · 1632–1677",
+      "title": "Spinoza",
+      "year": 1632
+    },
+    {
+      "center": "Dovere",
+      "chips": [
+        "Autonomia",
+        "Imperativo",
+        "Critica",
+        "Cielo stellato"
+      ],
+      "date": "20261013",
+      "img": "2026-10-13-ritratto.jpg",
+      "quote": "Il cielo stellato sopra di me e la legge morale in me",
+      "slug": "kant",
+      "sub": "Immanuel Kant · 1724–1804",
+      "title": "Kant",
+      "year": 1724
+    },
+    {
+      "center": "Volontà",
+      "chips": [
+        "Volontà di potenza",
+        "Superuomo",
+        "Eterno ritorno",
+        "Critica morale"
+      ],
+      "date": "20261012",
+      "img": "2026-10-12-ritratto.jpg",
+      "quote": "Ciò che non mi uccide mi rende più forte",
+      "slug": "nietzsche",
+      "sub": "Friedrich Nietzsche · 1844–1900",
+      "title": "Nietzsche",
+      "year": 1844
     },
     {
       "center": "Pensare",
@@ -103,7 +109,8 @@
       "quote": "Pensare ciò che stiamo facendo",
       "slug": "arendt",
       "sub": "Hannah Arendt · 1906–1975",
-      "title": "Hannah Arendt"
+      "title": "Hannah Arendt",
+      "year": 1906
     }
   ],
   "libri": [

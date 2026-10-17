@@ -6,8 +6,13 @@ BASE = os.path.dirname(os.path.abspath(__file__))
 ROOT = BASE
 CONTENT = os.path.join(BASE, 'content')
 MANIFEST = json.load(open(os.path.join(BASE, 'manifest.json'), encoding='utf-8'))
+# I filosofi si mostrano SEMPRE in ordine cronologico (per anno di nascita,
+# negativo = a.C.). L'ordinamento vive qui e non nel manifest: chi aggiunge
+# una voce non deve indovinare la posizione, basta che compili il campo 'year'.
+_PHILOS_SORTED = sorted(MANIFEST['filosofi'],
+                        key=lambda e: (e.get('year', 9999), e['title']))
 PHILOS = [(e['slug'], e['title'], e['sub'], e['date'], e['img'],
-           e['quote'], e['center'], e['chips']) for e in MANIFEST['filosofi']]
+           e['quote'], e['center'], e['chips']) for e in _PHILOS_SORTED]
 BOOKS = [(e['slug'], e['title'], e['author'], e['date'], e['topic'],
           e['center'], e['chips']) for e in MANIFEST['libri']]
 
