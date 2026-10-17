@@ -64,7 +64,7 @@ Nato a Röcken il 15 ottobre 1844, figlio di un pastore luterano; morto a Weimar
 
 - Va infine ricordato il fraintendimento nazista. La sorella Elisabeth Förster-Nietzsche, sposata a un agitatore antisemita, curò l'archivio dopo il crollo del fratello e favorì una lettura nazionalista del suo pensiero, culminata nella raccolta postuma La volontà di potenza del 1901. Nietzsche disprezzava apertamente antisemitismo e nazionalismo tedesco, come mostrano lettere e appunti. Restituirgli il vero volto è parte della sua eredità. Oggi Nietzsche resta il filosofo che obbliga a scegliere: o nuovi valori creati con coraggio, o maschere ereditate. Per questo continua a parlare ad artisti, psicologi e lettori che cercano una forza capace di attraversare la crisi senza consolazioni facili e senza nostalgie per valori perduti e senza paura di pensare contro corrente.
 
-- 🏛️ **Contesto storico**
+**CONTESTO STORICO**
 
 - Nietzsche visse tra Germania e Svizzera nella seconda metà dell'Ottocento, l'età delle unificazioni nazionali e della prima grande industrializzazione.
 
