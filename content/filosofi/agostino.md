@@ -67,11 +67,15 @@ La fenomenologia del Novecento lo ritrova sul tempo e sulla memoria. Husserl, He
 
 ## 🏛️ Contesto storico
 
-**Lo riceve:** la retorica romana e l'etica della gloria di **Cicerone**; il **manicheismo** (movimento dualista di Mani, fiorente in Africa romana); il **neoplatonismo** di **Plotino**, che lo convince che dietro la molteplicità c'è un unico principio — ma che non gli dà il Dio che cerca; la lettura di **Paolo** (la lettera ai Romani è la scintilla della conversione) e l'esegesi di **Ambrogio**.
+Agostino vive a cavallo tra IV e V secolo (354-430), nel cuore della tarda antichità. L'Impero romano, diviso tra Oriente e Occidente, resta ancora il quadro politico e culturale del Mediterraneo, con le sue strade, le sue scuole e la sua amministrazione, ma mostra crepe sempre più profonde ai confini.
 
-**Lo trasmette:** la **scolastica medievale** (**Anselmo**, **Bonaventura**, **Tommaso d'Aquino**); la **Riforma protestante** (**Lutero**, che fu frate agostiniano, e **Calvino**, sulla grazia); il **giansenismo** e **Pascal**; la filosofia moderna (**Cartesio** riprende il "se erro, esisto" della *Città di Dio*); la filosofia del tempo interiore, fino a **Bergson**.
+La sua geografia personale racconta quell'impero in movimento. Nasce a Tagaste, piccola città dell'Africa romana, studia e insegna retorica a Cartagine, metropoli vivace, cosmopolita e piena di teatri, scuole e sette religiose. Poi si sposta a Roma e infine a Milano, allora capitale imperiale d'Occidente e centro del potere.
 
-**Il momento:** il IV-V secolo è il crollo del mondo antico — cristianesimo imposto come religione di stato (380), sacco di Roma (410), invasioni vandaliche. La *Città di Dio* nasce per rispondere a chi incolpa il cristianesimo di quella catastrofe.
+A Milano incontra il vescovo Ambrogio, figura di enorme autorità morale e politica, capace di tenere testa agli imperatori. Intanto il cristianesimo ha cambiato statuto: da religione perseguitata a fede lecita, fino a diventare, con l'editto di Teodosio del 380, la religione ufficiale dell'Impero. Paganesimo e cristianesimo convivono ancora, ma il baricentro si è spostato.
+
+Gli ultimi decenni della sua vita sono segnati dalla crisi militare. Nel 410 i Visigoti di Alarico saccheggiano Roma: un trauma simbolico per tutto il mondo antico, che sembrava eterno. Poco dopo i Vandali attraversano Gallia e Spagna e invadono l'Africa. Agostino muore nel 430 mentre i Vandali assediano Ippona, la sua città episcopale.
+
+La società è un misto di continuità e angoscia: retorica classica e uffici imperiali convivono con vescovi sempre più influenti, campagne insicure e città colte ma impaurite. Da questa frattura nasce la domanda della *Città di Dio*: che cosa resta in piedi quando un impero crolla?
 
 **🌍 ESEMPI DI OGGI**
 Tre situazioni dove il tempo interiore di Agostino si riconosce:

@@ -68,10 +68,16 @@ Nel Novecento Edmund Husserl, fondatore della fenomenologia, riprende l'idea kan
 Infine l'idea dei diritti umani universali, proclamata già nel 1789 e poi nelle carte del Novecento, deve a Kant la sua fondazione filosofica più solida: ogni essere umano è fine in sé e portatore di una dignità che nessuna utilità collettiva può calpestare. Anche la filosofia della scienza, l'epistemologia e la teoria del diritto contemporanee continuano a misurarsi con le sue domande: cosa posso conoscere, cosa devo fare, cosa mi è lecito sperare. È questa la misura della sua grandezza: aver reso inevitabile, per chiunque venga dopo, fare i conti con lui.
 
 **Contesto storico**
-Movimenti che lo hanno *influenzato*: il razionalismo di Leibniz e Wolff (di cui eredita l'ambizione sistematica), lo scetticismo empirista di Hume (la scintilla), la rivoluzione scientifica di Newton (lo schema del *Critica* è modellato sulla *Fisica* aristotelica), l'Illuminismo tedesco e il pietismo, l'idealismo morale di Rousseau (che gli insegna che la dignità umana conta più di ogni conoscenza).
-Movimenti che ha *trasmesso*: l'idealismo tedesco (Fichte, Schelling, Hegel, che nascono tutti da Kant), il neokantismo di Marburgo e Baden (Cohen, Natorp, Windelband), la fenomenologia di Husserl.
 
-**L'eredità novecentesca.** In parte l'esistenzialismo (Kierkegaard e i successori reagiscono proprio all'«etica kantiana»), l'etica deontologica del Novecento (Rawls, Habermas e la scuola di Francoforte), e l'idea stessa di diritti umani universali come si legge nella *Dichiarazione dei diritti dell'uomo* del 1789.
+Kant vive quasi tutta la vita a Königsberg (1724-1804), porto della Prussia orientale ai margini dell'Europa colta, che non lascia quasi mai. Da quella città di frontiera, tra commerci baltici, guarnigioni e università, osserva il Settecento senza spostarsi: il mondo arriva a lui attraverso libri, lettere e studenti.
+
+La Prussia in cui cresce è quella di Federico II, il re illuminato che promuove tolleranza religiosa, scuole, amministrazione efficiente e dibattito razionale. È il clima dell'Illuminismo tedesco, l'Aufklärung: giornali, accademie e logge discutono di ragione, diritti e progresso, mentre la censura resta vigile e il potere resta assoluto.
+
+La sua formazione è segnata dal pietismo, movimento protestante austero centrato su disciplina interiore, dovere e coscienza. Il Collegium Fredericianum dove studia è pietista: da lì Kant eredita il senso del dovere e della legge morale, anche quando abbandonerà la fede letterale dell'infanzia per una religione della ragione.
+
+Attorno a lui l'epoca accelera. L'indipendenza americana del 1776 e soprattutto la Rivoluzione francese del 1789, con la Dichiarazione dei diritti dell'uomo, accendono il suo entusiasmo: vede in quegli eventi il tentativo di fondare la politica sulla libertà e sulla legge, non sul privilegio. Da vecchio professore segue Parigi con passione e preoccupazione insieme.
+
+La società è quella dell'antico regime al tramonto: ceti, corporazioni e monarchie assolute, ma anche borghesia colta, stampa e idee cosmopolitiche. Quando Kant muore nel 1804, le guerre napoleoniche sono già all'orizzonte e presto travolgeranno anche Königsberg. La sua proposta di pace perpetua tra repubbliche libere nasce da questo crocevia: ragione e diritto contro la guerra.
 
 **🌍 ESEMPI DI OGGI**
 Tre situazioni dove la legge morale "dentro di noi" si fa sentire:

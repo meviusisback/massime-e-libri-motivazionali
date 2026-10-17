@@ -79,13 +79,15 @@ Nel Novecento torna il Spinoza etico e politico. Gilles Deleuze ne fa il filosof
 Resta celebre la formula di Einstein, che disse di credere nel Dio di Spinoza, rivelato nell'ordine armonioso del mondo. Non un Dio personale che interviene nella storia, ma la razionalità stessa della natura. È la prova che Spinoza parla ancora a scienziati, filosofi e lettori in cerca di libertà senza superstizione. Leggerlo oggi significa imparare un'arte rara: tenere insieme rigore logico, passione per la verità e rispetto profondo e costante per le opinioni altrui e per la fatica di comprenderle davvero ogni giorno con pazienza e onestà intellettuale.
 
 **CONTESTO STORICO**
-Spinoza vive nella Repubblica olandese del Seicento, potenza commerciale e centro della stampa europea, dove convivono una forte intolleranza calvinista (il sinodo di Dordrecht del 1618-19) e una relativa tolleranza pratica.
+Spinoza visse nelle Province Unite del Seicento, tra Amsterdam, Rijnsburg, Voorburg e L'Aia, nel pieno dell'età dell'oro olandese.
 
-**Una domanda nuova.** È l'età di Descartes, morto in Svezia nel 1650, di Hobbes, del metodo sperimentale: la domanda di quegli anni è se si possa dare una conoscenza *certa* dell'uomo e della natura.
+La Repubblica delle Province Unite, indipendente di fatto dalla Spagna dopo la lunga guerra d'indipendenza, era una confederazione di province mercantili guidata da Amsterdam: il porto più ricco del mondo, sede della Compagnia delle Indie Orientali, mercato di spezie, libri, tulipani e quadri. Ricchezza diffusa, borghesia colta, tipografie che stampavano per tutta l'Europa, scienziati e pittori come Rembrandt e Vermeer, ingegneri che strappavano terra al mare con dighe e mulini a vento.
 
-**Contro le guerre di religione.** L'*Etica* risponde costruendo la morale come scienza dimostrativa, e il *Tractatus Theologico-Politicus* risponde alla guerra di religione sostenendo che Scrittura e filosofia vanno tenute distinte, e che un soggetto libero può esserlo solo se gli si lascia pensare ciò che vuole.
+Sul piano politico era una repubblica senza re, retta dagli Stati Generali e dal Gran Pensionario d'Olanda, carica tenuta a lungo da Johan de Witt. Accanto al potere repubblicano restava forte la Casa d'Orange, con lo statolder alla guida dell'esercito: una tensione costante tra repubblicani e orangisti che attraversava ogni dibattito pubblico.
 
-**La fine di un'epoca.** Il clima peggiora dopo il 1672: l'assassinio di Johan e Cornelis de Witt, il linciaggio che apre la strada all'Orangismo, segna la fine della repubblica liberale in cui Spinoza aveva riposto le sue speranze.
+La religione ufficiale calvinista conviveva con una tolleranza pratica unica in Europa. Ebrei sefarditi fuggiti da Spagna e Portogallo, cattolici, remonstranti, mennoniti e gruppi liberi come i Collegianti potevano vivere, commerciare e stampare, pur tra controlli e scomuniche come l'herem subito da Spinoza nel 1656. Amsterdam era così il rifugio degli esuli e la tipografia d'Europa.
+
+Il quadro internazionale restava durissimo: tre guerre anglo-olandesi per il dominio dei mari, rivalità con Francia e Inghilterra, invasioni e crolli improvvisi. Nel 1672, l'anno del disastro, eserciti francesi, inglesi e tedeschi attaccarono la Repubblica e la folla inferocita linciò a L'Aia Johan de Witt e il fratello Cornelis. Con la loro morte finì la stagione liberale del Gran Pensionario e tornò al potere lo statolder Guglielmo III. Spinoza, che ammirava i De Witt, vide crollare il mondo di tolleranza in cui aveva riposto le sue speranze.
 **Movimenti che lo hanno formato:**
 - la cultura ebraica sefardita e l'educazione talmudica, fino al 1656;
 - lo **stoicismo** antico (300 a.C. – II sec. d.C.): la natura come ordine necessario e la pace che nasce dall'accettarlo;

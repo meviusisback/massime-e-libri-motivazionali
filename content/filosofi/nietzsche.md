@@ -66,9 +66,17 @@ Va infine ricordato il fraintendimento nazista. La sorella Elisabeth Förster-Ni
 
 🏛️ **Contesto storico**
 
-- Ha ricevuto: il pessimismo di Schopenhauer, il romanticismo tedesco e il wagnerismo (poi abbandonati con risentimento), la filologia classica tedesca, il darwinismo (che criticò aspramente), i presocratici — in primo luogo Eraclito — e Dostoevskij, "l'unico psicologo" secondo lui.
-- Ha trasmesso: il vitalismo (Dilthey, Bergson), l'esistenzialismo (Jaspers, Heidegger, Sartre, Camus), il post-strutturalismo e la filosofia della differenza (Foucault, Deleuze, Derrida).
-- Un fraintendimento da smontare: la sorella Elisabeth Förster-Nietzsche, sposa di un antisemita convinto, curò l'archivio e pubblicò compilazioni postume (*La volontà di potenza*, 1901) piegandole in senso nazionalista e antisemita — idee che Nietzsche disprezzava apertamente nei suoi appunti.
+Nietzsche visse tra Germania e Svizzera nella seconda metà dell'Ottocento, l'età delle unificazioni nazionali e della prima grande industrializzazione.
+
+Nato in Sassonia e cresciuto a Naumburg, a ventiquattro anni divenne professore di filologia all'Università di Basilea, in Svizzera, dove insegnò dal 1869 al 1879. Poi, minato dalla malattia, lasciò la cattedra e condusse una vita itinerante da apolide tra Sils-Maria in Engadina, Venezia, Genova, Nizza e Torino, dove lo colse il crollo del gennaio 1889.
+
+Da Basilea vide da vicino la guerra franco-prussiana del 1870, a cui partecipò come barelliere volontario. L'anno dopo, nel 1871, nacque a Versailles l'Impero tedesco di Bismarck. Era una Germania in ascesa travolgente: esercito potente, industria dell'acciaio in pieno decollo, ferrovie, banche, fiducia positivista nella scienza e nel progresso.
+
+La società era borghese, ordinata e nazionalista, ma percorsa da una frattura profonda. A Bayreuth il teatro di Wagner divenne il tempio di un nuovo mito nazionale tedesco, che prima esaltò Nietzsche e poi lo deluse fino alla rottura. Intanto Darwin, la critica storica della Bibbia e la secolarizzazione svuotavano le vecchie certezze religiose senza crearne di nuove.
+
+La vita quotidiana cambiava in fretta: crescita delle città, ferrovie, giornali a grande tiratura, scuola e teatri pieni di una borghesia colta e ambiziosa. A Basilea, città universitaria sul Reno, Nietzsche frequentava i salotti colti e il festival di Bayreuth, inaugurato nel 1876, prima della rottura con Wagner nel 1878.
+
+In questo mondo che celebrava la forza e seppelliva la tradizione nacque l'annuncio nietzschiano della morte di Dio: non una provocazione da ateo, ma la diagnosi di una crisi dei valori europei che né l'Impero, né la scienza, né il nazionalismo riuscivano a colmare.
 
 **🌍 ESEMPI DI OGGI**
 Tre situazioni dove "ciò che non uccide rende più forti" si vede all'opera — con un'avvertenza onesta: vale per le difficoltà che si possono affrontare, non per le tragedie:

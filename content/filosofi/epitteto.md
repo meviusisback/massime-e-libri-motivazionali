@@ -79,9 +79,15 @@ Nel Novecento la psicologia riscopre Epitteto come precursore. Albert Ellis e Aa
 ---
 
 ### 📚 Contesto storico
-Epitteto vive in piena **età imperiale romana**, sotto i Flavi (Vespasiano, Tito, Domiziano) e all'inizio degli Antonini (Nerva, Traiano, Adriano). È contemporaneo di **Seneca** (che pure aveva servito Nerone) e precede di un secolo **Marco Aurelio**, che delle sue lezioni riceverà gli scritti tramite il maestro Giunio Rustico.
+Epitteto nacque a Ierapoli, in Asia Minore, verso il 50 d.C., e visse da schiavo a Roma prima di finire esule a Nicopoli, in Epiro.
 
-La **Stoa romana** — Seneca, Epitteto, Marco Aurelio — è la filosofia che cerca di sopravvivere alla crisi della polis: la libertà non si trova più nelle istituzioni, ma nell'anima individuale. Epitteto è l'esponente più radicale di questa linea.
+La Roma in cui crebbe era la capitale di un impero mediterraneo di decine di milioni di persone: fori, terme, anfiteatri e palazzi imperiali, ma anche quartieri sovraffollati, incendi, carestie e un potere assoluto nelle mani dell'imperatore. Da giovane servì Epafrodito, liberto e segretario di Nerone: vide da vicino la corte neroniana con i suoi eccessi, fino al suicidio dell'imperatore nel 68 d.C., seguito dall'anno dei quattro imperatori e dalla guerra civile.
+
+Sotto i Flavi, Vespasiano e Tito ricostruirono Roma, mentre Domiziano instaurò un regime sospettoso verso senatori, letterati e filosofi, fino a bandirli da Roma tra l'86 e il 93 d.C. Fu così che Epitteto, ormai libero e maestro stoico, dovette lasciare la città e aprire scuola a Nicopoli, la città fondata da Augusto in Grecia: una vita sobria, in una casa povera, con allievi di ogni condizione.
+
+La società romana si reggeva sulla schiavitù: milioni di schiavi lavoravano in case, miniere e latifondi, e anche la libertà restava segnata dal passato, come mostra il suo stesso nome, che significa semplicemente posseduto. Intanto lo stoicismo romano, con Seneca, Musonio Rufo e più tardi Marco Aurelio, offriva a molti una disciplina interiore per resistere alla paura e all'arbitrio del potere.
+
+Con Nerva, Traiano e Adriano l'impero raggiunse la massima estensione e una nuova stabilità, tra conquiste, strade, acquedotti e amministrazione. Epitteto morì verso il 135 d.C., sotto Adriano, in un mondo ordinato fuori ma ancora minacciato dentro: la sua filosofia della libertà interiore nasceva proprio lì.
 
 **Influenze ricevute:** lo **stoicismo ellenistico** (Zenone, Crisippo) — in particolare la teoria delle rappresentazioni e dell'assenso — e la tradizione **cinica** di Diogene, che Epitteto ammira per la sua frugalità e il disprezzo per le convenzioni. Il suo maestro diretto è **Musonio Rufo**, cavaliere romano e stoico.
 

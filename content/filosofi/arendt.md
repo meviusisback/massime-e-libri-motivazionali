@@ -82,11 +82,17 @@ Il dibattito su Eichmann non si è mai chiuso. Storici, giuristi e filosofi disc
 
 ## 🌍 Il contesto storico
 
-Arendt visse i traumi del Novecento dall'interno: la Prima guerra mondiale (che da bambina le portò via il padre, morto di sifilide contratta al fronte), la Repubblica di Weimar, l'ascesa del nazismo, l'Olocausto, l'esilio, la Guerra Fredda.
+Hannah Arendt attraversò da protagonista i traumi della Germania nella prima metà del Novecento.
 
-**Da chi è stata influenzata:** Karl Jaspers (la dialettica e la questione della responsabilità), Martin Heidegger (l'essere e il linguaggio del pensiero, nonostante la rottura politica), Sant'Agostino (il concetto di inizio e la nascita come miracolo), Marx (che però critica aspramente, riducendo la vita umana al lavoro), la tradizione repubblicana e rivoluzionaria (in particolare la rivoluzione americana contro quella francese).
+Nata presso Hannover e formatasi tra Marburgo, Heidelberg e Berlino, visse in prima persona la fragile Repubblica di Weimar: un dopoguerra segnato da inflazione, disoccupazione, scontri di piazza e dal crollo di Wall Street del 1929, che travolse anche l'economia tedesca e spianò la strada all'ascesa del nazismo.
 
-**A chi ha trasmesso:** il femminismo politico (che spesso la rivendica nonostante lei si fosse diffidata del movimento), i teorici della democrazia deliberativa, gli studi post-totalitari, il pensiero contemporaneo su responsabilità e conformismo (da Milgram agli studi sull'obbedienza), e la riflessione etica sull'obbedienza agli ordini, ancora oggi citata nei dibattiti sui crimini di guerra.
+Essendo ebrea e già impegnata politicamente, nel 1933, con Hitler al potere, fu arrestata dalla Gestapo e fuggì prima a Parigi, dove lavorò per organizzazioni ebraiche di assistenza ai rifugiati. Allo scoppio della Seconda guerra mondiale fu internata come straniera nemica nel campo francese di Gurs; evasa, nel 1941 riuscì a imbarcarsi per gli Stati Uniti, stabilendosi a New York.
+
+La Weimar degli anni Venti era anche un laboratorio culturale straordinario: Bauhaus, cinema espressionista, teatro di Brecht, cabaret berlinesi, pur nella miseria e nella violenza politica di quegli anni.
+
+Da lì osservò la guerra, la scoperta dei campi di sterminio e poi la Guerra fredda: un mondo diviso in blocchi, segnato dalla bomba atomica, dalla società di massa e dal conformismo burocratico delle grandi organizzazioni moderne. A New York ritrovò una comunità di esuli europei e lavorò come giornalista e saggista, mentre l'America viveva boom economico e paura atomica.
+
+Il momento simbolico arrivò nel 1961, quando seguì a Gerusalemme il processo ad Adolf Eichmann, il funzionario nazista rapito in Argentina e giudicato in Israele. Da quel tribunale nacque la sua riflessione più famosa, sulla banalità del male: come uomini ordinari, in società ordinate, possano compiere crimini enormi senza mai fermarsi a pensare.
 
 **🌍 ESEMPI DI OGGI**
 Tre situazioni dove "pensare ciò che stiamo facendo" fa la differenza:
