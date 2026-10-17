@@ -108,6 +108,20 @@
   ],
   "libri": [
     {
+      "author": "James Clear",
+      "center": "Abitudini",
+      "chips": [
+        "1% meglio",
+        "Sistemi",
+        "Identità",
+        "Ambiente"
+      ],
+      "date": "20261017",
+      "slug": "atomic-habits",
+      "title": "Atomic Habits",
+      "topic": "Crescita personale"
+    },
+    {
       "author": "Chris Voss con Tahl Raz",
       "center": "Negoziazione",
       "chips": [
