@@ -360,6 +360,9 @@ a:hover{text-decoration:underline}
 .sec-minor h2{color:var(--muted)}
 .sec-body h2{color:var(--accent-2)}
 .sec-side h2{color:var(--green)}
+.sec-visual h2{color:var(--yellow)}
+.visual-link img{width:100%;height:auto;border-radius:1rem;border:1px solid var(--border)}
+.visual-hint{color:var(--muted);font-size:.85rem;margin:.5rem 0 0}
 .portrait-card{background:var(--card);border:1px solid var(--border);border-radius:1rem;
   overflow:hidden;margin:0 0 1.4rem;max-width:560px}
 .portrait-card img{display:block;width:100%;height:auto;object-fit:contain;background:var(--code)}
@@ -539,6 +542,14 @@ def detail_page(kind, slug, title, sub, date, img, img_cap, quote, chips, raw):
         main.append((rank_of(kind, key, t), h))
     main.sort(key=lambda x: x[0])
     main = [h for _, h in main]
+    visual = ''
+    if os.path.exists(os.path.join(ROOT, 'assets', 'cards', slug + '.png')):
+        visual = ('<section class="sec sec-visual"><h2><span class="sec-ico">🖼️</span>'
+                  'In un colpo d’occhio</h2><a class="visual-link" href="../assets/cards/'
+                  + slug + '.png" target="_blank" rel="noopener"><img src="../assets/cards/'
+                  + slug + '.png" alt="Sintesi visuale di ' + H.escape(title)
+                  + '" loading="lazy"></a>'
+                  '<p class="visual-hint">Tocca l’immagine per ingrandirla.</p></section>')
     crumb = (f'<p class="crumb"><a href="../index.html">Home</a> / '
              f'<a href="./">{"Filosofi" if kind == "filosofi" else "Libri"}</a> / {H.escape(title)}</p>')
     body = f'''{crumb}
@@ -553,6 +564,7 @@ def detail_page(kind, slug, title, sub, date, img, img_cap, quote, chips, raw):
 <div class="layout no-aside">
   <div>
 {chr(10).join(main)}
+{visual}
   </div>
 </div>'''
     return SHELL.format(title=H.escape(title), prefix='../', body=body)

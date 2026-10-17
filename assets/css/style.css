@@ -72,6 +72,9 @@ a:hover{text-decoration:underline}
 .sec-minor h2{color:var(--muted)}
 .sec-body h2{color:var(--accent-2)}
 .sec-side h2{color:var(--green)}
+.sec-visual h2{color:var(--yellow)}
+.visual-link img{width:100%;height:auto;border-radius:1rem;border:1px solid var(--border)}
+.visual-hint{color:var(--muted);font-size:.85rem;margin:.5rem 0 0}
 .portrait-card{background:var(--card);border:1px solid var(--border);border-radius:1rem;
   overflow:hidden;margin:0 0 1.4rem;max-width:560px}
 .portrait-card img{display:block;width:100%;height:auto;object-fit:contain;background:var(--code)}
