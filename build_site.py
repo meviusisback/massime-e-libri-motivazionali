@@ -271,7 +271,10 @@ def section_html(key, title, buf, is_book):
         h2 = f'<h2><span class="sec-ico">{ico}</span>{H.escape(t)}</h2>\n' if t else ''
         return f'<section class="sec sec-body">{h2}{body}\n</section>'
     lvl_class = {'hero': 'sec-lead', 'key': 'sec-key', 'side': 'sec-side', 'minor': 'sec-minor', 'quiz': 'sec-quiz'}.get(level, 'sec-body')
-    return f'<section class="sec {lvl_class}"><h2><span class="sec-ico">{icon}</span>{H.escape(label)}</h2>\n{render_body(split_paragraphs(buf))}\n</section>'
+    body = render_body(split_paragraphs(buf))
+    if key in ('OPERE PRINCIPALI', 'TEMI FONDAMENTALI', 'DOPO DI LUI', 'EREDITÀ'):
+        body = re.sub('<li><strong>(.+?)</strong>', '<li><span class="hl">\1</span>', body)
+    return f'<section class="sec {lvl_class}"><h2><span class="sec-ico">{icon}</span>{H.escape(label)}</h2>\n{body}\n</section>'
 
 NEW_CSS = r'''
 :root{
