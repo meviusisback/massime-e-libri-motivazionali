@@ -1,1 +1,195 @@
-{"filosofi": [{"center": "Dio = Natura", "chips": ["Determinismo", "Conatus", "Affetti", "Conoscenza"], "date": "20261011", "img": "2026-10-11-ritratto.jpg", "quote": "Non ridere, non lamentarsi, non detestare, ma comprendere", "slug": "spinoza", "sub": "Baruch (Benedictus) de Spinoza · 1632–1677", "title": "Spinoza"}, {"center": "Volontà", "chips": ["Volontà di potenza", "Superuomo", "Eterno ritorno", "Critica morale"], "date": "20261012", "img": "2026-10-12-ritratto.jpg", "quote": "Ciò che non mi uccide mi rende più forte", "slug": "nietzsche", "sub": "Friedrich Nietzsche · 1844–1900", "title": "Nietzsche"}, {"center": "Dovere", "chips": ["Autonomia", "Imperativo", "Critica", "Cielo stellato"], "date": "20261013", "img": "2026-10-13-ritratto.jpg", "quote": "Il cielo stellato sopra di me e la legge morale in me", "slug": "kant", "sub": "Immanuel Kant · 1724–1804", "title": "Kant"}, {"center": "Controllo", "chips": ["Giudizio", "Accettazione", "Tranquillità", "Libertà interiore"], "date": "20261014", "img": "2026-10-14-ritratto.png", "quote": "Non sono i fatti a turbarci, ma i giudizi sui fatti", "slug": "epitteto", "sub": "Epitteto · 50–135 d.C.", "title": "Epitteto"}, {"center": "Anima", "chips": ["Tempo", "Memoria", "Amore", "Libertà"], "date": "20261015", "img": "2026-10-15-ritratto.jpg", "quote": "Tardi ti amai, bellezza tanto antica e tanto nuova", "slug": "agostino", "sub": "Agostino d’Ippona · 354–430", "title": "Sant’Agostino"}, {"center": "Pensare", "chips": ["Lavoro", "Opera", "Azione", "Natalità"], "date": "20261016", "img": "2026-10-16-ritratto.jpg", "quote": "Pensare ciò che stiamo facendo", "slug": "arendt", "sub": "Hannah Arendt · 1906–1975", "title": "Hannah Arendt"}], "libri": [{"author": "Chris Voss con Tahl Raz", "center": "Negoziazione", "chips": ["Mirroring", "Dire no", "Domande calibrate", "Cigni neri"], "date": "20261011", "slug": "never-split-the-difference", "title": "Never Split the Difference", "topic": "Negoziazione"}, {"author": "Carmine Gallo", "center": "Talk", "chips": ["Passione", "Novità", "Storie", "Delivery"], "date": "20261012", "slug": "talk-like-ted", "title": "Talk Like TED", "topic": "Public speaking"}, {"author": "Neil Rackham", "center": "SPIN", "chips": ["Situazione", "Problema", "Implicazione", "Esigenza"], "date": "20261013", "slug": "spin-selling", "title": "SPIN Selling", "topic": "Vendite B2B"}, {"author": "Robert B. Cialdini", "center": "Persuasione", "chips": ["Reciprocità", "Prova sociale", "Autorità", "Scarsità"], "date": "20261014", "slug": "armi-persuasione", "title": "Le armi della persuasione", "topic": "Persuasione"}, {"author": "Daniel Goleman", "center": "Emozioni", "chips": ["Autoconsapevolezza", "Autoregolazione", "Empatia", "Abilità sociali"], "date": "20261015", "slug": "intelligenza-emotiva", "title": "Intelligenza emotiva", "topic": "Emozioni e carriera"}, {"author": "Dale Carnegie", "center": "Stress", "chips": ["Fatti", "Analisi", "Azione", "Giornata tight"], "date": "20261016", "slug": "vincere-stress", "title": "Come vincere lo stress e cominciare a vivere", "topic": "Gestione dello stress"}]}
+{
+  "filosofi": [
+    {
+      "slug": "socrate",
+      "title": "Socrate",
+      "sub": "Socrate · 470/469–399 a.C.",
+      "date": "20261017",
+      "img": "2026-10-17-ritratto.jpg",
+      "quote": "So di non sapere",
+      "center": "Ignoranza",
+      "chips": [
+        "Maieutica",
+        "Dialogo",
+        "Ironia",
+        "Dotta ignoranza"
+      ]
+    },
+    {
+      "center": "Dio = Natura",
+      "chips": [
+        "Determinismo",
+        "Conatus",
+        "Affetti",
+        "Conoscenza"
+      ],
+      "date": "20261011",
+      "img": "2026-10-11-ritratto.jpg",
+      "quote": "Non ridere, non lamentarsi, non detestare, ma comprendere",
+      "slug": "spinoza",
+      "sub": "Baruch (Benedictus) de Spinoza · 1632–1677",
+      "title": "Spinoza"
+    },
+    {
+      "center": "Volontà",
+      "chips": [
+        "Volontà di potenza",
+        "Superuomo",
+        "Eterno ritorno",
+        "Critica morale"
+      ],
+      "date": "20261012",
+      "img": "2026-10-12-ritratto.jpg",
+      "quote": "Ciò che non mi uccide mi rende più forte",
+      "slug": "nietzsche",
+      "sub": "Friedrich Nietzsche · 1844–1900",
+      "title": "Nietzsche"
+    },
+    {
+      "center": "Dovere",
+      "chips": [
+        "Autonomia",
+        "Imperativo",
+        "Critica",
+        "Cielo stellato"
+      ],
+      "date": "20261013",
+      "img": "2026-10-13-ritratto.jpg",
+      "quote": "Il cielo stellato sopra di me e la legge morale in me",
+      "slug": "kant",
+      "sub": "Immanuel Kant · 1724–1804",
+      "title": "Kant"
+    },
+    {
+      "center": "Controllo",
+      "chips": [
+        "Giudizio",
+        "Accettazione",
+        "Tranquillità",
+        "Libertà interiore"
+      ],
+      "date": "20261014",
+      "img": "2026-10-14-ritratto.png",
+      "quote": "Non sono i fatti a turbarci, ma i giudizi sui fatti",
+      "slug": "epitteto",
+      "sub": "Epitteto · 50–135 d.C.",
+      "title": "Epitteto"
+    },
+    {
+      "center": "Anima",
+      "chips": [
+        "Tempo",
+        "Memoria",
+        "Amore",
+        "Libertà"
+      ],
+      "date": "20261015",
+      "img": "2026-10-15-ritratto.jpg",
+      "quote": "Tardi ti amai, bellezza tanto antica e tanto nuova",
+      "slug": "agostino",
+      "sub": "Agostino d’Ippona · 354–430",
+      "title": "Sant’Agostino"
+    },
+    {
+      "center": "Pensare",
+      "chips": [
+        "Lavoro",
+        "Opera",
+        "Azione",
+        "Natalità"
+      ],
+      "date": "20261016",
+      "img": "2026-10-16-ritratto.jpg",
+      "quote": "Pensare ciò che stiamo facendo",
+      "slug": "arendt",
+      "sub": "Hannah Arendt · 1906–1975",
+      "title": "Hannah Arendt"
+    }
+  ],
+  "libri": [
+    {
+      "author": "Chris Voss con Tahl Raz",
+      "center": "Negoziazione",
+      "chips": [
+        "Mirroring",
+        "Dire no",
+        "Domande calibrate",
+        "Cigni neri"
+      ],
+      "date": "20261011",
+      "slug": "never-split-the-difference",
+      "title": "Never Split the Difference",
+      "topic": "Negoziazione"
+    },
+    {
+      "author": "Carmine Gallo",
+      "center": "Talk",
+      "chips": [
+        "Passione",
+        "Novità",
+        "Storie",
+        "Delivery"
+      ],
+      "date": "20261012",
+      "slug": "talk-like-ted",
+      "title": "Talk Like TED",
+      "topic": "Public speaking"
+    },
+    {
+      "author": "Neil Rackham",
+      "center": "SPIN",
+      "chips": [
+        "Situazione",
+        "Problema",
+        "Implicazione",
+        "Esigenza"
+      ],
+      "date": "20261013",
+      "slug": "spin-selling",
+      "title": "SPIN Selling",
+      "topic": "Vendite B2B"
+    },
+    {
+      "author": "Robert B. Cialdini",
+      "center": "Persuasione",
+      "chips": [
+        "Reciprocità",
+        "Prova sociale",
+        "Autorità",
+        "Scarsità"
+      ],
+      "date": "20261014",
+      "slug": "armi-persuasione",
+      "title": "Le armi della persuasione",
+      "topic": "Persuasione"
+    },
+    {
+      "author": "Daniel Goleman",
+      "center": "Emozioni",
+      "chips": [
+        "Autoconsapevolezza",
+        "Autoregolazione",
+        "Empatia",
+        "Abilità sociali"
+      ],
+      "date": "20261015",
+      "slug": "intelligenza-emotiva",
+      "title": "Intelligenza emotiva",
+      "topic": "Emozioni e carriera"
+    },
+    {
+      "author": "Dale Carnegie",
+      "center": "Stress",
+      "chips": [
+        "Fatti",
+        "Analisi",
+        "Azione",
+        "Giornata tight"
+      ],
+      "date": "20261016",
+      "slug": "vincere-stress",
+      "title": "Come vincere lo stress e cominciare a vivere",
+      "topic": "Gestione dello stress"
+    }
+  ]
+}
