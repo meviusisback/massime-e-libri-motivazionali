@@ -273,7 +273,7 @@ def section_html(key, title, buf, is_book):
     lvl_class = {'hero': 'sec-lead', 'key': 'sec-key', 'side': 'sec-side', 'minor': 'sec-minor', 'quiz': 'sec-quiz'}.get(level, 'sec-body')
     body = render_body(split_paragraphs(buf))
     if key in ('OPERE PRINCIPALI', 'TEMI FONDAMENTALI', 'DOPO DI LUI', 'EREDITÀ'):
-        body = re.sub('<li><strong>(.+?)</strong>', '<li><span class="hl">\1</span>', body)
+        body = re.sub('<li><strong>(.+?)</strong>', lambda m: '<li><span class="hl">' + m.group(1) + '</span>', body)
     return f'<section class="sec {lvl_class}"><h2><span class="sec-ico">{icon}</span>{H.escape(label)}</h2>\n{body}\n</section>'
 
 NEW_CSS = r'''
