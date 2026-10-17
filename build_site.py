@@ -15,6 +15,9 @@ PHILOS = [(e['slug'], e['title'], e['sub'], e['date'], e['img'],
            e['quote'], e['center'], e['chips']) for e in _PHILOS_SORTED]
 BOOKS = [(e['slug'], e['title'], e['author'], e['date'], e['topic'],
           e['center'], e['chips']) for e in MANIFEST['libri']]
+_YEARS = {}
+for _e in MANIFEST['filosofi'] + MANIFEST['libri']:
+    _YEARS[_e['slug']] = _e.get('year', '')
 
 
 SEC_META = {  # chiave nel titolo md -> (icona, etichetta, livello)
@@ -409,6 +412,12 @@ details.solutions p,details.solutions ul,details.solutions ol{margin:.7rem 0;max
 .read-more{margin-top:auto;padding-top:.6rem;color:var(--accent);font-weight:600;font-size:.9rem}
 .card:hover .read-more{text-decoration:underline}
 .section-title{font-family:var(--serif);font-weight:700;font-size:1.8rem;margin:2.4rem 0 1.1rem;display:flex;align-items:center;gap:.6rem}
+.grid-head{display:flex;align-items:center;justify-content:space-between;gap:.6rem 1rem;flex-wrap:wrap;margin:2.4rem 0 1.1rem}
+.grid-head .section-title{margin:0}
+.sort-ctl{font-size:.88rem;color:var(--muted);display:flex;align-items:center;gap:.5rem}
+.sort-ctl select{font:inherit;color:var(--fg);background:var(--card);border:1px solid var(--border);
+  border-radius:.6rem;padding:.4rem .6rem;outline:none;cursor:pointer}
+.sort-ctl select:focus{border-color:var(--accent)}
 .count{font-family:var(--sans);font-size:.78rem;font-weight:700;background:var(--code);border:1px solid var(--border);
   color:var(--accent);border-radius:999px;padding:.15rem .7rem}
 .hero-cta{display:flex;flex-wrap:wrap;gap:.8rem;margin-top:1.4rem}
@@ -474,6 +483,7 @@ SHELL = '''<!DOCTYPE html>
 </header>
 <script src="{prefix}assets/js/search.js" defer></script>
 <script src="{prefix}assets/js/quiz.js" defer></script>
+<script src="{prefix}assets/js/sort.js" defer></script>
 <main class="container">
 {body}
 </main>
@@ -550,10 +560,17 @@ def detail_page(kind, slug, title, sub, date, img, img_cap, quote, chips, raw):
 def fmt_date(d):
     return f'{d[6:8]}/{d[4:6]}/{d[:4]}'
 
+SORT_SELECT = ('<label class="sort-ctl">Ordina <select data-sort>'
+               '<option value="featured">In evidenza</option>'
+               '<option value="recent">Più recenti</option>'
+               '<option value="chrono">Cronologico</option>'
+               '<option value="az">A–Z</option></select></label>')
+
 def index_cards(items, kind):
     out = []
     for slug, title, sub, date in items:
         import os as _os
+        yr = _YEARS.get(slug, '')
         if kind == 'filosofi':
             img = None
             for p in PHILOS:
@@ -564,7 +581,7 @@ def index_cards(items, kind):
             if not _os.path.exists(os.path.join(ROOT, img)):
                 img = None
         imgtag = f'<img src="{img}" alt="" loading="lazy">' if img else ''
-        out.append(f'<a class="card" href="{kind}/{slug}.html">{imgtag}<div class="card-body">'
+        out.append(f'<a class="card" href="{kind}/{slug}.html" data-date="{date}" data-year="{yr}" data-title="{H.escape(title)}">{imgtag}<div class="card-body">'
                    f'<span class="card-date">{fmt_date(date)}</span><h3>{H.escape(title)}</h3>'
                    f'<p>{H.escape(sub)}</p><span class="read-more">Leggi la scheda →</span></div></a>')
     return '\n'.join(out)
@@ -584,20 +601,22 @@ def main():
     fi = [(s, n, q, d) for s, n, m, d, i, q, c, l in PHILOS]
     li = [(s, t, a, d) for s, t, a, d, tp, c, l in BOOKS]
     fidx = SHELL.format(title='Filosofi', prefix='../',
-        body='<header class="page-hero"><h1>Filosofi</h1><p>Massime quotidiane: citazione, contesto e quiz.</p></header><div class="cards">'
+        body='<header class="page-hero"><h1>Filosofi</h1><p>Massime quotidiane: citazione, contesto e quiz.</p></header><div class="grid-head"><span class="card-date">Tutte le schede</span>'
+             + SORT_SELECT + '</div><div class="cards">'
              + index_cards(fi, 'filosofi') + '</div>')
     open(os.path.join(ROOT, 'filosofi/index.html'), 'w', encoding='utf-8').write(fidx)
     lidx = SHELL.format(title='Libri', prefix='../',
-        body='<header class="page-hero"><h1>Libri</h1><p>Riassunti pratici: concetti chiave e azioni.</p></header><div class="cards">'
+        body='<header class="page-hero"><h1>Libri</h1><p>Riassunti pratici: concetti chiave e azioni.</p></header><div class="grid-head"><span class="card-date">Tutte le schede</span>'
+             + SORT_SELECT + '</div><div class="cards">'
              + index_cards(li, 'libri') + '</div>')
     open(os.path.join(ROOT, 'libri/index.html'), 'w', encoding='utf-8').write(lidx)
     home = SHELL.format(title='Biblioteca giornaliera', prefix='',
         body=f'''<header class="page-hero"><h1>📚 Biblioteca giornaliera</h1>
 <p>Massime filosofiche con quiz e riassunti di libri pratici. Un'idea al giorno, ben evidenziata.</p>
 <div class="hero-cta"><a class="btn btn-primary" href="filosofi/">I filosofi</a><a class="btn" href="libri/">I libri</a></div></header>
-<h2 class="section-title">💬 Filosofi <span class="count">{len(fi)}</span></h2>
+<div class="grid-head"><h2 class="section-title">💬 Filosofi <span class="count">{len(fi)}</span></h2>''' + SORT_SELECT + '''</div>
 <div class="cards">''' + index_cards(fi, 'filosofi') + f'''</div>
-<h2 class="section-title">📚 Libri motivazionali <span class="count">{len(li)}</span></h2>
+<div class="grid-head"><h2 class="section-title">📚 Libri motivazionali <span class="count">{len(li)}</span></h2>''' + SORT_SELECT + '''</div>
 <div class="cards">''' + index_cards(li, 'libri') + '''</div>''')
     open(os.path.join(ROOT, 'index.html'), 'w', encoding='utf-8').write(home)
     print('OK pagine:',

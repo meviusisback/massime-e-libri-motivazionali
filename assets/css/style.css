@@ -124,6 +124,12 @@ details.solutions p,details.solutions ul,details.solutions ol{margin:.7rem 0;max
 .read-more{margin-top:auto;padding-top:.6rem;color:var(--accent);font-weight:600;font-size:.9rem}
 .card:hover .read-more{text-decoration:underline}
 .section-title{font-family:var(--serif);font-weight:700;font-size:1.8rem;margin:2.4rem 0 1.1rem;display:flex;align-items:center;gap:.6rem}
+.grid-head{display:flex;align-items:center;justify-content:space-between;gap:.6rem 1rem;flex-wrap:wrap;margin:2.4rem 0 1.1rem}
+.grid-head .section-title{margin:0}
+.sort-ctl{font-size:.88rem;color:var(--muted);display:flex;align-items:center;gap:.5rem}
+.sort-ctl select{font:inherit;color:var(--fg);background:var(--card);border:1px solid var(--border);
+  border-radius:.6rem;padding:.4rem .6rem;outline:none;cursor:pointer}
+.sort-ctl select:focus{border-color:var(--accent)}
 .count{font-family:var(--sans);font-size:.78rem;font-weight:700;background:var(--code);border:1px solid var(--border);
   color:var(--accent);border-radius:999px;padding:.15rem .7rem}
 .hero-cta{display:flex;flex-wrap:wrap;gap:.8rem;margin-top:1.4rem}
