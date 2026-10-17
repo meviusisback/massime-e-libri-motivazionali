@@ -116,10 +116,11 @@ def render_body(paras):
             i += 1
     return '\n'.join(out)
 
-def render_quiz_from_lines(lines):
+def render_quiz_from_lines(lines, quiz_id='q', quiz_title='Quiz'):
     """Quiz dai righe grezze: gestisce tutti i formati (opzioni su righe
     separate, sulla stessa riga, separatori — · o spazi doppi)."""
     out = []
+    has_q = False
     i, n = 0, len(lines)
     while i < n:
         ln = lines[i].strip()
@@ -130,6 +131,7 @@ def render_quiz_from_lines(lines):
             i += 1
             continue
         num, rest = qm.group(1), qm.group(2)
+        has_q = True
         opts = []
         # opzioni eventualmente sulla stessa riga della domanda
         om0 = re.search(r'(?:^|\s)([A-D])[).·]\s', rest)
@@ -164,10 +166,12 @@ def render_quiz_from_lines(lines):
         if opts:
             out.append('<ul class="opts">')
             for letter, text in opts:
-                out.append(f'<li><span class="opt">{letter}</span> {md_inline(text)}</li>')
+                out.append(f'<li><label><input type="radio" name="{quiz_id}-{num}" value="{letter}"><span class="opt">{letter}</span> {md_inline(text)}</label></li>')
             out.append('</ul>')
         out.append('</div>')
         i = j if j > i + 1 else i + 1
+    if has_q:
+        out.append('<div class="quiz-actions"><button type="button" class="btn btn-primary quiz-check">Verifica le risposte</button> <button type="button" class="btn quiz-copy">Copia per la chat</button></div><p class="quiz-score" aria-live="polite"></p><p class="quiz-copy-msg" aria-live="polite"></p>')
     return '\n'.join(out)
 
 KEY_ALIAS = {'COMMENTO': 'MASSIMA', 'COME SI LEGGE': 'MASSIMA',
@@ -247,7 +251,7 @@ def parse_sections(raw):
     flush()
     return [(k, t, b) for k, t, b in secs if b or k in ('QUIZ', 'SOLUZIONI')]
 
-def section_html(key, title, buf, is_book):
+def section_html(key, title, buf, is_book, quiz_id='q', quiz_title='Quiz'):
     icon, label, level = SEC_META.get(key, ('📄', title.title(), 'body'))
     if key == 'CITAZIONI':
         items = [re.sub(r'^[-•]\s', '', p).strip()
@@ -258,7 +262,7 @@ def section_html(key, title, buf, is_book):
         return (f'<section class="sec sec-key"><h2><span class="sec-ico">{icon}</span>'
                 f'{H.escape(label)}</h2>\n{body}\n</section>')
     if key == 'QUIZ':
-        return f'<section class="sec sec-quiz"><h2><span class="sec-ico">{icon}</span>{H.escape(label)}</h2>\n{render_quiz_from_lines(buf)}\n</section>'
+        return f'<section class="sec sec-quiz" data-quiz="{H.escape(quiz_title)}"><h2><span class="sec-ico">{icon}</span>{H.escape(label)}</h2>\n{render_quiz_from_lines(buf, quiz_id, quiz_title)}\n</section>'
     if key == 'SOLUZIONI':
         body = render_body(split_paragraphs(buf))
         return f'<details class="solutions"><summary><span class="sec-ico">{icon}</span>{H.escape(label)} <span class="hint">— tocca per vedere</span></summary>\n{body}\n</details>'
@@ -370,6 +374,18 @@ a:hover{text-decoration:underline}
 .opts{list-style:none;margin:0;padding:0;display:grid;gap:.5rem}
 .opts li{background:var(--code);border:1px solid var(--border);border-radius:.7rem;
   padding:.55rem .8rem;margin:0;overflow-wrap:break-word}
+.opts label{display:flex;align-items:flex-start;gap:.2rem;cursor:pointer}
+.opts input{margin-top:.3rem;min-width:1.1rem;min-height:1.1rem;accent-color:var(--accent);flex:none}
+.q-ok{border-left:4px solid var(--green);padding-left:.8rem}
+.q-ko{border-left:4px solid var(--red);padding-left:.8rem}
+.opts li.mark-correct{border-color:var(--green)}
+.opts li.mark-wrong{border-color:var(--red)}
+.q-explain{color:var(--muted);font-size:.92rem;margin:.5rem 0 0;overflow-wrap:break-word}
+.q-explain strong{color:var(--green)}
+.q-ko .q-explain strong{color:var(--red)}
+.quiz-actions{display:flex;flex-wrap:wrap;gap:.7rem;margin:1.2rem 0 .4rem}
+.quiz-score{font-weight:700;font-size:1.05rem;margin:.6rem 0 0}
+.quiz-copy-msg{color:var(--muted);font-size:.9rem;margin:.4rem 0 0;overflow-wrap:break-word}
 .opt{display:inline-flex;align-items:center;justify-content:center;min-width:1.6rem;height:1.6rem;
   border-radius:.45rem;border:1px solid var(--accent-2);color:var(--accent-2);
   font-weight:700;font-size:.82rem;margin-right:.55rem}
@@ -456,6 +472,7 @@ SHELL = '''<!DOCTYPE html>
   <nav><a href="{prefix}filosofi/">Filosofi</a><a href="{prefix}libri/">Libri</a></nav>
 </header>
 <script src="{prefix}assets/js/search.js" defer></script>
+<script src="{prefix}assets/js/quiz.js" defer></script>
 <main class="container">
 {body}
 </main>
@@ -499,7 +516,7 @@ def detail_page(kind, slug, title, sub, date, img, img_cap, quote, chips, raw):
                 continue
         if not buf and key not in ('QUIZ', 'SOLUZIONI'):
             continue
-        h = section_html(key, t or '', buf, kind == 'libri')
+        h = section_html(key, t or '', buf, kind == 'libri', f'{kind}-{slug}', title)
         if not h.strip():
             continue
         txt_all = re.sub(r'<[^>]+>', '', h).strip()
