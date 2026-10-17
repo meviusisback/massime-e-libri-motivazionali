@@ -40,7 +40,7 @@ Socrate nacque ad Atene intorno al 470 o 469 a.C., figlio dello scalpellino Sofr
 
 Socrate vive nell'Atene del V secolo a.C.: l'età di Pericle, del Partenone e della democrazia, ma anche della guerra del Peloponneso contro Sparta, della peste e della crisi politica che porterà alla tirannide dei Trenta e alla restaurazione democratica che poi lo condannerà.
 
-**Da chi è stato influenzato:** i filosofi della natura (da giovane studiò Anassagora, restandone deluso perché cercava cause meccaniche e non il bene); i sofisti — Protagora, Gorgia, Pro dico — che però combatte da avversario, rifiutandone il relativismo e il farsi pagare; la religiosità delfica, l'oracolo e il precetto «conosci te stesso», che trasforma in filosofia.
+**Da chi è stato influenzato:** i filosofi della natura (da giovane studiò Anassagora, restandone deluso perché cercava cause meccaniche e non il bene); i sofisti — Protagora, Gorgia, Prodico — che però combatte da avversario, rifiutandone il relativismo e il farsi pagare; la religiosità delfica, l'oracolo e il precetto «conosci te stesso», che trasforma in filosofia.
 
 **A chi ha trasmesso:** è il crocevia di tutta la filosofia occidentale. Il suo allievo Platone ne fa il protagonista dei dialoghi e fonda l'Accademia; Senofonte ne dà un ritratto più pratico; Antistene fonda da lui i cinici, Aristippo i cirenaici, Euclide la scuola di Megara. Da lì il filo arriva agli stoici, agli scettici, a Sant'Agostino, a Cusano con la *dotta ignoranza*, fino a Kierkegaard, che dedica all'ironia socratica la sua tesi di laurea, e ad Hannah Arendt, che nel «dialogo silenzioso con se stessi» vede la radice del pensiero morale.
 
