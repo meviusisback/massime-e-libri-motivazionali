@@ -89,7 +89,6 @@ Un "cigno nero" è un frammento innocuo di informazione, ignoto a entrambe le pa
 ---
 
 **💬 CITAZIONI DA RICORDARE**
-Le frasi che contengono tutto il libro:
 - «No deal is better than a bad deal.» — Chris Voss. Il coraggio di alzarsi dal tavolo è la leva più forte che hai.
 - «Non dividere mai la differenza: la trovi già nella testa dell'altra persona, se ascolti abbastanza a lungo da farla uscire.» Il compromesso a metà strada accontenta tutti e non risolve niente: la soluzione vera è già nella mente dell'altro.
 **🌍 ESEMPI DI OGGI**

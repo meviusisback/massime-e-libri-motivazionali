@@ -86,7 +86,6 @@ Dale Carnegie (1888–1955), lo stesso di *Come trattare gli altri e farseli ami
 *Collegamento*: Aaron Beck e la terapia cognitiva (tra evento ed emozione c'è sempre un pensiero); Carol Dweck, *Mindset*.
 
 **💬 CITAZIONI DA RICORDARE**
-Le frasi da mandare a memoria:
 - «Our fatigue is often caused not by work, but by worry, frustration and resentment.» — Dale Carnegie. Riposa la mente, non solo il corpo.
 - «Live in day-tight compartments.» — il concetto-chiave del libro (cap. 1). Passato e futuro restano fuori, oggi si vive un giorno alla volta.
 **🌍 ESEMPI DI OGGI**

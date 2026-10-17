@@ -78,7 +78,6 @@ James Clear non è un guru calato dall'alto: è un ex giocatore di baseball univ
 **Collegamento**: la *self-compassion* di Kristin Neff (chi si perdona ricomincia prima); la regola "never miss twice" è cugina della regola dei due minuti di David Allen (*Getting Things Done*): se serve meno di due minuti, fallo subito.
 
 **💬 CITAZIONI DA RICORDARE**
-Le frasi da mandare a memoria:
 - "You do not rise to the level of your goals. You fall to the level of your systems." — il cuore del libro: smetti di adorare gli obiettivi e costruisci processi quotidiani che funzionano anche nei giorni senza voglia. (cap. 1)
 - "Habits are the compound interest of self-improvement." — come i soldi, le abitudini si moltiplicano col tempo: ogni giorno da solo sembra niente, dopo anni la differenza è enorme. (cap. 1)
 - "Every action you take is a vote for the type of person you wish to become." — non serve un singolo gesto eroico: serve accumulare prove, voto dopo voto, della persona che vuoi essere. (cap. 2)

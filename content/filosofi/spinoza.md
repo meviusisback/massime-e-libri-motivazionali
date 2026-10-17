@@ -96,6 +96,9 @@ Il pensiero di Spinoza è un unico progetto di liberazione razionale: tutto è u
 - il **pragmatismo** (1890–1910: William James), che riprende la concezione degli affetti come variazioni di potere;
 - la **filosofia dell'immanenza del Novecento** (1960–1990: Deleuze, Negri), che fa del conatus e dell'espressione il cuore dell'ontologia.
 
+**💬 MASSIME CELEBRI**
+- «Homo liber de nulla re minus quam de morte cogitat, et ejus sapientia non mortis, sed vitae meditatio est.» — *Etica*, IV, 67. «L'uomo libero pensa alla morte meno che a ogni altra cosa: la sua saggezza è meditazione della vita, non della morte.»
+- «Deus sive Natura.» — *Etica*. «Dio ossia la Natura»: non un padrone fuori dal mondo, ma l'ordine infinito di cui siamo parte.
 **🌍 ESEMPI DI OGGI**
 Tre situazioni dove "comprendere invece di giudicare" cambia la giornata:
 - **Il collega che non risponde.** Prima reazione: "mi ignora di proposito". Comprenderlo invece significa chiedersi le cause: riunioni a raffica, un capo che preme, un figlio malato. Il fastidio resta, ma smette di essere un'offesa personale.

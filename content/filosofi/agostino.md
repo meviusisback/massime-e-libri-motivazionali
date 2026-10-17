@@ -72,6 +72,9 @@ Agostino unisce fede cristiana e ragione filosofica in un cammino tutto interior
 
 - La società è un misto di continuità e angoscia: retorica classica e uffici imperiali convivono con vescovi sempre più influenti, campagne insicure e città colte ma impaurite. Da questa frattura nasce la domanda della *Città di Dio*: che cosa resta in piedi quando un impero crolla?
 
+**💬 MASSIME CELEBRI**
+- «Dilige et quod vis fac.» — «Ama e fa' ciò che vuoi.» (*Commento alla Prima lettera di Giovanni*): chi ama davvero non può sbagliare.
+- «Ci hai fatti per te, e il nostro cuore è inquieto finché non riposa in te.» — *Confessioni*, I, 1: la frase che apre il capolavoro.
 **🌍 ESEMPI DI OGGI**
 Tre situazioni dove il tempo interiore di Agostino si riconosce:
 - **Le foto di dieci anni fa.** Guardarle commuove perché il passato vive solo nella memoria — e la memoria la abitiamo adesso, nel presente. La nostalgia non è un viaggio indietro: è il presente che si ricorda.

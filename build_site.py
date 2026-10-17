@@ -31,6 +31,7 @@ SEC_META = {  # chiave nel titolo md -> (icona, etichetta, livello)
  'SINTESI': ('📌', 'Sintesi del pensiero', 'key'),
  'TEMI FONDAMENTALI': ('🏛️', 'I temi fondamentali', 'key'),
  'OPERE PRINCIPALI': ('📚', 'Le opere principali', 'key'),
+ 'MASSIME': ('💬', 'Massime celebri', 'key'),
  'DOPO DI LUI': ('🌊', "L'eredità", 'body'),
  'EREDITÀ': ('🌊', "L'eredità", 'body'),
  'CONTESTO': ('⌛', 'Contesto storico', 'minor'),
@@ -253,7 +254,7 @@ def parse_sections(raw):
 
 def section_html(key, title, buf, is_book, quiz_id='q', quiz_title='Quiz'):
     icon, label, level = SEC_META.get(key, ('📄', title.title(), 'body'))
-    if key == 'CITAZIONI':
+    if key in ('CITAZIONI', 'MASSIME'):
         items = [re.sub(r'^[-•]\s', '', p).strip()
                  for p in split_paragraphs(buf) if p.strip()]
         body = ''.join('<blockquote class="maxim">' + md_inline(i) + '</blockquote>' for i in items)
@@ -481,8 +482,8 @@ SHELL = '''<!DOCTYPE html>
 </html>'''
 
 FILO_RANK = {'MASSIMA': 0, 'BIOGRAFIA': 1, 'SINTESI': 2, 'TEMI FONDAMENTALI': 3, 'OPERE PRINCIPALI': 4,
-             'CONTESTO': 5, 'DOPO DI LUI': 6, 'EREDITÀ': 6, 'ESEMPI DI OGGI': 7,
-             'ESEMPI': 7, 'QUIZ': 8, 'SOLUZIONI': 9, 'RIPASSO': 10}
+             'MASSIME': 5, 'CONTESTO': 6, 'DOPO DI LUI': 7, 'EREDITÀ': 7, 'ESEMPI DI OGGI': 8,
+             'ESEMPI': 8, 'QUIZ': 9, 'SOLUZIONI': 10, 'RIPASSO': 11}
 LIBRI_RANK = {'INTRODUZIONE': 0, 'RIASSUNTO': 1, 'CONCETTI': 2, 'ESPANSIONE': 3,
               'CITAZIONI': 4, 'ESEMPI DI OGGI': 5, 'ESEMPI': 5, 'APPLICAZIONE': 6, 'AZIONI': 6,
               'FRASE': 7, 'DA PORTARE A CASA': 7, 'APPROFONDIMENTO IN CHAT': 8}

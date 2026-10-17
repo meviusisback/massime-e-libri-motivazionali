@@ -72,6 +72,9 @@ Il pensiero di Socrate, che non scrisse nulla, sta tutto nel dialogo come esame 
 
 - **A chi ha trasmesso:** è il crocevia di tutta la filosofia occidentale. Il suo allievo Platone ne fa il protagonista dei dialoghi e fonda l'Accademia; Senofonte ne dà un ritratto più pratico; Antistene fonda da lui i cinici, Aristippo i cirenaici, Euclide la scuola di Megara. Da lì il filo arriva agli stoici, agli scettici, a Sant'Agostino, a Cusano con la *dotta ignoranza*, fino a Kierkegaard, che dedica all'ironia socratica la sua tesi di laurea, e ad Hannah Arendt, che nel «dialogo silenzioso con se stessi» vede la radice del pensiero morale.
 
+**💬 MASSIME CELEBRI**
+- «Una vita senza ricerca non è degna di essere vissuta.» — *Apologia di Socrate*, 38a: la sua difesa davanti ai giudici.
+- «Conosci te stesso.» — il motto delfico fatto proprio da Socrate: ogni esame comincia da qui.
 **🌍 ESEMPI DI OGGI**
 Tre situazioni dove «sapere di non sapere» fa la differenza:
 

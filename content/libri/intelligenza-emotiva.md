@@ -78,7 +78,6 @@ Nel 1990 due psicologi, Peter Salovey e John Mayer, coniarono l'espressione "int
 - *Collegamento:* Patrick Lencioni, *Le 5 disfunzioni di un team*: senza fiducia reciproca il consenso è finto e i conflitti restano sottoterra.
 
 **💬 CITAZIONI DA RICORDARE**
-Le frasi da mandare a memoria:
 - «In a very real sense we have two minds, one that thinks and one that feels.» — Daniel Goleman. Ignorare la seconda non ti rende razionale, ti rende cieco.
 - Il principio da ricordare: l'amigdala scatta prima della corteccia — tra stimolo e risposta c'è sempre uno spazio, e in quello spazio vive tutta l'intelligenza emotiva.
 **🌍 ESEMPI DI OGGI**

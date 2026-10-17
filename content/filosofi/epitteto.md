@@ -88,6 +88,9 @@ Epitteto nacque a Ierapoli, in Asia Minore, verso il 50 d.C., e visse da schiavo
 
 - ---
 
+**💬 MASSIME CELEBRI**
+- «Tra le cose che esistono, le une dipendono da noi, le altre non dipendono da noi.» — *Manuale*, cap. 1, l'incipit più famoso dello stoicismo.
+- «Dipendono da noi: giudizio di valore, impulso, desiderio, avversione.» — *Manuale*, cap. 1: l'elenco breve di tutto ciò che è davvero tuo.
 **🌍 ESEMPI DI OGGI**
 Tre situazioni per allenare la distinzione tra ciò che dipende da noi e ciò che non dipende:
 - **Il traffico dell'ora di punta.** La coda non dipende da te; strombazzare e innervosirti non la scioglie. Dipende da te partire dieci minuti prima, scegliere un podcast, respirare. Epitteto direbbe: soffri non per la coda, ma per il giudizio "dovrebbe scorrere".

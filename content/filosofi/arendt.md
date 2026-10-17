@@ -94,6 +94,9 @@ Il pensiero di Arendt ha un centro chiaro: la politica come spazio comune in cui
 
 - Il momento simbolico arrivò nel 1961, quando seguì a Gerusalemme il processo ad Adolf Eichmann, il funzionario nazista rapito in Argentina e giudicato in Israele. Da quel tribunale nacque la sua riflessione più famosa, ==sulla banalità del male==: come uomini ordinari, in società ordinate, possano compiere crimini enormi senza mai fermarsi a pensare.
 
+**💬 MASSIME CELEBRI**
+- «La banalità del male.» — dal reportage sul processo Eichmann (1963): il male estremo può nascere da uomini ordinari che smettono di pensare.
+- «Pensare è un dialogo silenzioso con se stessi, un due-in-uno.» — *La vita della mente*: la radice del giudizio morale è parlare con sé.
 **🌍 ESEMPI DI OGGI**
 Tre situazioni dove "pensare ciò che stiamo facendo" fa la differenza:
 - **Il "si è sempre fatto così" in ufficio.** Una procedura assurda sopravvive da anni perché nessuno si ferma a chiedersene il senso. Il primo che chiede "perché lo facciamo?" rompe l'automatismo — ed è esattamente il pensare di Arendt contro la banalità dell'esecuzione senza pensiero.

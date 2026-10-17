@@ -76,7 +76,6 @@
 - *Collegamento:* Brené Brown e la vulnerabilità come origine della connessione; in termini di Cialdini, la simpatia nasce dalla somiglianza autentica, non dalla performance.
 
 **💬 CITAZIONI DA RICORDARE**
-Le frasi da mandare a memoria:
 - «Ideas are the currency of the twenty-first century.» — Carmine Gallo. Le idee diventano capitale solo se sai raccontarle.
 - «Stay hungry, stay foolish.» — Steve Jobs, Stanford 2005 (il discorso citato nel libro come esempio perfetto). Passione e storia personale, in 15 minuti che il mondo ricorda ancora.
 **🌍 ESEMPI DI OGGI**

@@ -74,7 +74,6 @@
 - **Collegamento**: la pratica deliberata di Anders Ericsson (ripetizione mirata con feedback batte la quantità bruta) e *Atomic Habits* di James Clear: la ripetizione diventa identità.
 
 **💬 CITAZIONI DA RICORDARE**
-Le frasi che contengono la scoperta del libro:
 - «We've spent 10 years analyzing 35,000 sales transactions.» — Neil Rackham (cap. 1, p. 3). Questo libro non predica, misura.
 - «Research has an inconvenient way of coming up with evidence that the researchers sometimes wish they'd never found.» — Neil Rackham (cap. 1, p. 4). Cercava di confermare le tecniche classiche, e i dati le hanno smentite.
 **🌍 ESEMPI DI OGGI**

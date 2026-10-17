@@ -74,6 +74,9 @@ Nietzsche pensa la crisi dell'Occidente dopo la fine dei valori assoluti: venuta
 
 - In questo mondo che celebrava la forza e seppelliva la tradizione nacque l'annuncio nietzschiano della morte di Dio: non una provocazione da ateo, ma la diagnosi di una crisi dei valori europei che né l'Impero, né la scienza, né il nazionalismo riuscivano a colmare.
 
+**💬 MASSIME CELEBRI**
+- «Dio è morto.» — *La gaia scienza* (125), *Così parlò Zarathustra*. Non una cronaca ma una diagnosi: i valori supremi hanno perso fondamento, tocca crearne di nuovi.
+- «Diventa ciò che sei.» — motto di Pindaro fatto proprio da Nietzsche: smetti di copiare i modelli altrui e crea i tuoi valori.
 **🌍 ESEMPI DI OGGI**
 Tre situazioni dove "ciò che non uccide rende più forti" si vede all'opera — con un'avvertenza onesta: vale per le difficoltà che si possono affrontare, non per le tragedie:
 - **La bocciatura a un esame.** Il dolore brucia, ma chi lo usa per cambiare metodo (meno riassunti copiati, più esercizi, un gruppo di studio) arriva al secondo tentativo più solido. Non è il fallimento a formare: è quello che ci costruisci sopra.

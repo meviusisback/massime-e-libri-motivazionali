@@ -68,7 +68,6 @@ Cialdini è uno psicologo sociale che ha passato anni "in incognito" dentro vend
 - **Collegamento:** l'avversione alla perdita di Kahneman e Tversky, e *Pre-Suasion* dello stesso Cialdini — preparare il terreno *prima* della richiesta.
 
 **💬 CITAZIONI DA RICORDARE**
-Le frasi che contengono tutto il libro:
 - «click, whirr» — il termine del libro per le nostre risposte automatiche: come un registratore che parte da solo, decidiamo senza pensare. Riconoscere il "clic" è l'unica difesa.
 - Il principio della prova sociale, in sintesi: quando siamo incerti, decidiamo guardando cosa fanno le persone intorno a noi — soprattutto se ci somigliano.
 **🌍 ESEMPI DI OGGI**

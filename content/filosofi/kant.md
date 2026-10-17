@@ -74,6 +74,9 @@ Kant fonda il criticismo: la ragione non rispecchia il mondo in sé ma lo conosc
 
 - La società è quella dell'antico regime al tramonto: ceti, corporazioni e monarchie assolute, ma anche borghesia colta, stampa e idee cosmopolitiche. Quando Kant muore nel 1804, ==le guerre napoleoniche sono già all'orizzonte== e presto travolgeranno anche Königsberg. La sua proposta di pace perpetua tra repubbliche libere nasce da questo crocevia: ragione e diritto contro la guerra.
 
+**💬 MASSIME CELEBRI**
+- «Agisci solo secondo quella massima che puoi volere diventi legge universale.» — l'imperativo categorico (*Fondazione della metafisica dei costumi*, *Critica della ragion pratica*).
+- «Sapere aude! Abbi il coraggio di servirti della tua intelligenza.» — *Risposta alla domanda: che cos'è l'illuminismo* (1784), il motto di tutta un'epoca.
 **🌍 ESEMPI DI OGGI**
 Tre situazioni dove la legge morale "dentro di noi" si fa sentire:
 - **Il portafoglio trovato.** Nessuno ti ha visto raccoglierlo, dentro ci sono 200 euro. Tenerli sarebbe comodo e invisibile — eppure quasi tutti sentono una voce che dice di cercare il proprietario. Quella voce, per Kant, è la ragione che detta legge a se stessa.
