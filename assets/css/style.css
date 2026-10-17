@@ -34,6 +34,7 @@ a:hover{text-decoration:underline}
 .chips li{background:var(--card);border:1px solid var(--border);border-radius:999px;
   padding:.4rem .95rem;font-size:.9rem;color:var(--accent)}
 .layout{display:grid;grid-template-columns:1fr;gap:1.2rem}
+.layout.no-aside{grid-template-columns:minmax(0,1fr)}
 @media(min-width:960px){ .layout{grid-template-columns:minmax(0,1fr) 300px;align-items:start} }
 .sec{background:var(--card);border:1px solid var(--border);border-radius:1rem;
   padding:1.25rem 1.4rem;margin:0 0 1.2rem;overflow:hidden}

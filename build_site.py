@@ -31,7 +31,8 @@ SEC_META = {  # chiave nel titolo md -> (icona, etichetta, livello)
  'SINTESI': ('📌', 'Sintesi del pensiero', 'key'),
  'TEMI FONDAMENTALI': ('🏛️', 'I temi fondamentali', 'key'),
  'OPERE PRINCIPALI': ('📚', 'Le opere principali', 'key'),
- 'DOPO DI LUI': ('🌊', "Dopo di lui: l'eredità", 'body'),
+ 'DOPO DI LUI': ('🌊', "L'eredità", 'body'),
+ 'EREDITÀ': ('🌊', "L'eredità", 'body'),
  'CONTESTO': ('⌛', 'Contesto storico', 'minor'),
  'QUIZ': ('🧠', 'Quiz', 'quiz'),
  'SOLUZIONI': ('✅', 'Soluzioni', 'solutions'),
@@ -54,8 +55,16 @@ def md_inline(t):
     t = H.escape(t)
     for label, cls in [('Come applicarlo', 'do'), ('Come applicarla', 'do'),
                        ('Errore comune', 'err'), ('Definizione', 'def'),
-                       ('Collegamento', 'link'), ('Esempio', 'ex')]:
+                       ('Collegamento', 'link'), ('Esempio', 'ex'),
+                       ('Da chi è stato influenzato', 'def'),
+                       ('Influenze ricevute', 'def'),
+                       ('Movimenti che lo hanno formato', 'def'),
+                       ('A chi ha trasmesso', 'do'),
+                       ('Influenze trasmesse', 'do'),
+                       ('Movimenti che ha trasmesso', 'do')]:
         t = re.sub(r'\*\*' + label + r'\*\*:',
+                   f'<span class="lbl lbl-{cls}">' + label + '</span>', t)
+        t = re.sub(r'\*\*' + label + r':\*\*',
                    f'<span class="lbl lbl-{cls}">' + label + '</span>', t)
         t = re.sub(r'(?<!\*)\*' + label + r':\*',
                    f'<span class="lbl lbl-{cls}">' + label + '</span>', t)
@@ -300,6 +309,7 @@ a:hover{text-decoration:underline}
 .chips li{background:var(--card);border:1px solid var(--border);border-radius:999px;
   padding:.4rem .95rem;font-size:.9rem;color:var(--accent)}
 .layout{display:grid;grid-template-columns:1fr;gap:1.2rem}
+.layout.no-aside{grid-template-columns:minmax(0,1fr)}
 @media(min-width:960px){ .layout{grid-template-columns:minmax(0,1fr) 300px;align-items:start} }
 .sec{background:var(--card);border:1px solid var(--border);border-radius:1rem;
   padding:1.25rem 1.4rem;margin:0 0 1.2rem;overflow:hidden}
@@ -444,9 +454,9 @@ SHELL = '''<!DOCTYPE html>
 </body>
 </html>'''
 
-FILO_RANK = {'MASSIMA': 0, 'SINTESI': 1, 'TEMI FONDAMENTALI': 2, 'OPERE PRINCIPALI': 3,
-             'CONTESTO': 4, 'DOPO DI LUI': 5, 'ESEMPI DI OGGI': 6,
-             'ESEMPI': 6, 'QUIZ': 7, 'SOLUZIONI': 8, 'RIPASSO': 9}
+FILO_RANK = {'MASSIMA': 0, 'BIOGRAFIA': 1, 'SINTESI': 2, 'TEMI FONDAMENTALI': 3, 'OPERE PRINCIPALI': 4,
+             'CONTESTO': 5, 'DOPO DI LUI': 6, 'EREDITÀ': 6, 'ESEMPI DI OGGI': 7,
+             'ESEMPI': 7, 'QUIZ': 8, 'SOLUZIONI': 9, 'RIPASSO': 10}
 LIBRI_RANK = {'INTRODUZIONE': 0, 'RIASSUNTO': 1, 'CONCETTI': 2, 'ESPANSIONE': 3,
               'CITAZIONI': 4, 'ESEMPI DI OGGI': 5, 'ESEMPI': 5, 'APPLICAZIONE': 6, 'AZIONI': 6,
               'FRASE': 7, 'DA PORTARE A CASA': 7, 'APPROFONDIMENTO IN CHAT': 8}
@@ -489,13 +499,9 @@ def detail_page(kind, slug, title, sub, date, img, img_cap, quote, chips, raw):
                 continue
         if key == 'ESPANSIONE' and len(txt_all) < 150:
             continue
-        if key in ('BIOGRAFIA', 'BIO IN BREVE', 'VITA', 'CHI ERA') and kind == 'filosofi':
-            aside_extra.append((0, h))
-        else:
-            main.append((rank_of(kind, key, t), h))
+        main.append((rank_of(kind, key, t), h))
     main.sort(key=lambda x: x[0])
     main = [h for _, h in main]
-    aside_extra = [h for _, h in aside_extra]
     crumb = (f'<p class="crumb"><a href="../index.html">Home</a> / '
              f'<a href="./">{"Filosofi" if kind == "filosofi" else "Libri"}</a> / {H.escape(title)}</p>')
     body = f'''{crumb}
@@ -507,13 +513,10 @@ def detail_page(kind, slug, title, sub, date, img, img_cap, quote, chips, raw):
   <blockquote class="pullquote">«{H.escape(quote)}»</blockquote>
   <ul class="chips">{chip_html}</ul>
 </header>
-<div class="layout">
+<div class="layout no-aside">
   <div>
 {chr(10).join(main)}
   </div>
-  <aside>
-    {chr(10).join(aside_extra)}
-  </aside>
 </div>'''
     return SHELL.format(title=H.escape(title), prefix='../', body=body)
 

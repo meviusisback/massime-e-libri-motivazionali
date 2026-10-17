@@ -45,7 +45,7 @@ Socrate nacque ad Atene intorno al 470 o 469 a.C., figlio dello scalpellino Sofr
 
 **OPERE PRINCIPALI**
 
-Socrate non scrisse nemmeno una riga: lo conosciamo solo attraverso gli altri. Le tre fonti che contano:
+- Socrate non scrisse nemmeno una riga: lo conosciamo solo attraverso gli altri. Le tre fonti che contano:
 - **L'*Apologia di Socrate* di Platone.** Il discorso di difesa al processo del 399 a.C.: il ritratto più diretto del suo metodo e del suo coraggio. Da leggere per prima.
 - **Il *Critone* e il *Fedone* di Platone.** Il primo sul rispetto delle leggi (rifiuta la fuga), il secondo sulle ultime ore in carcere e l'immortalità dell'anima.
 - **I *Memorabili* di Senofonte.** Un Socrate più pratico e quotidiano, utile a confrontare con quello platonico. Da maneggiare con cura: ognuno dipinge il maestro a propria immagine.
@@ -58,19 +58,19 @@ Socrate non scrisse nemmeno una riga: lo conosciamo solo attraverso gli altri. L
 
 ## 🌍 Il contesto storico
 
-Socrate visse tutta la vita ad Atene, nel cuore del V secolo a.C., in una città di poche decine di migliaia di cittadini ma centro del mondo greco per ricchezza, arte e politica.
+- Socrate visse tutta la vita ad Atene, nel cuore del V secolo a.C., in una città di poche decine di migliaia di cittadini ma centro del mondo greco per ricchezza, arte e politica.
 
-Erano gli anni dell'età di Pericle. Atene, forte del tesoro della lega di Delo e del commercio marittimo, costruiva il Partenone sull'Acropoli, affollava il teatro per le tragedie di Sofocle ed Euripide e le commedie di Aristofane, discuteva ogni giorno nell'agorà e nell'assemblea. La democrazia ateniese permetteva a migliaia di cittadini maschi adulti di votare, ricoprire cariche per sorteggio e giudicare nei tribunali popolari: una libertà intensa e rumorosa, ma riservata a pochi, perché escludeva donne, schiavi e meteci.
+- Erano gli anni dell'età di Pericle. Atene, forte del tesoro della lega di Delo e del commercio marittimo, costruiva il Partenone sull'Acropoli, affollava il teatro per le tragedie di Sofocle ed Euripide e le commedie di Aristofane, discuteva ogni giorno nell'agorà e nell'assemblea. La democrazia ateniese permetteva a migliaia di cittadini maschi adulti di votare, ricoprire cariche per sorteggio e giudicare nei tribunali popolari: una libertà intensa e rumorosa, ma riservata a pochi, perché escludeva donne, schiavi e meteci.
 
-Questa stagione fu spezzata dalla guerra del Peloponneso, il lunghissimo conflitto contro Sparta e i suoi alleati iniziato nel 431 a.C. Nel 430 a.C. una terribile peste colpì Atene affollata di sfollati, decimando la popolazione e uccidendo nel 429 a.C. lo stesso Pericle. Socrate partecipò come oplita alle campagne di Potidea, Delio e Anfipoli, condividendo fame, freddo e pericoli con i compagni.
+- Questa stagione fu spezzata dalla guerra del Peloponneso, il lunghissimo conflitto contro Sparta e i suoi alleati iniziato nel 431 a.C. Nel 430 a.C. una terribile peste colpì Atene affollata di sfollati, decimando la popolazione e uccidendo nel 429 a.C. lo stesso Pericle. Socrate partecipò come oplita alle campagne di Potidea, Delio e Anfipoli, condividendo fame, freddo e pericoli con i compagni.
 
-La società era percorsa da un fermento nuovo. I sofisti, maestri itineranti come Protagora, Gorgia e Prodico, insegnavano a pagamento retorica e arte di convincere, mentre i giovani mettevano in discussione tradizione, religione e leggi. Dopo la sconfitta finale del 404 a.C., Atene conobbe il regime brutale dei Trenta Tiranni e poi una restaurazione democratica nervosa e sospettosa, ossessionata dai traditori.
+- La società era percorsa da un fermento nuovo. I sofisti, maestri itineranti come Protagora, Gorgia e Prodico, insegnavano a pagamento retorica e arte di convincere, mentre i giovani mettevano in discussione tradizione, religione e leggi. Dopo la sconfitta finale del 404 a.C., Atene conobbe il regime brutale dei Trenta Tiranni e poi una restaurazione democratica nervosa e sospettosa, ossessionata dai traditori.
 
-È in questa Atene stanca della guerra, impoverita, divisa e timorosa, che nel 399 a.C. Socrate fu processato e condannato a morte: la città che aveva inventato la libertà di parola non sopportò più il suo tafano.
+- È in questa Atene stanca della guerra, impoverita, divisa e timorosa, che nel 399 a.C. Socrate fu processato e condannato a morte: la città che aveva inventato la libertà di parola non sopportò più il suo tafano.
 
-**Da chi è stato influenzato:** i filosofi della natura (da giovane studiò Anassagora, restandone deluso perché cercava cause meccaniche e non il bene); i sofisti — Protagora, Gorgia, Prodico — che però combatte da avversario, rifiutandone il relativismo e il farsi pagare; la religiosità delfica, l'oracolo e il precetto «conosci te stesso», che trasforma in filosofia.
+- **Da chi è stato influenzato:** i filosofi della natura (da giovane studiò Anassagora, restandone deluso perché cercava cause meccaniche e non il bene); i sofisti — Protagora, Gorgia, Prodico — che però combatte da avversario, rifiutandone il relativismo e il farsi pagare; la religiosità delfica, l'oracolo e il precetto «conosci te stesso», che trasforma in filosofia.
 
-**A chi ha trasmesso:** è il crocevia di tutta la filosofia occidentale. Il suo allievo Platone ne fa il protagonista dei dialoghi e fonda l'Accademia; Senofonte ne dà un ritratto più pratico; Antistene fonda da lui i cinici, Aristippo i cirenaici, Euclide la scuola di Megara. Da lì il filo arriva agli stoici, agli scettici, a Sant'Agostino, a Cusano con la *dotta ignoranza*, fino a Kierkegaard, che dedica all'ironia socratica la sua tesi di laurea, e ad Hannah Arendt, che nel «dialogo silenzioso con se stessi» vede la radice del pensiero morale.
+- **A chi ha trasmesso:** è il crocevia di tutta la filosofia occidentale. Il suo allievo Platone ne fa il protagonista dei dialoghi e fonda l'Accademia; Senofonte ne dà un ritratto più pratico; Antistene fonda da lui i cinici, Aristippo i cirenaici, Euclide la scuola di Megara. Da lì il filo arriva agli stoici, agli scettici, a Sant'Agostino, a Cusano con la *dotta ignoranza*, fino a Kierkegaard, che dedica all'ironia socratica la sua tesi di laurea, e ad Hannah Arendt, che nel «dialogo silenzioso con se stessi» vede la radice del pensiero morale.
 
 **🌍 ESEMPI DI OGGI**
 Tre situazioni dove «sapere di non sapere» fa la differenza:
