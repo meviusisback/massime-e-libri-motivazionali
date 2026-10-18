@@ -131,6 +131,21 @@
  ],
  "libri": [
   {
+   "author": "Viktor E. Frankl",
+   "center": "Senso",
+   "chips": [
+    "Volontà di senso",
+    "Ultima libertà",
+    "Tre vie",
+    "Ottimismo tragico"
+   ],
+   "date": "20261018",
+   "slug": "uomo-in-cerca-di-senso",
+   "title": "L'uomo in cerca di senso",
+   "topic": "Successo e senso",
+   "year": 1946
+  },
+  {
    "author": "James Clear",
    "center": "Abitudini",
    "chips": [
