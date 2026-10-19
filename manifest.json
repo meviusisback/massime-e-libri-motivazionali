@@ -127,6 +127,22 @@
    "sub": "Lucio Anneo Seneca · 4 a.C. ca.–65 d.C.",
    "title": "Seneca",
    "year": -4
+  },
+  {
+   "center": "Comunità",
+   "chips": [
+    "Animale politico",
+    "Giusto mezzo",
+    "Quattro cause",
+    "Atto e potenza"
+   ],
+   "date": "20261019",
+   "img": "aristotele.jpg",
+   "quote": "L'uomo è per natura un animale politico",
+   "slug": "aristotele",
+   "sub": "Aristotele · 384–322 a.C.",
+   "title": "Aristotele",
+   "year": -384
   }
  ],
  "libri": [
