@@ -1,270 +1,285 @@
 {
- "filosofi": [
-  {
-   "center": "Ignoranza",
-   "chips": [
-    "Maieutica",
-    "Dialogo",
-    "Ironia",
-    "Dotta ignoranza"
-   ],
-   "date": "20261017",
-   "img": "2026-10-17-ritratto.jpg",
-   "quote": "So di non sapere",
-   "slug": "socrate",
-   "sub": "Socrate · 470/469–399 a.C.",
-   "title": "Socrate",
-   "year": -470
-  },
-  {
-   "center": "Controllo",
-   "chips": [
-    "Giudizio",
-    "Accettazione",
-    "Tranquillità",
-    "Libertà interiore"
-   ],
-   "date": "20261014",
-   "img": "2026-10-14-ritratto.png",
-   "quote": "Non sono i fatti a turbarci, ma i giudizi sui fatti",
-   "slug": "epitteto",
-   "sub": "Epitteto · 50–135 d.C.",
-   "title": "Epitteto",
-   "year": 50
-  },
-  {
-   "center": "Anima",
-   "chips": [
-    "Tempo",
-    "Memoria",
-    "Amore",
-    "Libertà"
-   ],
-   "date": "20261015",
-   "img": "2026-10-15-ritratto.jpg",
-   "quote": "Tardi ti amai, bellezza tanto antica e tanto nuova",
-   "slug": "agostino",
-   "sub": "Agostino d’Ippona · 354–430",
-   "title": "Sant’Agostino",
-   "year": 354
-  },
-  {
-   "center": "Dio = Natura",
-   "chips": [
-    "Determinismo",
-    "Conatus",
-    "Affetti",
-    "Conoscenza"
-   ],
-   "date": "20261011",
-   "img": "2026-10-11-ritratto.jpg",
-   "quote": "Non ridere, non lamentarsi, non detestare, ma comprendere",
-   "slug": "spinoza",
-   "sub": "Baruch (Benedictus) de Spinoza · 1632–1677",
-   "title": "Spinoza",
-   "year": 1632
-  },
-  {
-   "center": "Dovere",
-   "chips": [
-    "Autonomia",
-    "Imperativo",
-    "Critica",
-    "Cielo stellato"
-   ],
-   "date": "20261013",
-   "img": "2026-10-13-ritratto.jpg",
-   "quote": "Il cielo stellato sopra di me e la legge morale in me",
-   "slug": "kant",
-   "sub": "Immanuel Kant · 1724–1804",
-   "title": "Kant",
-   "year": 1724
-  },
-  {
-   "center": "Volontà",
-   "chips": [
-    "Volontà di potenza",
-    "Superuomo",
-    "Eterno ritorno",
-    "Critica morale"
-   ],
-   "date": "20261012",
-   "img": "2026-10-12-ritratto.jpg",
-   "quote": "Ciò che non mi uccide mi rende più forte",
-   "slug": "nietzsche",
-   "sub": "Friedrich Nietzsche · 1844–1900",
-   "title": "Nietzsche",
-   "year": 1844
-  },
-  {
-   "center": "Pensare",
-   "chips": [
-    "Lavoro",
-    "Opera",
-    "Azione",
-    "Natalità"
-   ],
-   "date": "20261016",
-   "img": "2026-10-16-ritratto.jpg",
-   "quote": "Pensare ciò che stiamo facendo",
-   "slug": "arendt",
-   "sub": "Hannah Arendt · 1906–1975",
-   "title": "Hannah Arendt",
-   "year": 1906
-  },
-  {
-   "center": "Tempo",
-   "chips": [
-    "Tempo",
-    "Stoicismo",
-    "Morte",
-    "Clemenza"
-   ],
-   "date": "20261018",
-   "img": "2026-10-18-ritratto.jpg",
-   "quote": "Non abbiamo poco tempo, ma ne perdiamo molto",
-   "slug": "seneca",
-   "sub": "Lucio Anneo Seneca · 4 a.C. ca.–65 d.C.",
-   "title": "Seneca",
-   "year": -4
-  },
-  {
-   "center": "Comunità",
-   "chips": [
-    "Animale politico",
-    "Giusto mezzo",
-    "Quattro cause",
-    "Atto e potenza"
-   ],
-   "date": "20261019",
-   "img": "aristotele.jpg",
-   "quote": "L'uomo è per natura un animale politico",
-   "slug": "aristotele",
-   "sub": "Aristotele · 384–322 a.C.",
-   "title": "Aristotele",
-   "year": -384
-  }
- ],
- "libri": [
-  {
-   "author": "Viktor E. Frankl",
-   "center": "Senso",
-   "chips": [
-    "Volontà di senso",
-    "Ultima libertà",
-    "Tre vie",
-    "Ottimismo tragico"
-   ],
-   "date": "20261018",
-   "slug": "uomo-in-cerca-di-senso",
-   "title": "L'uomo in cerca di senso",
-   "topic": "Successo e senso",
-   "year": 1946
-  },
-  {
-   "author": "James Clear",
-   "center": "Abitudini",
-   "chips": [
-    "1% meglio",
-    "Sistemi",
-    "Identità",
-    "Ambiente"
-   ],
-   "date": "20261017",
-   "slug": "atomic-habits",
-   "title": "Atomic Habits",
-   "topic": "Crescita personale",
-   "year": 2018
-  },
-  {
-   "author": "Chris Voss con Tahl Raz",
-   "center": "Negoziazione",
-   "chips": [
-    "Mirroring",
-    "Dire no",
-    "Domande calibrate",
-    "Cigni neri"
-   ],
-   "date": "20261011",
-   "slug": "never-split-the-difference",
-   "title": "Never Split the Difference",
-   "topic": "Negoziazione",
-   "year": 2016
-  },
-  {
-   "author": "Carmine Gallo",
-   "center": "Talk",
-   "chips": [
-    "Passione",
-    "Novità",
-    "Storie",
-    "Delivery"
-   ],
-   "date": "20261012",
-   "slug": "talk-like-ted",
-   "title": "Talk Like TED",
-   "topic": "Public speaking",
-   "year": 2014
-  },
-  {
-   "author": "Neil Rackham",
-   "center": "SPIN",
-   "chips": [
-    "Situazione",
-    "Problema",
-    "Implicazione",
-    "Esigenza"
-   ],
-   "date": "20261013",
-   "slug": "spin-selling",
-   "title": "SPIN Selling",
-   "topic": "Vendite B2B",
-   "year": 1988
-  },
-  {
-   "author": "Robert B. Cialdini",
-   "center": "Persuasione",
-   "chips": [
-    "Reciprocità",
-    "Prova sociale",
-    "Autorità",
-    "Scarsità"
-   ],
-   "date": "20261014",
-   "slug": "armi-persuasione",
-   "title": "Le armi della persuasione",
-   "topic": "Persuasione",
-   "year": 1984
-  },
-  {
-   "author": "Daniel Goleman",
-   "center": "Emozioni",
-   "chips": [
-    "Autoconsapevolezza",
-    "Autoregolazione",
-    "Empatia",
-    "Abilità sociali"
-   ],
-   "date": "20261015",
-   "slug": "intelligenza-emotiva",
-   "title": "Intelligenza emotiva",
-   "topic": "Emozioni e carriera",
-   "year": 1995
-  },
-  {
-   "author": "Dale Carnegie",
-   "center": "Stress",
-   "chips": [
-    "Fatti",
-    "Analisi",
-    "Azione",
-    "Giornata tight"
-   ],
-   "date": "20261016",
-   "slug": "vincere-stress",
-   "title": "Come vincere lo stress e cominciare a vivere",
-   "topic": "Gestione dello stress",
-   "year": 1948
-  }
- ]
+  "filosofi": [
+    {
+      "center": "Ignoranza",
+      "chips": [
+        "Maieutica",
+        "Dialogo",
+        "Ironia",
+        "Dotta ignoranza"
+      ],
+      "date": "20261017",
+      "img": "2026-10-17-ritratto.jpg",
+      "quote": "So di non sapere",
+      "slug": "socrate",
+      "sub": "Socrate · 470/469–399 a.C.",
+      "title": "Socrate",
+      "year": -470
+    },
+    {
+      "center": "Controllo",
+      "chips": [
+        "Giudizio",
+        "Accettazione",
+        "Tranquillità",
+        "Libertà interiore"
+      ],
+      "date": "20261014",
+      "img": "2026-10-14-ritratto.png",
+      "quote": "Non sono i fatti a turbarci, ma i giudizi sui fatti",
+      "slug": "epitteto",
+      "sub": "Epitteto · 50–135 d.C.",
+      "title": "Epitteto",
+      "year": 50
+    },
+    {
+      "center": "Anima",
+      "chips": [
+        "Tempo",
+        "Memoria",
+        "Amore",
+        "Libertà"
+      ],
+      "date": "20261015",
+      "img": "2026-10-15-ritratto.jpg",
+      "quote": "Tardi ti amai, bellezza tanto antica e tanto nuova",
+      "slug": "agostino",
+      "sub": "Agostino d’Ippona · 354–430",
+      "title": "Sant’Agostino",
+      "year": 354
+    },
+    {
+      "center": "Dio = Natura",
+      "chips": [
+        "Determinismo",
+        "Conatus",
+        "Affetti",
+        "Conoscenza"
+      ],
+      "date": "20261011",
+      "img": "2026-10-11-ritratto.jpg",
+      "quote": "Non ridere, non lamentarsi, non detestare, ma comprendere",
+      "slug": "spinoza",
+      "sub": "Baruch (Benedictus) de Spinoza · 1632–1677",
+      "title": "Spinoza",
+      "year": 1632
+    },
+    {
+      "center": "Dovere",
+      "chips": [
+        "Autonomia",
+        "Imperativo",
+        "Critica",
+        "Cielo stellato"
+      ],
+      "date": "20261013",
+      "img": "2026-10-13-ritratto.jpg",
+      "quote": "Il cielo stellato sopra di me e la legge morale in me",
+      "slug": "kant",
+      "sub": "Immanuel Kant · 1724–1804",
+      "title": "Kant",
+      "year": 1724
+    },
+    {
+      "center": "Volontà",
+      "chips": [
+        "Volontà di potenza",
+        "Superuomo",
+        "Eterno ritorno",
+        "Critica morale"
+      ],
+      "date": "20261012",
+      "img": "2026-10-12-ritratto.jpg",
+      "quote": "Ciò che non mi uccide mi rende più forte",
+      "slug": "nietzsche",
+      "sub": "Friedrich Nietzsche · 1844–1900",
+      "title": "Nietzsche",
+      "year": 1844
+    },
+    {
+      "center": "Pensare",
+      "chips": [
+        "Lavoro",
+        "Opera",
+        "Azione",
+        "Natalità"
+      ],
+      "date": "20261016",
+      "img": "2026-10-16-ritratto.jpg",
+      "quote": "Pensare ciò che stiamo facendo",
+      "slug": "arendt",
+      "sub": "Hannah Arendt · 1906–1975",
+      "title": "Hannah Arendt",
+      "year": 1906
+    },
+    {
+      "center": "Tempo",
+      "chips": [
+        "Tempo",
+        "Stoicismo",
+        "Morte",
+        "Clemenza"
+      ],
+      "date": "20261018",
+      "img": "2026-10-18-ritratto.jpg",
+      "quote": "Non abbiamo poco tempo, ma ne perdiamo molto",
+      "slug": "seneca",
+      "sub": "Lucio Anneo Seneca · 4 a.C. ca.–65 d.C.",
+      "title": "Seneca",
+      "year": -4
+    },
+    {
+      "center": "Comunità",
+      "chips": [
+        "Animale politico",
+        "Giusto mezzo",
+        "Quattro cause",
+        "Atto e potenza"
+      ],
+      "date": "20261019",
+      "img": "aristotele.jpg",
+      "quote": "L'uomo è per natura un animale politico",
+      "slug": "aristotele",
+      "sub": "Aristotele · 384–322 a.C.",
+      "title": "Aristotele",
+      "year": -384
+    }
+  ],
+  "libri": [
+    {
+      "author": "Cal Newport",
+      "center": "Focus",
+      "chips": [
+        "Profondo vs superficiale",
+        "Due abilita",
+        "Abbraccia la noia",
+        "Prosciuga le acque basse"
+      ],
+      "date": "20261019",
+      "slug": "deep-work",
+      "title": "Deep Work",
+      "topic": "Carriera e focus",
+      "year": 2016
+    },
+    {
+      "author": "Viktor E. Frankl",
+      "center": "Senso",
+      "chips": [
+        "Volontà di senso",
+        "Ultima libertà",
+        "Tre vie",
+        "Ottimismo tragico"
+      ],
+      "date": "20261018",
+      "slug": "uomo-in-cerca-di-senso",
+      "title": "L'uomo in cerca di senso",
+      "topic": "Successo e senso",
+      "year": 1946
+    },
+    {
+      "author": "James Clear",
+      "center": "Abitudini",
+      "chips": [
+        "1% meglio",
+        "Sistemi",
+        "Identità",
+        "Ambiente"
+      ],
+      "date": "20261017",
+      "slug": "atomic-habits",
+      "title": "Atomic Habits",
+      "topic": "Crescita personale",
+      "year": 2018
+    },
+    {
+      "author": "Chris Voss con Tahl Raz",
+      "center": "Negoziazione",
+      "chips": [
+        "Mirroring",
+        "Dire no",
+        "Domande calibrate",
+        "Cigni neri"
+      ],
+      "date": "20261011",
+      "slug": "never-split-the-difference",
+      "title": "Never Split the Difference",
+      "topic": "Negoziazione",
+      "year": 2016
+    },
+    {
+      "author": "Carmine Gallo",
+      "center": "Talk",
+      "chips": [
+        "Passione",
+        "Novità",
+        "Storie",
+        "Delivery"
+      ],
+      "date": "20261012",
+      "slug": "talk-like-ted",
+      "title": "Talk Like TED",
+      "topic": "Public speaking",
+      "year": 2014
+    },
+    {
+      "author": "Neil Rackham",
+      "center": "SPIN",
+      "chips": [
+        "Situazione",
+        "Problema",
+        "Implicazione",
+        "Esigenza"
+      ],
+      "date": "20261013",
+      "slug": "spin-selling",
+      "title": "SPIN Selling",
+      "topic": "Vendite B2B",
+      "year": 1988
+    },
+    {
+      "author": "Robert B. Cialdini",
+      "center": "Persuasione",
+      "chips": [
+        "Reciprocità",
+        "Prova sociale",
+        "Autorità",
+        "Scarsità"
+      ],
+      "date": "20261014",
+      "slug": "armi-persuasione",
+      "title": "Le armi della persuasione",
+      "topic": "Persuasione",
+      "year": 1984
+    },
+    {
+      "author": "Daniel Goleman",
+      "center": "Emozioni",
+      "chips": [
+        "Autoconsapevolezza",
+        "Autoregolazione",
+        "Empatia",
+        "Abilità sociali"
+      ],
+      "date": "20261015",
+      "slug": "intelligenza-emotiva",
+      "title": "Intelligenza emotiva",
+      "topic": "Emozioni e carriera",
+      "year": 1995
+    },
+    {
+      "author": "Dale Carnegie",
+      "center": "Stress",
+      "chips": [
+        "Fatti",
+        "Analisi",
+        "Azione",
+        "Giornata tight"
+      ],
+      "date": "20261016",
+      "slug": "vincere-stress",
+      "title": "Come vincere lo stress e cominciare a vivere",
+      "topic": "Gestione dello stress",
+      "year": 1948
+    }
+  ]
 }
