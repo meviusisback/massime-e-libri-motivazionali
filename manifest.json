@@ -163,6 +163,21 @@
   ],
   "libri": [
     {
+      "author": "Stephen R. Covey",
+      "center": "Principi",
+      "chips": [
+        "Proattività",
+        "Fine in mente",
+        "Win-win",
+        "Affila la lama"
+      ],
+      "date": "20261020",
+      "slug": "7-regole-per-avere-successo",
+      "title": "Le 7 regole per avere successo",
+      "topic": "Crescita personale",
+      "year": 1989
+    },
+    {
       "author": "Cal Newport",
       "center": "Focus",
       "chips": [
