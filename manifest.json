@@ -143,6 +143,22 @@
       "sub": "Aristotele · 384–322 a.C.",
       "title": "Aristotele",
       "year": -384
+    },
+    {
+      "center": "Idee",
+      "chips": [
+        "Mondo delle Idee",
+        "Caverna",
+        "Anima",
+        "Giustizia"
+      ],
+      "date": "20261020",
+      "img": "platone.jpg",
+      "quote": "La meraviglia: ecco l'unico vero inizio della filosofia",
+      "slug": "platone",
+      "sub": "Platone · 428/427–348/347 a.C.",
+      "title": "Platone",
+      "year": -428
     }
   ],
   "libri": [
