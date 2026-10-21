@@ -163,6 +163,21 @@
   ],
   "libri": [
     {
+      "author": "Carol S. Dweck",
+      "center": "Mentalità",
+      "chips": [
+        "Fissa vs crescita",
+        "Loda il processo",
+        "Non ancora",
+        "Falso mindset"
+      ],
+      "date": "20261021",
+      "slug": "mindset",
+      "title": "Mindset",
+      "topic": "Crescita personale",
+      "year": 2006
+    },
+    {
       "author": "Stephen R. Covey",
       "center": "Principi",
       "chips": [
