@@ -179,6 +179,21 @@
   ],
   "libri": [
     {
+      "author": "Roger Fisher e William Ury",
+      "center": "Accordo",
+      "chips": [
+        "Persone vs problema",
+        "Interessi non posizioni",
+        "Opzioni reciproche",
+        "BATNA"
+      ],
+      "date": "20261022",
+      "slug": "getting-to-yes",
+      "title": "Getting to Yes",
+      "topic": "Negoziazione",
+      "year": 1981
+    },
+    {
       "author": "Carol S. Dweck",
       "center": "Mentalità",
       "chips": [
