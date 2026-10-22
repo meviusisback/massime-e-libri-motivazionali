@@ -601,22 +601,25 @@ SORT_SELECT = ('<label class="sort-ctl">Ordina <select data-sort>'
                '<option value="chrono">Cronologico</option>'
                '<option value="az">A–Z</option></select></label>')
 
-def index_cards(items, kind):
+def index_cards(items, kind, asset_prefix='', link_prefix=None):
     out = []
     for slug, title, sub, date in items:
         import os as _os
         yr = _YEARS.get(slug, '')
+        link = link_prefix if link_prefix is not None else kind + '/'
         if kind == 'filosofi':
             img = None
             for p in PHILOS:
                 if p[0] == slug:
-                    img = 'assets/img/filosofi/' + p[4]
+                    img = asset_prefix + 'assets/img/filosofi/' + p[4]
         else:
             img = f'assets/img/libri/{slug}.jpg'
             if not _os.path.exists(os.path.join(ROOT, img)):
                 img = None
+            else:
+                img = asset_prefix + img
         imgtag = f'<img src="{img}" alt="" loading="lazy">' if img else ''
-        out.append(f'<a class="card" href="{kind}/{slug}.html" data-date="{date}" data-year="{yr}" data-title="{H.escape(title)}">{imgtag}<div class="card-body">'
+        out.append(f'<a class="card" href="{link}{slug}.html" data-date="{date}" data-year="{yr}" data-title="{H.escape(title)}">{imgtag}<div class="card-body">'
                    f'<span class="card-date">{fmt_date(date)}</span><h3>{H.escape(title)}</h3>'
                    f'<p>{H.escape(sub)}</p><span class="read-more">Leggi la scheda →</span></div></a>')
     return '\n'.join(out)
@@ -638,12 +641,12 @@ def main():
     fidx = SHELL.format(title='Filosofi', prefix='../',
         body='<header class="page-hero"><h1>Filosofi</h1><p>Massime quotidiane: citazione, contesto e quiz.</p></header><div class="grid-head"><span class="card-date">Tutte le schede</span>'
              + SORT_SELECT + '</div><div class="cards">'
-             + index_cards(fi, 'filosofi') + '</div>')
+             + index_cards(fi, 'filosofi', '../', '') + '</div>')
     open(os.path.join(ROOT, 'filosofi/index.html'), 'w', encoding='utf-8').write(fidx)
     lidx = SHELL.format(title='Libri', prefix='../',
         body='<header class="page-hero"><h1>Libri</h1><p>Riassunti pratici: concetti chiave e azioni.</p></header><div class="grid-head"><span class="card-date">Tutte le schede</span>'
              + SORT_SELECT + '</div><div class="cards">'
-             + index_cards(li, 'libri') + '</div>')
+             + index_cards(li, 'libri', '../', '') + '</div>')
     open(os.path.join(ROOT, 'libri/index.html'), 'w', encoding='utf-8').write(lidx)
     home = SHELL.format(title='Biblioteca giornaliera', prefix='',
         body=f'''<header class="page-hero"><h1>📚 Biblioteca giornaliera</h1>
