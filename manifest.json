@@ -159,6 +159,22 @@
       "sub": "Platone · 428/427–348/347 a.C.",
       "title": "Platone",
       "year": -428
+    },
+    {
+      "center": "Certezza",
+      "chips": [
+        "Cogito",
+        "Dubbio metodico",
+        "Dualismo",
+        "Metodo"
+      ],
+      "date": "20261022",
+      "img": "cartesio.jpg",
+      "quote": "Penso, dunque sono",
+      "slug": "cartesio",
+      "sub": "René Descartes (Cartesio) · 1596–1650",
+      "title": "Cartesio",
+      "year": 1596
     }
   ],
   "libri": [
