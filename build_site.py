@@ -78,12 +78,23 @@ def md_inline(t):
     t = re.sub(r'`(.+?)`', r'<code>\1</code>', t)
     return t
 
+
+_CHIP_LABELS = ('Come applicarlo', 'Come applicarla', 'Errore comune', 'Definizione',
+                'Collegamento', 'Esempio', 'Da chi è stato influenzato', 'Influenze ricevute',
+                'Movimenti che lo hanno formato', 'A chi ha trasmesso', 'Influenze trasmesse',
+                'Movimenti che ha trasmesso')
+_CHIP_RE = re.compile(r'^\*{1,2}(?:' + '|'.join(_CHIP_LABELS) + r')\*{1,2}:'
+                      r'|^\*\*(?:' + '|'.join(_CHIP_LABELS) + r'):\*\*')
+
 def split_paragraphs(lines):
     paras, buf = [], []
     for ln in lines:
         s = ln.strip()
         if s == '':
             if buf: paras.append(' '.join(buf)); buf = []
+        elif _CHIP_RE.match(s):
+            if buf: paras.append(' '.join(buf)); buf = []
+            paras.append(s)
         elif re.match(r'^[-•]\s|^\d+[.\)]\s|^>\s?', s):
             if buf: paras.append(' '.join(buf)); buf = []
             paras.append(s)
@@ -115,6 +126,15 @@ def render_body(paras):
                 quotes.append(md_inline(re.sub(r'^>\s?', '', paras[i])))
                 i += 1
             out.append('<blockquote class="maxim">' + '<br />\n'.join(quotes) + '</blockquote>')
+        elif _CHIP_RE.match(p):
+            items = []
+            while i < len(paras) and _CHIP_RE.match(paras[i]):
+                items.append(paras[i])
+                i += 1
+            if len(items) == 1:
+                out.append('<p>' + md_inline(items[0]) + '</p>')
+            else:
+                out.append('<ol class="steps">' + ''.join('<li>' + md_inline(x) + '</li>' for x in items) + '</ol>')
         else:
             out.append('<p>' + md_inline(p) + '</p>')
             i += 1
@@ -333,6 +353,9 @@ a:hover{text-decoration:underline}
 .sec p:last-child{margin-bottom:0}
 .sec strong{color:var(--accent)}
 .sec ul,.sec ol{margin:0 0 .9rem;padding-left:1.6rem;max-width:70ch;overflow-wrap:break-word}
+.sec ol.steps{list-style:decimal}
+.sec ol.steps>li{margin-bottom:.85rem}
+.sec ol.steps>li::marker{color:var(--accent);font-weight:700}
 .sec li{margin-bottom:.45rem}
 .sec li::marker{color:var(--accent);font-weight:700}
 .maxim{font-family:var(--serif);font-size:1.12rem;line-height:1.6;font-style:italic;

@@ -45,6 +45,9 @@ a:hover{text-decoration:underline}
 .sec p:last-child{margin-bottom:0}
 .sec strong{color:var(--accent)}
 .sec ul,.sec ol{margin:0 0 .9rem;padding-left:1.6rem;max-width:70ch;overflow-wrap:break-word}
+.sec ol.steps{list-style:decimal}
+.sec ol.steps>li{margin-bottom:.85rem}
+.sec ol.steps>li::marker{color:var(--accent);font-weight:700}
 .sec li{margin-bottom:.45rem}
 .sec li::marker{color:var(--accent);font-weight:700}
 .maxim{font-family:var(--serif);font-size:1.12rem;line-height:1.6;font-style:italic;
