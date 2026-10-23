@@ -195,6 +195,21 @@
   ],
   "libri": [
     {
+      "author": "Dale Carnegie",
+      "center": "Relazioni",
+      "chips": [
+        "Non criticare",
+        "Apprezzamento sincero",
+        "Desiderio altrui",
+        "Ascolto e nomi"
+      ],
+      "date": "20261023",
+      "slug": "trattare-altri-farseli-amici",
+      "title": "Come trattare gli altri e farseli amici",
+      "topic": "Persuasione e relazioni",
+      "year": 1936
+    },
+    {
       "author": "Roger Fisher e William Ury",
       "center": "Accordo",
       "chips": [
