@@ -175,6 +175,22 @@
       "sub": "René Descartes (Cartesio) · 1596–1650",
       "title": "Cartesio",
       "year": 1596
+    },
+    {
+      "center": "Attenzione",
+      "chips": [
+        "Attenzione",
+        "Sventura",
+        "Sradicamento",
+        "Lavoro"
+      ],
+      "date": "20261023",
+      "img": "simone-weil.jpg",
+      "quote": "L'attenzione è la più rara e pura forma di generosità",
+      "slug": "simone-weil",
+      "sub": "Simone Weil · 1909–1943",
+      "title": "Simone Weil",
+      "year": 1909
     }
   ],
   "libri": [
