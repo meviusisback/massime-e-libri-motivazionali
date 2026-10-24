@@ -211,6 +211,21 @@
   ],
   "libri": [
     {
+      "author": "Brian Tracy",
+      "center": "Psicologia",
+      "chips": [
+        "Termostato del reddito",
+        "Compra l'emozione",
+        "Autostima e no",
+        "Vendi da amico"
+      ],
+      "date": "20261024",
+      "slug": "psychology-of-selling",
+      "title": "The Psychology of Selling",
+      "topic": "Vendite",
+      "year": 2004
+    },
+    {
       "author": "Dale Carnegie",
       "center": "Relazioni",
       "chips": [
