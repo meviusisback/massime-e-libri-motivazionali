@@ -191,6 +191,22 @@
       "sub": "Simone Weil · 1909–1943",
       "title": "Simone Weil",
       "year": 1909
+    },
+    {
+      "center": "Divenire",
+      "chips": [
+        "Tutto scorre",
+        "Opposti",
+        "Logos",
+        "Fuoco"
+      ],
+      "date": "20261024",
+      "img": "eraclito.jpg",
+      "quote": "Non si può discendere due volte nel medesimo fiume",
+      "slug": "eraclito",
+      "sub": "Eraclito di Efeso · 535 ca.–475 ca. a.C.",
+      "title": "Eraclito",
+      "year": -535
     }
   ],
   "libri": [
