@@ -207,6 +207,22 @@
       "sub": "Eraclito di Efeso · 535 ca.–475 ca. a.C.",
       "title": "Eraclito",
       "year": -535
+    },
+    {
+      "slug": "tommaso-d-aquino",
+      "title": "Tommaso d'Aquino",
+      "sub": "Tommaso d'Aquino · 1225–1274",
+      "date": "20261025",
+      "img": "tommaso-d-aquino.jpg",
+      "quote": "La grazia non distrugge la natura, ma la perfeziona",
+      "center": "Grazia",
+      "chips": [
+        "Fede e ragione",
+        "Legge naturale",
+        "Cinque vie",
+        "Virtù"
+      ],
+      "year": 1225
     }
   ],
   "libri": [
