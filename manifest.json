@@ -227,6 +227,21 @@
   ],
   "libri": [
     {
+      "author": "Tony Robbins",
+      "center": "Decisioni",
+      "chips": [
+        "Alza gli standard",
+        "Dolore e piacere",
+        "Domande potenzianti",
+        "Azione massiccia"
+      ],
+      "date": "20261025",
+      "slug": "awaken-the-giant-within",
+      "title": "Awaken the Giant Within",
+      "topic": "Successo",
+      "year": 1991
+    },
+    {
       "author": "Brian Tracy",
       "center": "Psicologia",
       "chips": [
