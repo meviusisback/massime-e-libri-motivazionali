@@ -243,6 +243,21 @@
   ],
   "libri": [
     {
+      "author": "David D. Burns",
+      "center": "Pensieri",
+      "chips": [
+        "Senti ciò che pensi",
+        "Dieci distorsioni",
+        "Tre colonne",
+        "Azione prima"
+      ],
+      "date": "20261026",
+      "slug": "feeling-good",
+      "title": "Feeling Good",
+      "topic": "Emozioni e umore",
+      "year": 1980
+    },
+    {
       "author": "Tony Robbins",
       "center": "Decisioni",
       "chips": [
