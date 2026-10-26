@@ -223,6 +223,22 @@
         "Virtù"
       ],
       "year": 1225
+    },
+    {
+      "slug": "pascal",
+      "title": "Blaise Pascal",
+      "sub": "Blaise Pascal · 1623–1662",
+      "date": "20261026",
+      "img": "pascal.jpg",
+      "quote": "Il cuore ha le sue ragioni, che la ragione non conosce",
+      "center": "Cuore",
+      "chips": [
+        "Cuore e ragione",
+        "Scommessa",
+        "Canna pensante",
+        "Divertissement"
+      ],
+      "year": 1623
     }
   ],
   "libri": [
