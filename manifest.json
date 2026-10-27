@@ -259,6 +259,21 @@
   ],
   "libri": [
     {
+      "author": "Cal Newport",
+      "center": "Competenza",
+      "chips": [
+        "Basta passione",
+        "Mentalità artigiano",
+        "Capitale di carriera",
+        "Piccole scommesse"
+      ],
+      "date": "20261027",
+      "slug": "so-good-they-cant-ignore-you",
+      "title": "So Good They Can't Ignore You",
+      "topic": "Carriera",
+      "year": 2012
+    },
+    {
       "author": "David D. Burns",
       "center": "Pensieri",
       "chips": [
