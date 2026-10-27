@@ -239,6 +239,22 @@
         "Divertissement"
       ],
       "year": 1623
+    },
+    {
+      "slug": "epicuro",
+      "title": "Epicuro",
+      "sub": "Epicuro di Samo · 341–270 a.C.",
+      "date": "20261027",
+      "img": "epicuro.jpg",
+      "quote": "La morte non è nulla per noi",
+      "center": "Piacere",
+      "chips": [
+        "Morte",
+        "Tetrafarmaco",
+        "Desideri",
+        "Amicizia"
+      ],
+      "year": -341
     }
   ],
   "libri": [
