@@ -255,6 +255,22 @@
         "Amicizia"
       ],
       "year": -341
+    },
+    {
+      "slug": "arthur-schopenhauer",
+      "title": "Schopenhauer",
+      "sub": "Arthur Schopenhauer · 1788–1860",
+      "date": "20261028",
+      "img": "arthur-schopenhauer.jpg",
+      "quote": "La vita oscilla tra dolore e noia",
+      "center": "Volontà",
+      "chips": [
+        "Desiderio",
+        "Noia",
+        "Compassione",
+        "Arte"
+      ],
+      "year": 1788
     }
   ],
   "libri": [
