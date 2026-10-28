@@ -275,6 +275,21 @@
   ],
   "libri": [
     {
+      "author": "Robert B. Cialdini",
+      "center": "Momenti",
+      "chips": [
+        "Momenti privilegiati",
+        "Attenzione e causa",
+        "Domande che orientano",
+        "Unità"
+      ],
+      "date": "20261028",
+      "slug": "pre-suasion",
+      "title": "Pre-Suasion",
+      "topic": "Persuasione",
+      "year": 2016
+    },
+    {
       "author": "Cal Newport",
       "center": "Competenza",
       "chips": [
