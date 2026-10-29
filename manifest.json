@@ -291,6 +291,21 @@
   ],
   "libri": [
     {
+      "author": "Dale Carnegie",
+      "center": "Coraggio",
+      "chips": [
+        "Desiderio e pratica",
+        "Parla di ciò che vivi",
+        "Entusiasmo contagioso",
+        "Formula magica"
+      ],
+      "date": "20261029",
+      "slug": "parlare-pubblico-convincere",
+      "title": "Come parlare in pubblico e convincere gli altri",
+      "topic": "Public speaking",
+      "year": 1962
+    },
+    {
       "author": "Robert B. Cialdini",
       "center": "Momenti",
       "chips": [
