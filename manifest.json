@@ -271,6 +271,22 @@
         "Arte"
       ],
       "year": 1788
+    },
+    {
+      "slug": "david-hume",
+      "title": "David Hume",
+      "sub": "David Hume · 1711–1776",
+      "date": "20261029",
+      "img": "david-hume.jpg",
+      "quote": "La ragione è schiava delle passioni",
+      "center": "Passioni",
+      "chips": [
+        "Abitudine",
+        "Scetticismo",
+        "Simpatia",
+        "Esperienza"
+      ],
+      "year": 1711
     }
   ],
   "libri": [
