@@ -307,6 +307,21 @@
   ],
   "libri": [
     {
+      "author": "Robert M. Sapolsky",
+      "center": "Stress",
+      "chips": [
+        "Acuto vs cronico",
+        "Controllo percepito",
+        "Sfogo e branco",
+        "Sonno e movimento"
+      ],
+      "date": "20261030",
+      "slug": "perche-zebre-non-viene-ulcera",
+      "title": "Perché alle zebre non viene l'ulcera?",
+      "topic": "Gestione dello stress",
+      "year": 1994
+    },
+    {
       "author": "Dale Carnegie",
       "center": "Coraggio",
       "chips": [
