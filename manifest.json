@@ -287,6 +287,22 @@
         "Esperienza"
       ],
       "year": 1711
+    },
+    {
+      "slug": "hegel",
+      "title": "Hegel",
+      "sub": "Georg Wilhelm Friedrich Hegel · 1770–1831",
+      "date": "20261030",
+      "img": "hegel.jpg",
+      "quote": "Ciò che è razionale è reale; e ciò che è reale è razionale",
+      "center": "Ragione",
+      "chips": [
+        "Dialettica",
+        "Spirito",
+        "Stato",
+        "Storia"
+      ],
+      "year": 1770
     }
   ],
   "libri": [
