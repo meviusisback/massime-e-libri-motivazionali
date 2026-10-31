@@ -323,6 +323,21 @@
   ],
   "libri": [
     {
+      "author": "Angela Duckworth",
+      "center": "Tenacia",
+      "chips": [
+        "Passione e perseveranza",
+        "Impegno conta due volte",
+        "Pratica deliberata",
+        "Mentalita di crescita"
+      ],
+      "date": "20261031",
+      "slug": "grit",
+      "title": "Grit",
+      "topic": "Successo e perseveranza",
+      "year": 2016
+    },
+    {
       "author": "Robert M. Sapolsky",
       "center": "Stress",
       "chips": [
