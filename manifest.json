@@ -303,6 +303,22 @@
         "Storia"
       ],
       "year": 1770
+    },
+    {
+      "slug": "albert-camus",
+      "title": "Camus",
+      "sub": "Albert Camus · 1913–1960",
+      "date": "20261031",
+      "img": "albert-camus.jpg",
+      "quote": "Bisogna immaginare Sisifo felice",
+      "center": "Assurdo",
+      "chips": [
+        "Rivolta",
+        "Libertà",
+        "Solidarietà",
+        "Misura"
+      ],
+      "year": 1913
     }
   ],
   "libri": [
