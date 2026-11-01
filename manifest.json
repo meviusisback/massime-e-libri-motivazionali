@@ -339,6 +339,21 @@
   ],
   "libri": [
     {
+      "author": "Daniel H. Pink",
+      "center": "Motivazione",
+      "chips": [
+        "Bastone e carota",
+        "Tipo I batte Tipo X",
+        "Autonomia padronanza scopo",
+        "Paga zen"
+      ],
+      "date": "20261101",
+      "slug": "drive",
+      "title": "Drive",
+      "topic": "Carriera e motivazione",
+      "year": 2009
+    },
+    {
       "author": "Angela Duckworth",
       "center": "Tenacia",
       "chips": [
