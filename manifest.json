@@ -319,6 +319,22 @@
         "Misura"
       ],
       "year": 1913
+    },
+    {
+      "slug": "marco-aurelio",
+      "title": "Marco Aurelio",
+      "sub": "Marco Aurelio · 121–180",
+      "date": "20261101",
+      "img": "marco-aurelio.jpg",
+      "quote": "La felicità della tua vita dipende dalla qualità dei tuoi pensieri",
+      "center": "Giudizio",
+      "chips": [
+        "Pensieri",
+        "Natura",
+        "Morte",
+        "Dovere"
+      ],
+      "year": 121
     }
   ],
   "libri": [
