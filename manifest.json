@@ -355,6 +355,21 @@
   ],
   "libri": [
     {
+      "slug": "emotional-agility",
+      "title": "Agilità emotiva",
+      "author": "Susan David",
+      "date": "20261102",
+      "year": 2016,
+      "topic": "Emozioni e resilienza",
+      "center": "Agilita",
+      "chips": [
+        "Sganciarsi dagli ami",
+        "Mostrati e osserva",
+        "Vivi i tuoi valori",
+        "Piccoli ritocchi"
+      ]
+    },
+    {
       "author": "Daniel H. Pink",
       "center": "Motivazione",
       "chips": [
