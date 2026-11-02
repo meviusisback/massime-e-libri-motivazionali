@@ -335,6 +335,22 @@
         "Dovere"
       ],
       "year": 121
+    },
+    {
+      "slug": "rousseau",
+      "title": "Rousseau",
+      "sub": "Jean-Jacques Rousseau · 1712–1778",
+      "date": "20261102",
+      "img": "rousseau.jpg",
+      "quote": "L'uomo è nato libero, e ovunque è in catene",
+      "center": "Libertà",
+      "chips": [
+        "Volontà generale",
+        "Disuguaglianza",
+        "Educazione",
+        "Sentimento"
+      ],
+      "year": 1712
     }
   ],
   "libri": [
