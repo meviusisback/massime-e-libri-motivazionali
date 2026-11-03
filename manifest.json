@@ -351,6 +351,22 @@
         "Sentimento"
       ],
       "year": 1712
+    },
+    {
+      "slug": "karl-marx",
+      "title": "Karl Marx",
+      "sub": "Karl Marx · 1818–1883",
+      "date": "20261103",
+      "img": "karl-marx.jpg",
+      "quote": "I filosofi hanno solo interpretato il mondo; ora si tratta di cambiarlo",
+      "center": "Prassi",
+      "chips": [
+        "Lotta di classe",
+        "Plusvalore",
+        "Alienazione",
+        "Materialismo storico"
+      ],
+      "year": 1818
     }
   ],
   "libri": [
