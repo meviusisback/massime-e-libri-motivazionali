@@ -371,6 +371,21 @@
   ],
   "libri": [
     {
+      "slug": "potere-delle-abitudini",
+      "title": "Il potere delle abitudini",
+      "author": "Charles Duhigg",
+      "date": "20261103",
+      "year": 2012,
+      "topic": "Successo e abitudini",
+      "center": "Abitudini",
+      "chips": [
+        "Segnale routine gratificazione",
+        "Regola d'oro del cambiamento",
+        "Abitudini chiave di volta",
+        "Forza di volonta e credenza"
+      ]
+    },
+    {
       "slug": "emotional-agility",
       "title": "Agilità emotiva",
       "author": "Susan David",
