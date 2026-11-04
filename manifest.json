@@ -367,6 +367,22 @@
         "Materialismo storico"
       ],
       "year": 1818
+    },
+    {
+      "slug": "soren-kierkegaard",
+      "title": "Kierkegaard",
+      "sub": "Søren Kierkegaard · 1813–1855",
+      "date": "20261104",
+      "img": "soren-kierkegaard.jpg",
+      "quote": "La vita può essere capita solo all'indietro, ma va vissuta in avanti",
+      "center": "Scelta",
+      "chips": [
+        "Singolo",
+        "Angoscia",
+        "Salto",
+        "Fede"
+      ],
+      "year": 1813
     }
   ],
   "libri": [
