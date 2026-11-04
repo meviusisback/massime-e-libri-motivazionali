@@ -387,6 +387,21 @@
   ],
   "libri": [
     {
+      "slug": "made-to-stick",
+      "title": "Made to Stick",
+      "author": "Chip Heath e Dan Heath",
+      "date": "20261104",
+      "year": 2007,
+      "topic": "Persuasione e comunicazione",
+      "center": "Idee che restano",
+      "chips": [
+        "Semplice",
+        "Inatteso e concreto",
+        "Credibile ed emotivo",
+        "Storie"
+      ]
+    },
+    {
       "slug": "potere-delle-abitudini",
       "title": "Il potere delle abitudini",
       "author": "Charles Duhigg",
