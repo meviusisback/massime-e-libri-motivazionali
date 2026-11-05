@@ -383,6 +383,22 @@
         "Fede"
       ],
       "year": 1813
+    },
+    {
+      "slug": "voltaire",
+      "title": "Voltaire",
+      "sub": "Voltaire · 1694–1778",
+      "date": "20261105",
+      "img": "voltaire.jpg",
+      "quote": "Se Dio non esistesse, bisognerebbe inventarlo",
+      "center": "Tolleranza",
+      "chips": [
+        "Deismo",
+        "Tolleranza",
+        "Ragione",
+        "Libertà di parola"
+      ],
+      "year": 1694
     }
   ],
   "libri": [
