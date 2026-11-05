@@ -403,6 +403,21 @@
   ],
   "libri": [
     {
+      "slug": "start-with-why",
+      "title": "Start with Why (Partire dal perché)",
+      "author": "Simon Sinek",
+      "date": "20261105",
+      "year": 2009,
+      "topic": "Carriera e leadership",
+      "center": "Parti dal perché",
+      "chips": [
+        "Golden Circle",
+        "Ispira non manipolare",
+        "Legge della diffusione",
+        "Chiarezza disciplina coerenza"
+      ]
+    },
+    {
       "slug": "made-to-stick",
       "title": "Made to Stick",
       "author": "Chip Heath e Dan Heath",
