@@ -419,6 +419,21 @@
   ],
   "libri": [
     {
+      "slug": "to-sell-is-human",
+      "title": "To Sell Is Human (Vendere è umano)",
+      "author": "Daniel H. Pink",
+      "date": "20261106",
+      "year": 2012,
+      "topic": "Vendite e persuasione",
+      "center": "Muovere gli altri",
+      "chips": [
+        "Sintonizzazione",
+        "Galleggiabilita",
+        "Chiarezza",
+        "Servi per primo"
+      ]
+    },
+    {
       "slug": "start-with-why",
       "title": "Start with Why (Partire dal perché)",
       "author": "Simon Sinek",
