@@ -399,6 +399,22 @@
         "Libertà di parola"
       ],
       "year": 1694
+    },
+    {
+      "slug": "michel-de-montaigne",
+      "title": "Michel de Montaigne",
+      "sub": "Michel de Montaigne · 1533–1592",
+      "date": "20261106",
+      "img": "michel-de-montaigne.jpg",
+      "quote": "La più grande cosa del mondo è saper appartenere a se stessi",
+      "center": "Sé stessi",
+      "chips": [
+        "Scetticismo",
+        "Solitudine",
+        "Io",
+        "Tolleranza"
+      ],
+      "year": 1533
     }
   ],
   "libri": [
