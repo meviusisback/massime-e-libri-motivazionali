@@ -415,6 +415,22 @@
         "Tolleranza"
       ],
       "year": 1533
+    },
+    {
+      "slug": "ludwig-wittgenstein",
+      "title": "Wittgenstein",
+      "sub": "Ludwig Wittgenstein · 1889–1951",
+      "date": "20261107",
+      "img": "ludwig-wittgenstein.jpg",
+      "quote": "Su ciò di cui non si può parlare, si deve tacere",
+      "center": "Silenzio",
+      "chips": [
+        "Dire e mostrare",
+        "Giochi linguistici",
+        "Significato è uso",
+        "Terapia"
+      ],
+      "year": 1889
     }
   ],
   "libri": [
