@@ -435,6 +435,21 @@
   ],
   "libri": [
     {
+      "slug": "difficult-conversations",
+      "title": "Difficult Conversations (Conversazioni difficili)",
+      "author": "Douglas Stone, Bruce Patton e Sheila Heen",
+      "date": "20261107",
+      "year": 1999,
+      "topic": "Negoziazione e comunicazione",
+      "center": "Terza storia",
+      "chips": [
+        "Tre conversazioni",
+        "Intento e impatto",
+        "Colpa e contributo",
+        "Terza storia"
+      ]
+    },
+    {
       "slug": "to-sell-is-human",
       "title": "To Sell Is Human (Vendere è umano)",
       "author": "Daniel H. Pink",
