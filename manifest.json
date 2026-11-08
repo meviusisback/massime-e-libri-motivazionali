@@ -431,6 +431,22 @@
         "Terapia"
       ],
       "year": 1889
+    },
+    {
+      "slug": "diogene-di-sinope",
+      "title": "Diogene di Sinope",
+      "sub": "Diogene di Sinope · 412 ca.–323 ca. a.C.",
+      "date": "20261108",
+      "img": "diogene-di-sinope.jpg",
+      "quote": "Togliti dal mio sole",
+      "center": "Libertà",
+      "chips": [
+        "Autarchia",
+        "Natura",
+        "Franchezza",
+        "Cosmopolitismo"
+      ],
+      "year": -412
     }
   ],
   "libri": [
