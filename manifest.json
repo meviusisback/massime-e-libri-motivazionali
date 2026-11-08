@@ -451,6 +451,21 @@
   ],
   "libri": [
     {
+      "slug": "pensa-e-arricchisci-te-stesso",
+      "title": "Pensa e arricchisci te stesso",
+      "author": "Napoleon Hill",
+      "date": "20261108",
+      "year": 1937,
+      "topic": "Successo e mentalita",
+      "center": "Desiderio",
+      "chips": [
+        "Desiderio ardente",
+        "Fede e autosuggestione",
+        "Master Mind",
+        "Persistenza"
+      ]
+    },
+    {
       "slug": "difficult-conversations",
       "title": "Difficult Conversations (Conversazioni difficili)",
       "author": "Douglas Stone, Bruce Patton e Sheila Heen",
