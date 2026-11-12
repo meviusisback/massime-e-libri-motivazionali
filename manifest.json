@@ -467,6 +467,21 @@
   ],
   "libri": [
     {
+      "slug": "lato-positivo-dello-stress",
+      "title": "Il lato positivo dello stress",
+      "author": "Kelly McGonigal",
+      "date": "20261112",
+      "year": 2015,
+      "topic": "Gestione dello stress",
+      "center": "Mindset",
+      "chips": [
+        "Mindset potenziante",
+        "Stress e significato",
+        "Risposta di sfida",
+        "Tendi-e-fai-amicizia"
+      ]
+    },
+    {
       "slug": "pensa-e-arricchisci-te-stesso",
       "title": "Pensa e arricchisci te stesso",
       "author": "Napoleon Hill",
