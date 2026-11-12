@@ -447,6 +447,22 @@
         "Cosmopolitismo"
       ],
       "year": -412
+    },
+    {
+      "slug": "jean-paul-sartre",
+      "title": "Jean-Paul Sartre",
+      "sub": "Jean-Paul Sartre · 1905–1980",
+      "date": "20261112",
+      "img": "jean-paul-sartre.jpg",
+      "quote": "L'uomo è condannato a essere libero",
+      "center": "Libertà",
+      "chips": [
+        "Responsabilità",
+        "Malafede",
+        "Scelta",
+        "Impegno"
+      ],
+      "year": 1905
     }
   ],
   "libri": [
