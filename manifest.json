@@ -463,6 +463,22 @@
         "Impegno"
       ],
       "year": 1905
+    },
+    {
+      "slug": "john-locke",
+      "title": "John Locke",
+      "sub": "John Locke · 1632–1704",
+      "date": "20261113",
+      "img": "john-locke.jpg",
+      "quote": "La mente è un foglio bianco: tutto viene dall'esperienza",
+      "center": "Esperienza",
+      "chips": [
+        "Tabula rasa",
+        "Tolleranza",
+        "Consenso",
+        "Proprietà"
+      ],
+      "year": 1632
     }
   ],
   "libri": [
