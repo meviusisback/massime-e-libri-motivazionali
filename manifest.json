@@ -483,6 +483,21 @@
   ],
   "libri": [
     {
+      "slug": "pensieri-lenti-e-veloci",
+      "title": "Pensieri lenti e veloci (Thinking, Fast and Slow)",
+      "author": "Daniel Kahneman",
+      "date": "20261113",
+      "year": 2011,
+      "topic": "Emozioni e decisioni",
+      "center": "Due sistemi",
+      "chips": [
+        "Sistema 1 e Sistema 2",
+        "WYSIATI",
+        "Ancoraggio",
+        "Avversione alla perdita"
+      ]
+    },
+    {
       "slug": "lato-positivo-dello-stress",
       "title": "Il lato positivo dello stress",
       "author": "Kelly McGonigal",
