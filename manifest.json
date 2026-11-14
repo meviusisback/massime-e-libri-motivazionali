@@ -479,9 +479,40 @@
         "Proprietà"
       ],
       "year": 1632
+    },
+    {
+      "slug": "thomas-hobbes",
+      "title": "Thomas Hobbes",
+      "sub": "Thomas Hobbes · 1588–1679",
+      "date": "20261114",
+      "img": "thomas-hobbes.jpg",
+      "quote": "Senza Stato, la vita è solitaria, brutale e breve",
+      "center": "Patto",
+      "chips": [
+        "Stato di natura",
+        "Leviatano",
+        "Sovranità",
+        "Paura"
+      ],
+      "year": 1588
     }
   ],
   "libri": [
+    {
+      "slug": "essentialism",
+      "title": "Essentialism (Dritto al sodo)",
+      "author": "Greg McKeown",
+      "date": "20261114",
+      "year": 2014,
+      "topic": "Carriera e focus",
+      "center": "Meno ma meglio",
+      "chips": [
+        "Scegli tu",
+        "Pochi contano",
+        "Se non è un sì, è un no",
+        "Sistema facile"
+      ]
+    },
     {
       "slug": "pensieri-lenti-e-veloci",
       "title": "Pensieri lenti e veloci (Thinking, Fast and Slow)",
