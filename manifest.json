@@ -495,6 +495,22 @@
         "Paura"
       ],
       "year": 1588
+    },
+    {
+      "slug": "leibniz",
+      "title": "Leibniz",
+      "sub": "Gottfried Wilhelm Leibniz · 1646–1716",
+      "date": "20261115",
+      "img": "leibniz.jpg",
+      "quote": "Nulla accade senza una ragione sufficiente",
+      "center": "Ragione",
+      "chips": [
+        "Ragion sufficiente",
+        "Monadi",
+        "Armonia",
+        "Mondo migliore"
+      ],
+      "year": 1646
     }
   ],
   "libri": [
