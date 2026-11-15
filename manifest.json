@@ -515,6 +515,21 @@
   ],
   "libri": [
     {
+      "slug": "ted-talks",
+      "title": "TED Talks",
+      "author": "Chris Anderson",
+      "date": "20261115",
+      "year": 2016,
+      "topic": "Public speaking",
+      "center": "Un'idea sola",
+      "chips": [
+        "Un'idea sola",
+        "Connessione",
+        "Narrazione",
+        "Prova generale"
+      ]
+    },
+    {
       "slug": "essentialism",
       "title": "Essentialism (Dritto al sodo)",
       "author": "Greg McKeown",
