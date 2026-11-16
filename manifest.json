@@ -531,6 +531,21 @@
   ],
   "libri": [
     {
+      "slug": "nudge-la-spinta-gentile",
+      "title": "Nudge. La spinta gentile",
+      "author": "Richard H. Thaler e Cass R. Sunstein",
+      "date": "20261116",
+      "year": 2008,
+      "topic": "Persuasione e decisioni",
+      "center": "Spinta gentile",
+      "chips": [
+        "Econs contro Humans",
+        "Design non neutrale",
+        "Potere del default",
+        "Rendilo facile"
+      ]
+    },
+    {
       "slug": "ted-talks",
       "title": "TED Talks",
       "author": "Chris Anderson",
