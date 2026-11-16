@@ -511,6 +511,22 @@
         "Mondo migliore"
       ],
       "year": 1646
+    },
+    {
+      "slug": "henry-david-thoreau",
+      "title": "Henry David Thoreau",
+      "sub": "Henry David Thoreau · 1817–1862",
+      "date": "20261116",
+      "img": "henry-david-thoreau.jpg",
+      "quote": "Andai nei boschi per vivere con saggezza",
+      "center": "Essenziale",
+      "chips": [
+        "Vita deliberata",
+        "Disobbedienza",
+        "Natura",
+        "Semplicità"
+      ],
+      "year": 1817
     }
   ],
   "libri": [
