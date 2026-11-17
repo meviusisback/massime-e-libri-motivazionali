@@ -547,6 +547,21 @@
   ],
   "libri": [
     {
+      "slug": "settimana-lavorativa-4-ore",
+      "title": "La settimana lavorativa di 4 ore",
+      "author": "Timothy Ferriss",
+      "date": "20261117",
+      "year": 2007,
+      "topic": "Carriera e liberta",
+      "center": "Lifestyle design",
+      "chips": [
+        "Nuovi Ricchi",
+        "80/20 e Parkinson",
+        "Musa automatica",
+        "Mini-pensioni"
+      ]
+    },
+    {
       "slug": "nudge-la-spinta-gentile",
       "title": "Nudge. La spinta gentile",
       "author": "Richard H. Thaler e Cass R. Sunstein",
