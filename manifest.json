@@ -527,6 +527,22 @@
         "Semplicità"
       ],
       "year": 1817
+    },
+    {
+      "slug": "john-stuart-mill",
+      "title": "John Stuart Mill",
+      "sub": "John Stuart Mill · 1806–1873",
+      "date": "20261117",
+      "img": "john-stuart-mill.jpg",
+      "quote": "L'unico scopo legittimo del potere è evitare danno agli altri",
+      "center": "Libertà",
+      "chips": [
+        "Danno agli altri",
+        "Libertà di parola",
+        "Utilitarismo",
+        "Emancipazione"
+      ],
+      "year": 1806
     }
   ],
   "libri": [
