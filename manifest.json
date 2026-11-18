@@ -543,6 +543,22 @@
         "Emancipazione"
       ],
       "year": 1806
+    },
+    {
+      "slug": "henri-bergson",
+      "title": "Henri Bergson",
+      "sub": "Henri Bergson · 1859–1941",
+      "date": "20261118",
+      "img": "henri-bergson.jpg",
+      "quote": "Esistere è cambiare, cambiare è maturare, maturare è continuare a creare se stessi senza fine",
+      "center": "Durata",
+      "chips": [
+        "Slancio vitale",
+        "Intuizione",
+        "Memoria",
+        "Evoluzione creatrice"
+      ],
+      "year": 1859
     }
   ],
   "libri": [
