@@ -563,6 +563,21 @@
   ],
   "libri": [
     {
+      "slug": "the-challenger-sale",
+      "title": "The Challenger Sale (Il venditore sfidante)",
+      "author": "Matthew Dixon e Brent Adamson",
+      "date": "20261118",
+      "year": 2011,
+      "topic": "Vendite B2B",
+      "center": "Sfida",
+      "chips": [
+        "Cinque profili",
+        "Teach Tailor Control",
+        "Tensione costruttiva",
+        "Esperienza d'acquisto"
+      ]
+    },
+    {
       "slug": "settimana-lavorativa-4-ore",
       "title": "La settimana lavorativa di 4 ore",
       "author": "Timothy Ferriss",
