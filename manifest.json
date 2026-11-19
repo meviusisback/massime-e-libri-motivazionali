@@ -579,6 +579,21 @@
   ],
   "libri": [
     {
+      "slug": "le-parole-sono-finestre",
+      "title": "Le parole sono finestre (oppure muri)",
+      "author": "Marshall B. Rosenberg",
+      "date": "20261119",
+      "year": 1999,
+      "topic": "Emozioni e comunicazione",
+      "center": "Bisogni",
+      "chips": [
+        "Osserva senza valutare",
+        "Sentimenti messaggeri",
+        "Chiedi non pretendere",
+        "Empatia"
+      ]
+    },
+    {
       "slug": "the-challenger-sale",
       "title": "The Challenger Sale (Il venditore sfidante)",
       "author": "Matthew Dixon e Brent Adamson",
