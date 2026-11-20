@@ -595,6 +595,21 @@
   ],
   "libri": [
     {
+      "slug": "sottile-arte-fare-quello-che-ti-pare",
+      "title": "La sottile arte di fare quello che c***o ti pare",
+      "author": "Mark Manson",
+      "date": "20261120",
+      "year": 2016,
+      "topic": "Crescita personale",
+      "center": "Valori",
+      "chips": [
+        "Scegli le lotte",
+        "Valori buoni",
+        "Responsabilita",
+        "Fallire per crescere"
+      ]
+    },
+    {
       "slug": "le-parole-sono-finestre",
       "title": "Le parole sono finestre (oppure muri)",
       "author": "Marshall B. Rosenberg",
