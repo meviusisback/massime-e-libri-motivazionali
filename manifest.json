@@ -575,6 +575,22 @@
         "Virtù"
       ],
       "year": 204
+    },
+    {
+      "slug": "cicerone",
+      "title": "Cicerone",
+      "sub": "Cicerone · 106–43 a.C.",
+      "date": "20261120",
+      "img": "cicerone.jpg",
+      "quote": "La storia, maestra di vita",
+      "center": "Memoria",
+      "chips": [
+        "Storia",
+        "Eloquenza",
+        "Diritto naturale",
+        "Repubblica"
+      ],
+      "year": -106
     }
   ],
   "libri": [
