@@ -591,6 +591,22 @@
         "Repubblica"
       ],
       "year": -106
+    },
+    {
+      "slug": "protagora",
+      "title": "Protagora",
+      "sub": "Protagora di Abdera · 490–420 a.C. ca.",
+      "date": "20261121",
+      "img": "protagora.jpg",
+      "quote": "L'uomo è misura di tutte le cose",
+      "center": "Misura",
+      "chips": [
+        "Relativismo",
+        "Retorica",
+        "Sofisti",
+        "Democrazia"
+      ],
+      "year": -490
     }
   ],
   "libri": [
