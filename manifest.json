@@ -607,6 +607,22 @@
         "Democrazia"
       ],
       "year": -490
+    },
+    {
+      "slug": "democrito",
+      "title": "Democrito",
+      "sub": "Democrito di Abdera · 460 ca.–370 ca. a.C.",
+      "date": "20261122",
+      "img": "democrito.jpg",
+      "quote": "Per convenzione il dolce, per convenzione l'amaro: in verità solo atomi e vuoto",
+      "center": "Atomi",
+      "chips": [
+        "Atomi e vuoto",
+        "Convenzione",
+        "Eutimia",
+        "Riso del saggio"
+      ],
+      "year": -460
     }
   ],
   "libri": [
