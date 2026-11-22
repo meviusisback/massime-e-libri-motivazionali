@@ -627,6 +627,21 @@
   ],
   "libri": [
     {
+      "slug": "resonate",
+      "title": "Resonate",
+      "author": "Nancy Duarte",
+      "date": "20261122",
+      "year": 2010,
+      "topic": "Public speaking",
+      "center": "Pubblico eroe",
+      "chips": [
+        "Pubblico eroe",
+        "Cio che e e cio che potrebbe essere",
+        "Contrasto",
+        "Chiamata allazione"
+      ]
+    },
+    {
       "slug": "getting-past-no",
       "title": "Getting Past No (Come superare il No)",
       "author": "William Ury",
