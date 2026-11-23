@@ -643,6 +643,21 @@
   ],
   "libri": [
     {
+      "slug": "give-and-take",
+      "title": "Give and Take (Dare e avere)",
+      "author": "Adam Grant",
+      "date": "20261123",
+      "year": 2013,
+      "topic": "Carriera e successo",
+      "center": "Dare per vincere",
+      "chips": [
+        "Giver taker matcher",
+        "Favore da cinque minuti",
+        "Comunicazione umile",
+        "Dare con confini"
+      ]
+    },
+    {
       "slug": "resonate",
       "title": "Resonate",
       "author": "Nancy Duarte",
