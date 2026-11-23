@@ -623,6 +623,22 @@
         "Riso del saggio"
       ],
       "year": -460
+    },
+    {
+      "slug": "karl-popper",
+      "title": "Karl Popper",
+      "sub": "Karl Popper · 1902–1994",
+      "date": "20261123",
+      "img": "karl-popper.jpg",
+      "quote": "La tolleranza illimitata porta alla scomparsa della tolleranza",
+      "center": "Critica",
+      "chips": [
+        "Falsificabilità",
+        "Società aperta",
+        "Tolleranza",
+        "Congetture"
+      ],
+      "year": 1902
     }
   ],
   "libri": [
