@@ -659,6 +659,21 @@
   ],
   "libri": [
     {
+      "slug": "exactly-what-to-say",
+      "title": "Exactly What to Say (Le parole magiche)",
+      "author": "Phil M. Jones",
+      "date": "20261124",
+      "year": 2017,
+      "topic": "Vendite e persuasione",
+      "center": "Parole magiche",
+      "chips": [
+        "Apertura senza rifiuto",
+        "Mentalita aperta",
+        "Futuro anticipato",
+        "Rendere il si facile"
+      ]
+    },
+    {
       "slug": "give-and-take",
       "title": "Give and Take (Dare e avere)",
       "author": "Adam Grant",
