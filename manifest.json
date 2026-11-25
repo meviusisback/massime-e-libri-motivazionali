@@ -675,6 +675,21 @@
   ],
   "libri": [
     {
+      "slug": "potere-di-adesso",
+      "title": "Il potere di adesso",
+      "author": "Eckhart Tolle",
+      "date": "20261125",
+      "year": 1997,
+      "topic": "Gestione dello stress",
+      "center": "Adesso",
+      "chips": [
+        "Tu non sei la mente",
+        "Tempo psicologico",
+        "Corpo di dolore",
+        "Dire si al presente"
+      ]
+    },
+    {
       "slug": "exactly-what-to-say",
       "title": "Exactly What to Say (Le parole magiche)",
       "author": "Phil M. Jones",
