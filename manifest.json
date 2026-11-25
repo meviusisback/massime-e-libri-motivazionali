@@ -655,6 +655,22 @@
         "Ricorsi"
       ],
       "year": 1668
+    },
+    {
+      "slug": "pitagora",
+      "title": "Pitagora",
+      "sub": "Pitagora di Samo · 570–495 a.C. circa",
+      "date": "20261125",
+      "img": "pitagora.jpg",
+      "quote": "Tutto è numero",
+      "center": "Numero",
+      "chips": [
+        "Armonia",
+        "Cosmos",
+        "Anima",
+        "Misura"
+      ],
+      "year": -570
     }
   ],
   "libri": [
