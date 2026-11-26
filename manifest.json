@@ -671,6 +671,22 @@
         "Misura"
       ],
       "year": -570
+    },
+    {
+      "center": "Potere",
+      "chips": [
+        "Disciplina",
+        "Sapere-potere",
+        "Resistenza",
+        "Cura di sé"
+      ],
+      "date": "20261126",
+      "img": "michel-foucault.jpg",
+      "quote": "Là dove c'è potere, c'è resistenza",
+      "slug": "michel-foucault",
+      "sub": "Michel Foucault · 1926–1984",
+      "title": "Michel Foucault",
+      "year": 1926
     }
   ],
   "libri": [
