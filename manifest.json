@@ -691,6 +691,21 @@
   ],
   "libri": [
     {
+      "slug": "outliers-fuoriclasse",
+      "title": "Fuoriclasse (Outliers)",
+      "author": "Malcolm Gladwell",
+      "date": "20261126",
+      "year": 2008,
+      "topic": "Successo",
+      "center": "Opportunità",
+      "chips": [
+        "10.000 ore",
+        "Vantaggio cumulativo",
+        "Tempismo storico",
+        "Cultura ereditata"
+      ]
+    },
+    {
       "slug": "potere-di-adesso",
       "title": "Il potere di adesso",
       "author": "Eckhart Tolle",
