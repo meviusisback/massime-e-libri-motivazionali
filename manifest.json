@@ -707,6 +707,21 @@
   ],
   "libri": [
     {
+      "slug": "burnout-nagoski",
+      "title": "Burnout",
+      "author": "Emily Nagoski e Amelia Nagoski",
+      "date": "20261127",
+      "year": 2019,
+      "topic": "Gestione dello stress",
+      "center": "Ciclo dello stress",
+      "chips": [
+        "Completa il ciclo",
+        "Movimento",
+        "Monitor",
+        "Riposo"
+      ]
+    },
+    {
       "slug": "outliers-fuoriclasse",
       "title": "Fuoriclasse (Outliers)",
       "author": "Malcolm Gladwell",
