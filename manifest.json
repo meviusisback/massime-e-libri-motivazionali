@@ -687,6 +687,22 @@
       "sub": "Michel Foucault · 1926–1984",
       "title": "Michel Foucault",
       "year": 1926
+    },
+    {
+      "center": "Essere",
+      "chips": [
+        "Esserci",
+        "Autenticità",
+        "Angoscia",
+        "Tecnica"
+      ],
+      "date": "20261127",
+      "img": "martin-heidegger.jpg",
+      "quote": "La scienza non pensa",
+      "slug": "martin-heidegger",
+      "sub": "Martin Heidegger · 1889–1976",
+      "title": "Martin Heidegger",
+      "year": 1889
     }
   ],
   "libri": [
