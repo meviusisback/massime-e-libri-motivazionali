@@ -703,6 +703,22 @@
       "sub": "Martin Heidegger · 1889–1976",
       "title": "Martin Heidegger",
       "year": 1889
+    },
+    {
+      "slug": "francesco-bacone",
+      "title": "Francesco Bacone",
+      "sub": "Francesco Bacone · 1561–1626",
+      "date": "20261128",
+      "img": "francesco-bacone.jpg",
+      "quote": "Sapere è potere",
+      "center": "Sapere",
+      "chips": [
+        "Idoli",
+        "Induzione",
+        "Esperimento",
+        "Progresso"
+      ],
+      "year": 1561
     }
   ],
   "libri": [
