@@ -723,6 +723,21 @@
   ],
   "libri": [
     {
+      "slug": "crucial-conversations",
+      "title": "Crucial Conversations (Conversazioni cruciali)",
+      "author": "Kerry Patterson, Joseph Grenny, Ron McMillan e Al Switzler",
+      "date": "20261128",
+      "year": 2002,
+      "topic": "Persuasione e comunicazione",
+      "center": "Dialogo sicuro",
+      "chips": [
+        "Start with Heart",
+        "Silenzio e violenza",
+        "Scopo comune",
+        "Metodo STATE"
+      ]
+    },
+    {
       "slug": "burnout-nagoski",
       "title": "Burnout",
       "author": "Emily Nagoski e Amelia Nagoski",
